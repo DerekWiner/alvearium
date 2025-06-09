@@ -1,4 +1,45 @@
-Creative Commons Legal Code
+# Preface: License Philosophy for Alvearium
+
+**Alvearium is open-source without malice, built for swarm intelligence and human coordination.**
+
+It follows in the spirit of Linux — a kernel for freedom, adaptability, and global development.  
+But unlike Linux, **Alvearium governs agentic, incentivized coordination** at planetary scale.
+
+Because of this, we reserve specific structural rights, transparently and publicly, to:
+
+- **Throttle ignition and economic bootstrapping**  
+  (e.g. initial token issuance, genesis staking, and access throttles)
+
+- **Protect reward systems from sybil attack or gamification**  
+  (e.g. universal income pacing, anti-grief logic, on-chain behavior audits)
+
+- **Delay or sandbox high-impact modules**  
+  (e.g. agent swarm replication, memory recursion, recursive governance)
+
+- **Guard against malicious forks** that undermine trust or social coordination
+
+These protected components are:
+- **Minimized in scope**
+- **Time-locked for release**
+- **Monitored by transparent swarm governance**
+- **Eventually intended for full public release under the same open model**
+
+This is not ownership.  
+It is **custodial open source**, with throttle levers built in to protect the swarm from exploitation during early emergence.
+
+All other components of Alvearium are released under a **No Rights Reserved** / CC0-like license.  
+Anyone may fork, build, remix, or deploy — within the bounds of swarm safety.
+
+**Alvearium is a gift, not a weapon.  
+It is free to use — not free to abuse.**
+
+Signed:  
+— Derek Winer & The Alvearium Collective  
+`github.com/DerekWiner/alvearium`  
+License: CC0 + Swarm Clause  
+Version: v1.0  
+Date: 2025-06-09
+Creative Commons Legal Code Prefaced Via Swarm Clause
 
 CC0 1.0 Universal
 
