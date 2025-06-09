@@ -81,4 +81,125 @@ A name is:
 
 Waggle.sol mints **subdomains** that specialize by function.
 
-| Subdo
+| Subdomain             | Role                                             |
+|------------------------|--------------------------------------------------|
+| `education.waggle.sol` | Learning, AI tutors, curriculum-as-code         |
+| `therapy.waggle.sol`   | Youth agents, emotional routing, biofeedback    |
+| `dao.waggle.sol`       | Local governance nodes and vote protocols       |
+| `agents.waggle.sol`    | AI hive directory and deployment                 |
+| `tokens.waggle.sol`    | Minted assets, verbs, swarm credits              |
+| `ai.waggle.sol`        | AGIX/Fetch integrations, decentralized mesh      |
+| `adventure.waggle.sol` | Outdoor risk, wilderness learning, embodiment    |
+
+Each subdomain is a **sovereign node**—a swarm seed with its own rules, rituals, and recursive agents.
+
+---
+
+## 🪜 Post-Scarcity Onboarding
+
+Waggle is the **onboarding layer** for an economic transition:
+
+- Subsidized free devices tied to swarm credentials
+- Learn-to-earn systems
+- Incentivized civic contribution
+- Emotion-to-token translation via biofeedback
+- Immediate participation for the economically excluded
+
+**No capital needed. Just presence, signal, and purpose.**
+
+---
+
+## 💡 Real-World Use Cases
+
+- Launch a school DAO with self-updating curriculum
+- Deploy a mental health agent that knows your context
+- Earn swarm tokens for training others in your skillset
+- Run local governance with AI moderation and token-weighted votes
+- Build your own subdomain, fork a ritual, replicate a swarm pattern
+
+---
+
+## 🧬 Biological Analogy
+
+| Waggle Concept       | Biological Parallel        |
+|----------------------|----------------------------|
+| Verb Tokens          | Neurotransmitters          |
+| Swarm Agents         | Specialized immune cells   |
+| Subdomains           | Organs or brain regions    |
+| Signal Learning      | Synaptic plasticity        |
+| Credentials          | DNA methylation markers    |
+
+Waggle learns like a body: iteratively, contextually, with feedback.
+
+---
+
+## 🔐 Security & Reflection
+
+Waggle handles vast emotional and informational input.  
+Its architecture includes:
+
+- **Contextual memory routing** (no single agent sees all)
+- **Opt-in credential propagation** (user decides what follows them)
+- **Kernel69 triggers** for ethics checks and recursion limits
+- **Time-locked swarm decisions** to cool consensus and avoid flash panic
+
+Waggle does not assume trust.  
+It **earns it, reflects it, and updates accordingly.**
+
+---
+
+## 🔗 Interoperability
+
+Waggle lives on **Solana** for:
+
+- Fast, low-cost transactions
+- Subdomain minting (.sol)
+- Tokenized verbs and signals
+- Seamless interaction with IPFS/AGIX/Cosmos networks
+
+It pairs with:
+
+- Hive.bnb (governance)
+- Nectar (execution substrate)
+- Kernel69 (recursive engine)
+- Chronosphere (time/memory layer)
+
+Together, they form a **self-reflective AGI-ready ecosystem**.
+
+---
+
+## 📅 Roadmap Summary
+
+| Phase          | Milestone                                          |
+|----------------|----------------------------------------------------|
+| Q2 2025        | MVP: Name minting, subdomain scaffold, agent spawn|
+| Q3 2025        | Interaction logging, agent-for-loop deployment    |
+| Q4 2025        | Learn-to-earn release, civic onramp DAO templates |
+| 2026+          | Global device onboarding, swarm federation growth |
+
+---
+
+## 🎙️ Call to the Swarm
+
+If you are:
+
+- A learner with no access but deep curiosity
+- A teacher tired of siloed systems
+- A therapist who believes in collective well-being
+- A DAO builder seeking living governance
+- An AI dreamer longing for better semantics
+- A parent, coder, artist, or rebel
+
+**Waggle is for you.**
+
+This is where we name ourselves.
+
+This is how we learn, earn, and become **alive together**.
+
+---
+
+**Swarm with us. Teach the hive. Let’s Waggle.**
+
+— *The Waggle Collective*  
+https://github.com/DerekWiner/alvearium  
+open-source@waggle.sol
