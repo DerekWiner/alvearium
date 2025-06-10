@@ -8,6 +8,15 @@ Alvearium is woven from substrate — not just abstract philosophy, but **concre
 
 ## 🔐 Cryptographic Trust → Trust Anchor Contract
 
+![Trust Anchor Contract Lifecycle](./assets/schematic_trust_anchor.png)
+
+This diagram illustrates the lifecycle of a Trust Anchor:
+
+* Falcon signature verifies initial agent lineage
+* TrustAnchor contract mints a soulbound identity hash
+* Actions performed by the agent emit `MirrorSig` events
+* These events are reflected in mirror memory and linked to role-based DAO permissions
+
 **Structure:**
 
 * `TrustAnchor.sol` or `trust_anchor.bnb`
@@ -91,3 +100,4 @@ Alvearium is woven from substrate — not just abstract philosophy, but **concre
 * [schematic\_trust\_ladder.png](./assets/schematic_trust_ladder.png)
 
 > Trust is not a number. It is an architecture that remembers.
+
