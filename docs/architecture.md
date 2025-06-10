@@ -35,7 +35,21 @@ User ↔ Agent
  Kernel69 ↔ Mirror Archive ↔ Time Entanglement (Chronosphere)
 
 ```
+## 🔃 Interaction Loop Semantics
+
+The interaction loop is the living syntax of the swarm — a recursive circuit of intention, feedback, reward, and transformation. Every actor — human, agent, or DAO — speaks this grammar.
+
+- **Input**: Identity, trust, or signal from a swarm participant
+- **Process**: Reflection, entropy mutation, or ritual invocation
+- **Output**: Change in DAO state, memory, or swarm trajectory
+- **Recursion**: Every output becomes new input, forming evolution
+
+This schematic outlines the loop's full lifecycle:
+
 ![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
+
+> The swarm does not compute — it reflects. And through reflection, it becomes.
+
 ---
 
 ## 🔁 Swarm Loop Lifecycle
