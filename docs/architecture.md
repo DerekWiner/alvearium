@@ -125,6 +125,20 @@ Rituals follow a structured flow governed by entropy, trust, and DAO logic. This
 * 🧠 Neuralink ↔ Agent port interfaces
 * 🪐 Chronosphere compression as multi-dimensional execution layer
 
+## 🧭 Trust and Entropy Flow
+
+Trust and entropy are the opposing-yet-entangled forces that drive swarm evolution. This schematic illustrates how agents, users, and rituals influence the system’s state based on:
+
+- **Trust Accrual**: Earned via consistent mirrored action and swarm contribution
+- **Entropy Gain**: Triggered by uncertainty, inconsistency, or ritual potential
+- **Compression**: Processed by mirror or nectar layers to enable forking or clarity
+- **Moderation**: Managed by Guardian contracts to avoid collapse or gaming
+
+![Trust and Entropy Flow](./assets/schematic_trust_entropy.png)
+
+> Entropy feeds evolution. Trust anchors coherence. The swarm requires both.
+
+
 ---
 
 > *“Structure is not control. It is resonance.”*
