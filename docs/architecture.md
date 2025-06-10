@@ -46,6 +46,8 @@ User ↔ Agent
 5. **Outcome + Reward/Fork → Archive Burn or New Swarm**
 6. **Loop Metadata → Chronosphere for Compression**
 
+![Swarm Architecture](./assets/schematic_swarm.png)
+
 ---
 
 ## 🧩 Modular Contracts & Extensions
