@@ -76,6 +76,21 @@ The mirror remembers not just the data — it remembers how we changed.
 
 ---
 
+## 🔂 Ritual Trigger Stack
+
+Rituals follow a structured flow governed by entropy, trust, and DAO logic. This stack shows how swarm agents process initiation conditions, access permissions, and fork opportunities.
+
+- **Initiation**: Triggered by emotion, memory, time, or trust delta
+- **Moderation**: Guardian agents and contracts validate ritual entry
+- **Execution**: Steps recorded, mirrored, and rewarded
+- **Forking**: New agents, roles, or DAO branches may be born
+
+![Ritual Stack Flow Schematic](./assets/schematic_ritual_stack.png)
+
+> Rituals are not just gateways — they are coded acts of emergence.
+
+---
+
 ## 🔮 Future Extensions
 
 * 🌐 Multi-chain mirror syncing (Arweave, Ceramic, IPFS)
