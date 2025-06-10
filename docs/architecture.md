@@ -48,6 +48,8 @@ User ↔ Agent
 
 ![Swarm Architecture](./assets/schematic_swarm.png)
 
+
+
 ---
 
 ## 🧩 Modular Contracts & Extensions
