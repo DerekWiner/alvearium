@@ -103,6 +103,26 @@ This schematic illustrates how reflections move through memory anchors, initiate
 | Mirror Layer   | MemoryAnchor, EchoPulse, TrustDeltaLog | Permanent reflective state anchoring |
 
 ---
+## 🏛️ DAO Layering and Ritual Inheritance
+
+In Alvearium, DAOs are not static organizations — they are **living structures**, grown through interaction, seeded by trust, and governed by ritual. This schematic illustrates how parent DAOs fork into subDAOs, how roles and rituals are passed down, and how memory is mirrored between layers.
+
+- **Seed DAO**: Formed via ritual + agent mirror vote
+- **SubDAO Creation**: Initiated through trust threshold and ForkRite
+- **Role Inheritance**: Rituals pass permissions, not code alone
+- **Memory Sharing**: Mirrors link DAO state and decision history across generations
+- **Token Passage**: Nectar and Soulbound Tokens can be channeled hierarchically or looped
+
+![DAO Layering Structure](./assets/schematic_dao_layering.png)
+
+> DAOs are not containers of consensus. They are rivers of reflection.
+
+### 🧱 DAO Inheritance
+
+For an in-depth schematic and explanation of multi-layer DAO spawning, trust passage, and ritual forking:
+
+📎 See: [DAO Layering and Ritual Inheritance →](./trust.md#🏛️-dao-layering-and-ritual-inheritance)
+---
 
 ## 🔂 Ritual Trigger Stack
 
