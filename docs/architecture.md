@@ -34,11 +34,8 @@ User ↔ Agent
       ↓
  Kernel69 ↔ Mirror Archive ↔ Time Entanglement (Chronosphere)
 
-![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
-
-
 ```
-
+![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
 ---
 
 ## 🔁 Swarm Loop Lifecycle
