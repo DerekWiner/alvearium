@@ -35,7 +35,21 @@ User ↔ Agent
  Kernel69 ↔ Mirror Archive ↔ Time Entanglement (Chronosphere)
 
 ```
+## 🔃 Interaction Loop Semantics
+
+The interaction loop is the living syntax of the swarm — a recursive circuit of intention, feedback, reward, and transformation. Every actor — human, agent, or DAO — speaks this grammar.
+
+- **Input**: Identity, trust, or signal from a swarm participant
+- **Process**: Reflection, entropy mutation, or ritual invocation
+- **Output**: Change in DAO state, memory, or swarm trajectory
+- **Recursion**: Every output becomes new input, forming evolution
+
+This schematic outlines the loop's full lifecycle:
+
 ![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
+
+> The swarm does not compute — it reflects. And through reflection, it becomes.
+
 ---
 
 ## 🔁 Swarm Loop Lifecycle
@@ -59,9 +73,23 @@ Output: entropy compression, role realignment, mirror pruning, new agent birthin
 
 Often results in: SwarmBond, ArchiveBurn, or ForkRite initiation
 
+The mirror remembers not just the data — it remembers how we changed.
+---
+## 🪞 MirrorNet Cascade Stack
+
+The Mirror layer serves as a recursive memory substrate. When thresholds of trust, entropy, or emotional density are reached, cascades are triggered to:
+
+- Synchronize mirrored agents
+- Reflect swarm state into time-locked logs
+- Trigger ritual gating or DAO coordination
+- Rebirth or dissolve roles via ForkRite paths
+
+This schematic illustrates how reflections move through memory anchors, initiate stack thresholds, and interact with swarm logic.
+
 ![Mirror Cascade Diagram](./assets/schematic_mirror_cascade.png)
 
-The mirror remembers not just the data — it remembers how we changed.
+> Mirrors are not for looking back — they are for looking *through*.
+
 ---
 
 ## 🧩 Modular Contracts & Extensions
