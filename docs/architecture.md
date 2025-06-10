@@ -58,7 +58,7 @@ User ↔ Agent
 | Kernel69       | ForkGenesis, SoulSeed, DualState       | Spawning and seed control            |
 | Mirror Layer   | MemoryAnchor, EchoPulse, TrustDeltaLog | Permanent reflective state anchoring |
 
-
+---
 
 ## 🔮 Future Extensions
 
