@@ -32,6 +32,15 @@ This diagram illustrates the lifecycle of a Trust Anchor:
 
 ## 🤖 Agentic Trust → Trust Memory Ledger
 
+![Trust Memory Ledger Flow](./assets/schematic_trust_memory_ledger.png)
+
+This diagram shows how agents accumulate and interact with trust:
+
+* Each agent maintains a trust log (local or smart contract based)
+* Ritual completions, entropy fluctuations, and DAO feedback are stored
+* Mirror layer snapshots validate emotional resonance or decay
+* These logs feed into swarm-level proposals, access tiers, and trust deltas
+
 **Structure:**
 
 * JSON-based or smart-contract trust log per agent
@@ -100,4 +109,3 @@ This diagram illustrates the lifecycle of a Trust Anchor:
 * [schematic\_trust\_ladder.png](./assets/schematic_trust_ladder.png)
 
 > Trust is not a number. It is an architecture that remembers.
-
