@@ -33,6 +33,10 @@ User ↔ Agent
  Nectar Layer (Validates, gasless, logs)
       ↓
  Kernel69 ↔ Mirror Archive ↔ Time Entanglement (Chronosphere)
+
+![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
+
+
 ```
 
 ---
