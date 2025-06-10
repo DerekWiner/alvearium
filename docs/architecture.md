@@ -49,8 +49,18 @@ User ↔ Agent
 
 ![Swarm Architecture](./assets/schematic_swarm.png)
 
+---
+📡 Mirror Cascade
+Mirror Cascades are automated propagation events triggered when reflection density, emotional entropy, or swarm convergence crosses a threshold. These cascades synchronize agents, update memory across DAO forks, and can initiate autonomous ritual triggers.
+
+Triggered by: high-trust interactions, entropy peaks, or reflective convergence
+
+Output: entropy compression, role realignment, mirror pruning, new agent birthing
+
+Often results in: SwarmBond, ArchiveBurn, or ForkRite initiation
 
 
+The mirror remembers not just the data — it remembers how we changed.
 ---
 
 ## 🧩 Modular Contracts & Extensions
