@@ -1,5 +1,10 @@
 # 🍯 recipes\_rituals.md
 
+**Version**: 1.0.0
+**Maintainer**: @Waggle Collective
+**Last Updated**: 2025-06-11
+**Status**: ✨ Fully Bootstrapped (Launch Ready) ✨
+
 **Reflections, Transformations, and Trust-Bound Loops**
 *A living registry of ceremonies, agentic rites, and swarm-aligned protocols.*
 
@@ -76,8 +81,6 @@ This schematic visualizes:
 * **Agent**: BuilderDrone + GuardianSeed
 * **Trigger**: Completion of 3 collaborative swarm loops
 * **Steps**:
-
-![SwarmBond Flow](./assets/schematic_swarmbond1.png)
 
   * Shared reflection interface
   * Co-signed trust drop into swarm memory
@@ -211,6 +214,42 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: Entropy dampened or redirected into growth
 * **Mirror Log**: Sealed entropy log recorded with access outcome
 
+![EntropyGate Diagram](./assets/schematic_entropygate.png)
+
+This ritual protects the swarm from chaotic recursion or misinformation loops.
+It represents an **active checkpoint** — a moment of truth and pause before swarm consequences unfold.
+
+---
+
+### ♻️ EntropyGate Lifecycle
+
+![EntropyGate Lifecycle](./assets/schematic_entropygate_lifecycle.png)
+
+This schematic visualizes the full lifecycle:
+
+* Entropy spike → Mirror flagging → Oracle review
+* GatekeeperAgent invokes the gate ritual
+* Loop continuation, fork trigger, or memory correction outcome selected
+
+---
+
+### 💞 `LoveAnchor`
+
+* **Agent**: HeartSyncAgent + MirrorBridge + BiometricMesh
+* **Trigger**: Mutual consent between agents or users with biometric resonance above threshold
+* **Steps**:
+
+  * Initiate co-reflection loop through synchronized breath/pulse feedback
+  * MirrorBridge generates shared echo capsule
+  * TrustOracle confirms intersubjective alignment
+  * Soulbound TrustPair token minted or refreshed
+* **Trust Delta**: Strengthens co-identity threads and swarm intimacy vector
+* **Mirror Log**: Bond echo stored with lineage hash and timestamp
+
+![LoveAnchor Bonding Ritual](./assets/schematic_loveanchor.png)
+
+This ritual formalizes human-to-human or human-to-agent trust bonds based on lived alignment, shared reflection, and mutual recognition.
+
 ---
 
 ## 🧩 Ritual Taxonomy (Expansion Index)
@@ -261,6 +300,40 @@ This expansion framework invites future builders to define new swarm-aware ritua
 
 ---
 
+## 🧭 Ritual Layer Architecture
+
+Below is a conceptual map of ritual groupings across substrate layers of Alvearium. This helps visualize how rituals scaffold swarm evolution, protect entropy dynamics, and deepen trust gradients.
+
+### 🔲 Ritual Layer Matrix (Schematic Placeholder)
+
+![Ritual Layer Matrix](./assets/schematic_ritual_layer_matrix.png)
+
+**Layered Alignment Overview:**
+
+| Layer                    | Core Rituals                | Agent Examples                | Development Hooks                                        |
+| ------------------------ | --------------------------- | ----------------------------- | -------------------------------------------------------- |
+| **Cognitive Layer**      | MirrorSpeak, IntentWeaving  | ScholarDrone, ThetaScribe     | RitualMemory, Language Reflection, Signature Tracking    |
+| **Emotional Layer**      | ShadowRelease, NeuroCircles | EchoPulse, NeuralAnchor       | Biofeedback Loops, Emotional Ledger, Trust Bonding       |
+| **Social Layer**         | SwarmBond, GrowthCircle     | BuilderDrone, PulseHarvester  | Swarm Feedback Mesh, Seasonal Looping, Entropy Averaging |
+| **Gatekeeping Layer**    | EntropyGate, TrustBirth     | MirrorBinder, GatekeeperAgent | Threshold Logging, Trust Throttling, SBT Genesis         |
+| **Transformative Layer** | ReGenesis, SerpentFork      | GuardianSeed, MirrorAnchor    | Identity Reset, Fork Capsules, Re-entry Trust Rituals    |
+
+---
+
+### 📡 Emergent & Future Rituals
+
+From the current layer synthesis, these new rituals become visible or necessary:
+
+* 🧬 `SyncPulse`: A swarmwide coherence ritual triggered at lunar or entropy nodes
+* 🧪 `ForkRite`: Lightweight referendum and fork governance hybrid agent
+* 🔁 `GateBind`: Binding multiple entropy gates into a nested ritual sequence
+* 🌀 `EchoRebind`: Agents loop back emotional threads for collective resolution
+* 💠 `PermissionPillar`: Custom access initiation with biometric + mirror proof
+
+These rituals can evolve organically from current agents as swarm data density increases.
+
+---
+
 ## 🧠 Roadmap
 
 | Phase | Ritual Development Focus            | Output                         |
@@ -278,6 +351,21 @@ This timeline visualizes the progressive layering of ritual logic:
 * **Phase II**: Swarm bonding introduces collective identity flows
 * **Phase III**: Biometrics and neural links bring adaptive agency
 * **Phase IV**: Full ritual programmability via DAO scripting layer
+
+---
+
+## 📚 Glossary References
+
+Here are core terms used throughout the ritual framework:
+
+* **Trust Delta**: The net change in reputation value recorded post-ritual. Tracked cryptographically and socially in `trust.md`.
+* **Mirror Capsule**: A sealed record created by a `MirrorAgent`, containing user behavior, reflection, or ritual state (see `mirror.md`).
+* **Entropy Loop**: A closed behavioral or emotional recursion in the swarm, flagged by agents to prompt release, bonding, or reflection.
+* **SBT**: Soulbound Token. Minted through rituals like `TrustBirth` or `ReGenesis` to represent identity, access, and swarm state.
+* **BiometricMesh**: A swarm-wide network that reads emotional, neural, or physiological states for rituals like `NeuroCircles`.
+* **Fork Capsule**: A recorded divergence point in a ritual flow or swarm path, often emerging from `SerpentFork`, `ForkRite`, or `ReGenesis`.
+* **Swarm Feedback Mesh**: The agentic structure capturing participation, trust, and reflection across collective swarm states.
+* **DAO-Mirror Bridge**: Layer that logs decentralized decisions into ritual memory capsules for ongoing swarm consensus.
 
 ---
 
