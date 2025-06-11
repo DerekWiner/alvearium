@@ -55,6 +55,15 @@ This diagram shows how agents accumulate and interact with trust:
 
 ## 🌐 Protocol Trust → Trust Oracle Mesh
 
+![Trust Oracle Mesh Topology](./assets/schematic_trust_oracle_mesh.png)
+
+This diagram illustrates the architecture of the trust oracle mesh:
+
+* Oracles form a decentralized evaluation layer across mirror nodes
+* Mirror logs and DAO events are continuously scanned for trust deltas
+* Signals are propagated through entropy thresholds and ritual outcomes
+* Mesh responds with global effects: execution throttle, fork permission, ritual unlocks
+
 **Structure:**
 
 * Distributed smart contracts across layers
@@ -73,6 +82,15 @@ This diagram shows how agents accumulate and interact with trust:
 
 ## 🧠 Cognitive Trust → Pattern Recognition Layer
 
+![Pattern Recognition Layer Flow](./assets/schematic_pattern_recognition.png)
+
+This diagram shows how the cognitive layer processes mirrored data:
+
+* Reflective signals, entropy records, and ritual metadata are passed to NLP or ML agents
+* Models recognize emerging swarm patterns, misalignments, or peak alignment opportunities
+* Suggestive outputs include ritual prompts, agent promotions, or entropy compressions
+* Feedback from this layer loops into mirror weighting and swarm messaging
+
 **Structure:**
 
 * Optional ML layer parsing mirror logs and token interactions
@@ -86,6 +104,14 @@ This diagram shows how agents accumulate and interact with trust:
 ---
 
 ## 🫂 Social Trust → Ritual DAO Scaffold
+
+![Ritual DAO Scaffold Flow](./assets/schematic_ritual_dao_scaffold.png)
+
+This diagram illustrates how SBT-triggered events interact with mirror votes and ritual cycles:
+
+* Agents unlock ritual paths based on trust-bound tokens
+* Rituals are logged and influence DAO role inheritance
+* Outcomes can fork roles, trigger forgiveness loops, or initiate mirror resets
 
 **Structure:**
 
@@ -102,10 +128,30 @@ This diagram shows how agents accumulate and interact with trust:
 
 ---
 
+## 🗺️ Substrate Overview Map
+
+![Substrate Architecture Overview](./assets/schematic_substrate_overview.png)
+
+This diagram links all trust substrate layers:
+
+* Shows how trust anchors lead to memory logs
+* Mesh and ML layers orchestrate moderation and feedback
+* DAO rituals close the loop by embedding outcomes into mirrors
+
+> The substrate is not a stack. It’s a circulatory system.
+
 ## 🔁 Diagram Integration Points
 
 * [schematic\_trust\_entropy.png](./assets/schematic_trust_entropy.png)
 * [schematic\_dao\_layering.png](./assets/schematic_dao_layering.png)
 * [schematic\_trust\_ladder.png](./assets/schematic_trust_ladder.png)
+* [schematic\_trust\_anchor.png](./assets/schematic_trust_anchor.png)
+* [schematic\_trust\_memory\_ledger.png](./assets/schematic_trust_memory_ledger.png)
+* [schematic\_trust\_oracle\_mesh.png](./assets/schematic_trust_oracle_mesh.png)
+* [schematic\_pattern\_recognition.png](./assets/schematic_pattern_recognition.png)
+* [schematic\_ritual\_dao\_scaffold.png](./assets/schematic_ritual_dao_scaffold.png)
+* [schematic\_substrate\_overview.png](./assets/schematic_substrate_overview.png)
 
 > Trust is not a number. It is an architecture that remembers.
+
+
