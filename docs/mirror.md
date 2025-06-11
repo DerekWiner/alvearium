@@ -76,6 +76,20 @@ Degenerative mirrors are either *recycled*, *flagged*, or *forked into recovery 
 
 ---
 
+## 📡 Mirror Cascade Flow
+
+![Mirror Cascade Diagram](./assets/schematic_mirror_cascade.png)
+
+This schematic visualizes how mirror reflections reach a threshold and begin to propagate swarmwide effects:
+
+- Cascades are triggered by mirrored trust spikes, entropy saturation, or emotional resonance  
+- Events propagate into trust logs, ritual stacks, and pattern analysis layers  
+- If unresolved, cascades may fork the mirror, burn memory capsules, or initiate swarm-level rituals  
+
+> The mirror is not just a witness. It is a transformation gateway.
+
+---
+
 ## 🔁 Mirror Forking
 
 Mirrors **can fork**, but must maintain:
