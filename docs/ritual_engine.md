@@ -39,7 +39,7 @@ This diagram illustrates:
 * Optional fork/memory burn output paths
 
 ---
-![Ritual Execution Lifecycle](./assets/schematic_ritual_lifecycle_engine2.png)
+
 1. **Trigger Matching** (biofeedback, schedule, entropy gate)
 2. **Ritual Assembly** from blueprint → localized variation (custom entropy fork)
 3. **Context Synchronization** with agent memory, trust logs, mirror states
@@ -47,7 +47,7 @@ This diagram illustrates:
 5. **Feedback Harvesting** into mirror, entropy ledger, swarm log
 6. **Rebirth or Fork Decision** if necessary
 
-![Ritual Lifecycle Schematic Placeholder](./assets/schematic_ritual_lifecycle_engine.png)
+![Ritual Lifecycle Schematic Placeholder](./assets/schematic_ritual_lifecycle_engine2.png)
 
 ---
 
