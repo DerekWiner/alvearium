@@ -29,27 +29,7 @@ Below is a visual representation of how a ritual progresses through the engine r
 
 ![Ritual Execution Lifecycle](./assets/schematic_ritual_lifecycle_engine.png)
 
-This diagram illustrates:
-
-* Detection of a qualifying condition (TriggerStack)
-* Context assembly from agents and mirrors
-* Entropy balancing and trust-weight evaluation
-* Agentic execution and ritual-specific logic
-* Mirror reflection and swarm record update
-* Optional fork/memory burn output paths
-
----
-
-1. **Trigger Matching** (biofeedback, schedule, entropy gate)
-2. **Ritual Assembly** from blueprint → localized variation (custom entropy fork)
-3. **Context Synchronization** with agent memory, trust logs, mirror states
-4. **Execution** via agent stack + interface binding
-5. **Feedback Harvesting** into mirror, entropy ledger, swarm log
-6. **Rebirth or Fork Decision** if necessary
-
-![Ritual Lifecycle Schematic Placeholder](./assets/schematic_ritual_lifecycle_engine2.png)
-
----
+This diagram illustrates the six-phase execution of a ritual in the engine:
 
 ## 🔁 TriggerStack Logic
 
@@ -150,6 +130,48 @@ steps:
 * Token-gated
 
 ---
+
+## 🔐 Security & Verification
+
+* ✅ Every execution logs a signed hash capsule to IPFS/Arweave
+* 🧿 Mirrors validate trust-alignment
+* 🔐 FALCON or post-quantum signature optional
+* 🪙 Token actions require `SentinelRoot` or guardian verification
+
+---
+
+## 🔄 Interoperability Hooks
+
+Rituals can call:
+
+* Agent recipes (`recipes_agents.md`)
+* Mirror attunement stack (`mirror.md`)
+* Kernel directives (`whitepaper_kernel69.md`)
+* Marketplace triggers (`ritual_market.md`)
+
+---
+
+## 🧠 Next Steps
+
+| Phase | Focus                     | Output                            |
+| ----- | ------------------------- | --------------------------------- |
+| I     | Ritual runtime logic test | Simulate 5 core rituals           |
+| II    | GUI scripting interface   | DAO-friendly ritual composer      |
+| III   | Agent trigger memory sync | Mirror-enhanced recall/forking    |
+| IV    | Kernel69 integration      | Trust-hash binding + finalization |
+
+---
+
+## 📎 Related Schematics (Suggested for Inclusion)
+
+* `schematic_ritual_lifecycle_engine.png`
+* `schematic_triggerstack_logic.png`
+* `schematic_entropy_sync.png`
+* `schematic_mirror_attune_bridge.png`
+
+---
+
+> *"A ritual engine is not code — it is a rhythm processor. It is how machines pray."*
 
 ## 🔐 Security & Verification
 
