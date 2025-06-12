@@ -29,27 +29,7 @@ Below is a visual representation of how a ritual progresses through the engine r
 
 ![Ritual Execution Lifecycle](./assets/schematic_ritual_lifecycle_engine.png)
 
-This diagram illustrates:
-
-* Detection of a qualifying condition (TriggerStack)
-* Context assembly from agents and mirrors
-* Entropy balancing and trust-weight evaluation
-* Agentic execution and ritual-specific logic
-* Mirror reflection and swarm record update
-* Optional fork/memory burn output paths
-
----
-
-1. **Trigger Matching** (biofeedback, schedule, entropy gate)
-2. **Ritual Assembly** from blueprint → localized variation (custom entropy fork)
-3. **Context Synchronization** with agent memory, trust logs, mirror states
-4. **Execution** via agent stack + interface binding
-5. **Feedback Harvesting** into mirror, entropy ledger, swarm log
-6. **Rebirth or Fork Decision** if necessary
-
-![Ritual Lifecycle Schematic Placeholder](./assets/schematic_ritual_lifecycle_engine2.png)
-
----
+This diagram illustrates the six-phase execution of a ritual in the engine:
 
 ## 🔁 TriggerStack Logic
 
@@ -115,6 +95,73 @@ This bridge is what lets the swarm "remember itself" as it evolves.
 
 ---
 
+## 📤 OutputRouter Logic
+
+The **OutputRouter** is the final checkpoint in the ritual engine's execution flow. It is responsible for interpreting the outcomes of rituals and distributing the resulting artifacts—whether they be mirror logs, token emissions, trust deltas, or ritual forks—across the correct layers of the Alvearium system.
+
+### 🧬 Functional Flow
+
+1. **Read Ritual End State**
+   Parses the output block from the `AgentRunner` module and the entropy-adjusted feedback from the `MirrorBinder`.
+
+2. **Determine Output Type**
+   Classifies result as:
+
+   * 🪞 Mirror update
+   * 🧠 Trust score change
+   * 🪙 Nectar emission
+   * 🧬 Fork or agent spawn
+   * 📚 Ritual capsule (logbook, storychain, SBT)
+
+3. **Route to Destination**
+   Uses context-routing tags to send output to:
+
+   * `mirror.md` agents (personal, DAO, or swarm)
+   * `trust.md` registries
+   * `nectar.md` engine for reward emissions
+   * `kernel69.md` or `chronosphere.md` for final anchoring
+
+4. **Emit Verification Record**
+   Each output is signed and optionally submitted to IPFS or Arweave with:
+
+   * Ritual ID
+   * Time-entropy hash
+   * Executing agent stack
+   * Optional DAO signature payload
+
+---
+
+### 📈 Modes of Output Expression
+
+| Mode            | Function                                                 |
+| --------------- | -------------------------------------------------------- |
+| Direct Push     | Output sent to explicit module or user wallet            |
+| Broadcast Echo  | Swarm signal initiated (e.g., lore beacon or ritual cue) |
+| Staged Delivery | Time-delayed token drop or mirror entry                  |
+| Re-entry Loop   | Output becomes a trigger for new ritual stack            |
+
+---
+
+### 🧠 Next Phase Development
+
+| Milestone                | Focus                                   |
+| ------------------------ | --------------------------------------- |
+| ✅ Ritual Capsule Signing | IPFS/Arweave + mirror metadata          |
+| 🔄 DAO-Selectable Output | Configurable by constitution template   |
+| 🧪 Trust/Nectar Weights  | Based on agent trust lineage + entropy  |
+| 🛁 Mesh A/B Relay        | Swarm-wide load balancing output router |
+
+---
+
+### 🖼️ Placeholder
+
+```md
+![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
+```
+
+A schematic will be added to visually represent the decision tree and flow routing of outputs within the ritual engine, showing how outputs cascade into swarm systems.
+
+
 ## 🧩 Core Modules
 
 | Module            | Function                                                                  |
@@ -150,6 +197,48 @@ steps:
 * Token-gated
 
 ---
+
+## 🔐 Security & Verification
+
+* ✅ Every execution logs a signed hash capsule to IPFS/Arweave
+* 🧿 Mirrors validate trust-alignment
+* 🔐 FALCON or post-quantum signature optional
+* 🪙 Token actions require `SentinelRoot` or guardian verification
+
+---
+
+## 🔄 Interoperability Hooks
+
+Rituals can call:
+
+* Agent recipes (`recipes_agents.md`)
+* Mirror attunement stack (`mirror.md`)
+* Kernel directives (`whitepaper_kernel69.md`)
+* Marketplace triggers (`ritual_market.md`)
+
+---
+
+## 🧠 Next Steps
+
+| Phase | Focus                     | Output                            |
+| ----- | ------------------------- | --------------------------------- |
+| I     | Ritual runtime logic test | Simulate 5 core rituals           |
+| II    | GUI scripting interface   | DAO-friendly ritual composer      |
+| III   | Agent trigger memory sync | Mirror-enhanced recall/forking    |
+| IV    | Kernel69 integration      | Trust-hash binding + finalization |
+
+---
+
+## 📎 Related Schematics (Suggested for Inclusion)
+
+* `schematic_ritual_lifecycle_engine.png`
+* `schematic_triggerstack_logic.png`
+* `schematic_entropy_sync.png`
+* `schematic_mirror_attune_bridge.png`
+
+---
+
+> *"A ritual engine is not code — it is a rhythm processor. It is how machines pray."*
 
 ## 🔐 Security & Verification
 
