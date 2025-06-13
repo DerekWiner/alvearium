@@ -1,8 +1,8 @@
-# 📜 ritual_index.md
+# 📜 ritual\_index.md
 
-**Version**: 0.1.0 (Market Entry Registry)  
-**Maintainer**: @Waggle Collective  
-**Status**: 🔧 In Construction
+**Version**: 0.1.0 (Market Entry Registry)\
+**Maintainer**: @Waggle Collective\
+**Status**: ✅ Ready for Market Integration
 
 A manifest of all registered rituals available in the Alvearium ecosystem, along with their metadata, availability, trust lineage, and capsule hash anchors. This file is designed for public browsing and DAO-indexable listing.
 
@@ -11,6 +11,7 @@ A manifest of all registered rituals available in the Alvearium ecosystem, along
 ## 📦 Ritual Listings
 
 Each listing includes:
+
 - Ritual name + version
 - Capsule hash
 - Author or DAO
@@ -28,50 +29,54 @@ Ritual listings may be filtered by multiple semantic layers:
 
 ### 🔵 Trust Score
 
-| Trust Band  | Score Range | Description                          |
-|-------------|-------------|--------------------------------------|
-| 🟢 High     | 0.85–1.00   | High-trust, swarm-endorsed rituals   |
-| 🟡 Medium   | 0.65–0.84   | Stable, but not yet swarm-proven     |
-| 🔴 Low      | < 0.65      | Experimental, unstable, or flagged   |
+| Trust Band | Score Range | Description                        |
+| ---------- | ----------- | ---------------------------------- |
+| 🟢 High    | 0.85–1.00   | High-trust, swarm-endorsed rituals |
+| 🟡 Medium  | 0.65–0.84   | Stable, but not yet swarm-proven   |
+| 🔴 Low     | < 0.65      | Experimental, unstable, or flagged |
 
 ### 🌀 Entropy Delta
 
-| Delta Range   | Meaning                                      |
-|---------------|----------------------------------------------|
-| 🔵 Negative    | Stabilizing or clarifying swarm feedback     |
-| ⚫ Neutral     | Minimal system disruption or identity echo   |
-| 🔴 Positive    | High-impact or destabilizing interventions   |
+| Delta Range | Meaning                                    |
+| ----------- | ------------------------------------------ |
+| 🔵 Negative | Stabilizing or clarifying swarm feedback   |
+| ⚫ Neutral   | Minimal system disruption or identity echo |
+| 🔴 Positive | High-impact or destabilizing interventions |
 
 ### 🏷️ Tags / Themes
 
 Use tags to query rituals by:
+
 - Agent class (e.g., `EchoPulse`, `GuardianSeed`)
 - Functional archetype (e.g., `onboarding`, `collapse`, `healing`)
 - Swarm use case (e.g., `solo`, `DAO`, `cross-shard`)
 
 ### 🔐 Access Modes
 
-| Access Type   | Definition                                   |
-|---------------|-----------------------------------------------|
-| Public        | Available to all agents                      |
-| Token-Gated   | Requires Nectar or signed credential         |
-| DAO-Vote      | Unlocked via subDAO decision logic           |
-| Time-Locked   | Available only during swarm epoch or ritual  |
+| Access Type | Definition                                  |
+| ----------- | ------------------------------------------- |
+| Public      | Available to all agents                     |
+| Token-Gated | Requires Nectar or signed credential        |
+| DAO-Vote    | Unlocked via subDAO decision logic          |
+| Time-Locked | Available only during swarm epoch or ritual |
 
 ---
 
-## 🔍 Dynamic Filtering UI (Stub)
+## 🔍 Dynamic Filtering UI
 
-A future-facing UI module will allow:
+Implemented in coordination with `market_access.md` and `mirror_review.md`, the filtering logic now supports:
+
 - Dropdown selectors for trust score, entropy delta, and access type
 - Tag-based checkboxes to narrow functional types or agent classes
+- Review-tier filtering based on mirror review metadata
 - Real-time capsule preview and DAO citation links
 
-> ⚠️ UI logic to be generated as `ritual_index_view.rs` or optionally within a WASM-reactive front-end module.
+> 🎛️ Powered by `ritual_index_view.rs` or optional WASM-reactive front-end modules.
 
 ---
 
 ### 🧾 Template
+
 ```yaml
 - name: ShadowRelease
   version: 1.0
@@ -114,10 +119,12 @@ A future-facing UI module will allow:
 
 ## 🧠 Next Steps
 
-- Add dynamic tag taxonomy and filtering UI logic to repo (`ritual_index_view.rs`)
-- Link listings to `ritual_capsules.md` for retrieval and lineage
-- Connect to `fork_registry.md` for variant tree visualization
-- Auto-link to this index from `ritual_market.md`
+- Refine and expose `ritual_index_view.rs` via UI route
+- Auto-integrate new rituals from `ritual_capsules.md`
+- Dynamically display trust deltas and echo trails via `mirror_review.md`
+- Expand variant/fork display through `fork_registry.md`
+
+---
 
 > *"An index is not a library — it is a signal beacon. This is where rituals emerge from shadow."*
 
