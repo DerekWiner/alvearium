@@ -556,12 +556,22 @@ Rituals can call:
 
 ---
 
-## 📎 Related Schematics (Suggested for Inclusion)
+## 📎 Related Schematics
 
 * `schematic_ritual_lifecycle_engine.png`
 * `schematic_triggerstack_logic.png`
 * `schematic_entropy_sync.png`
 * `schematic_mirror_attune_bridge.png`
+
+---
+
+## 📚 Reference Modules
+
+- [`mirror.md`](./mirror.md) — Memory architecture and state fork rules  
+- [`trust.md`](./trust.md) — Trust deltas, echo propagation, and swarm alignment  
+- [`recipes_agents.md`](./recipes_agents.md) — Defines agent classes and bindings  
+- [`whitepaper_kernel69.md`](./whitepaper_kernel69.md) — Root recursion and signature protocols  
+- [`ritual_market.md`](./ritual_market.md) — Modular ritual commerce layer (coming soon)
 
 ---
 
