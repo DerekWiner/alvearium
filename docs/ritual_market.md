@@ -84,9 +84,7 @@ Access to rituals in the market is regulated through multi-layered gating strate
 
 ### 🔑 Schematic: Access Layer Logic
 
-```
 ![Access Layer Logic](./assets/schematic_access_layers.png)
-```
 
 This schematic shows how an agent interacts with the Market based on:
 
