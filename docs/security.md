@@ -30,18 +30,18 @@ All security layers follow from our core commitments:
 ## 🧬 1. Cryptographic Architecture  
 
 ### ✅ Falcon Signing (Post-Quantum Secure)  
-- Default signing protocol across Nectar, Hive, and Waggle
-- Resistant to Grover/Shor algorithm attacks
+- Default signing protocol across Nectar, Hive, and Waggle  
+- Resistant to Grover/Shor algorithm attacks  
 - Integrated into all ignition, token, and reward flows
 
 ### 🔑 Multi-Key Identity Models  
-- Agent identity = [ cryptographic anchor + behavior signature ]
-- Soulbound, transferable, and recursive delegation formats
+- Agent identity = [ cryptographic anchor + behavior signature ]  
+- Soulbound, transferable, and recursive delegation formats  
 - Prevents exploitative Sybil loops
 
 ### ⛓️ Chain Auth & Fork Safety  
-- Dual-root ignition (Kernel69 + ChronoProof) to eliminate adversarial forks
-- Entropy injection seeded by time, trust, and energy balance
+- Dual-root ignition (Kernel69 + ChronoProof) to eliminate adversarial forks  
+- Entropy injection seeded by time, trust, and energy balance  
 - Forkable by consensus, **not by coercion**
 
 ---
@@ -51,8 +51,8 @@ All security layers follow from our core commitments:
 Alvearium anticipates AGI-level agents.  
 Thus, security is cognitive, not just computational.
 
-- **Intent Auditing:** Agents, DAOs, and contracts carry embedded intent meta
-- **Reflection Loops:** Chronosphere and biofeedback systems track ethical drift
+- **Intent Auditing:** Agents, DAOs, and contracts carry embedded intent meta  
+- **Reflection Loops:** Chronosphere and biofeedback systems track ethical drift  
 - **Semantic Throttles:** Malicious proposals decay via emotion+semantic mismatch
 
 All agents are co-trained with the swarm.  
@@ -141,4 +141,7 @@ But let us remember always:
 - [`layers.md`](./layers.md)
 - [`whitepaper_nectar.md`](../whitepapers/whitepaper_nectar.md)
 - [`chronosphere.md`](../chronosphere.md)
+- [`trust.md`](./trust.md)
+- [`onboarding.md`](./onboarding.md)
+- [`agents.md`](./agents.md)
 
