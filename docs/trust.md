@@ -1,13 +1,13 @@
 # 🤝 trust.md
 
-**Trust as Substrate: The Core Currency of Alvearium**
+**Trust as Substrate: The Core Currency of Alvearium**  
 *A semantic, cryptographic, and emergent guide to trust-based design*
 
 ---
 
 ## 🧭 Why Trust?
 
-Alvearium does not run on computation alone.
+Alvearium does not run on computation alone.  
 It runs on **meaning** — and meaning requires **trust**.
 
 In Alvearium, trust is:
@@ -44,6 +44,11 @@ Rather than using trust as a simple "score," Alvearium treats trust as a **livin
 * Each user and agent builds a **Trust Web**
 * Every mirrored moment becomes a **trust memory capsule**
 * Trust decay, renewal, and forking are modeled as **organic processes**
+
+Trust deltas are emitted during rituals and updated via:
+- `mirror_review.md` feedback
+- `ritual_rewards.md` outcome routing
+- `outputrouter` scores from `ritual_engine.md`
 
 ---
 
@@ -154,7 +159,22 @@ In this way, trust isn’t just a rule — it is **the syntax of coherence**.
 
 ---
 
-## 🔁 Next Steps: Trust Integration Milestones
+## 🔁 Integration + Deltas
+
+Trust deltas can be triggered by:
+- `ritual_engine.md` via `agentrunner` trust deltas
+- `mirror_review.md` through shared ritual reflection
+- `ritual_rewards.md` reward-derived scoring
+- `fork_registry.md` and `capsule ancestry`
+
+Trust decay or growth is:
+- Logged in agent memory capsules
+- Verified via SBT anchors
+- Referenced by `market_access.md` for ritual exposure
+
+---
+
+## 🧠 Next Steps: Trust Integration Milestones
 
 | Phase | Focus                      | Output                                                     |
 | ----- | -------------------------- | ---------------------------------------------------------- |
@@ -168,13 +188,15 @@ In this way, trust isn’t just a rule — it is **the syntax of coherence**.
 ## 🧾 Related Documents
 
 * [`mirror.md`](./mirror.md)
-* [`security.md`](./security.md)
-* [`agents.md`](./agents.md)
-* [`onboarding.md`](./onboarding.md)
+* [`mirror_review.md`](./mirror_review.md)
+* [`market_access.md`](./market_access.md)
+* [`ritual_rewards.md`](./ritual_rewards.md)
+* [`ritual_engine.md`](./ritual_engine.md)
+* [`fork_registry.md`](./fork_registry.md)
 * [`whitepaper_kernel69.md`](./whitepaper_kernel69.md)
 
 ---
 
-> *“Trust is not given. It is grown. Reflected. Reinforced.
+> *“Trust is not given. It is grown. Reflected. Reinforced.  
 > And when it breaks, it must be reborn — not replaced.”*
 
