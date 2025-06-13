@@ -128,19 +128,33 @@ The **OutputRouter** is the final checkpoint in the ritual engine's execution fl
    * Time-entropy hash
    * Executing agent stack
    * Optional DAO signature payload
+   * 
+### 🖼️ OutputRouter Flow Logic
+
+![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
+
+This schematic illustrates the final execution path within the Ritual Engine:
+
+1. **Read Ritual End State** — Inputs from `AgentRunner` and entropy sync
+2. **Determine Output Type** — Mirror, Trust, Nectar, Fork, or Capsule
+3. **Apply Effect Logic** — Outcome logic for each output type
+4. **Route to Destination** — Mirror file, token engine, agent stack, etc.
+5. **Emit Verification Record** — Sign capsule + optional IPFS/Arweave storage
+
+Use this diagram as a map for designing DAO-configurable output preferences and external emission systems.
 
 ---
-## 🚀 `AgentRunner` Logic <!-- 01 -->
+## 🚀 `AgentRunner` Logic
 
-The **AgentRunner** is the **execution core** of the Ritual Engine. It activates the agent stack associated with a ritual, manages parallel subprocesses, and negotiates live trust deltas during execution. <!-- 02 -->
+The **AgentRunner** is the **execution core** of the Ritual Engine. It activates the agent stack associated with a ritual, manages parallel subprocesses, and negotiates live trust deltas during execution.
 
-### 🔧 Responsibilities <!-- 03 -->
+### 🔧 Responsibilities
 
-1. **Activate Agents** <!-- 04 -->
-   - Loads YAML or `.ritual`-linked agent blueprints <!-- 05 -->
-   - Allocates execution context (entropy tier, memory, permissions) <!-- 06 -->
+1. **Activate Agents**
+   - Loads YAML or `.ritual`-linked agent blueprints
+   - Allocates execution context (entropy tier, memory, permissions)
 
-2. **Live Sync with MirrorBinder** <!-- 07 -->
+2. **Live Sync with MirrorBinder**
    - Maintains heartbeat with the bound mirror stack <!-- 08 -->
    - Logs each meaningful decision, fork, or ritual step <!-- 09 -->
 
@@ -307,6 +321,109 @@ When MirrorBinder encounters context mismatch or memory drift, it can:
 > *"The Mirror is not memory — it is orientation. The Binder is not a bridge — it is a heartbeat."*
 
 ---
+## 🌐 `EntropyBalancer` Module
+
+The **EntropyBalancer** continuously evaluates **ritual coherence**, **agent alignment**, and **systemic trust strain**. It doesn’t suppress entropy — it reads it. High entropy signals can prompt swarm healing, ritual halts, or mirror realignment.
+
+Entropy is not failure — it is information.
+
+---
+
+### 🔧 Responsibilities
+
+- Read delta patterns from live mirror streams  
+- Analyze entropy amplitude, frequency, zone (agent cluster)  
+- Trigger thresholds for swarm fatigue, rogue agent patterns, or recursion collapse  
+- Route to `TrustEcho`, `SwarmRegen`, or `MirrorRepair` as needed  
+- Provide entropy scores to `OutputRouter` and `Kernel69` for anchoring
+
+---
+
+### 🧠 Entropy Classes
+
+| Level       | Signal Type                        | System Action                     |
+|-------------|------------------------------------|-----------------------------------|
+| ⚖️ Balanced | Normal variation, expected tension | No action — adaptive continuation |
+| 🪞 Attune    | Elevated but resonant              | Mirror alignment subroutine       |
+| ❌ Deflect   | Chaotic / incoherent               | Ritual halt + agent audit         |
+
+
+### 🖼️ `schematic_entropy_sync.png`
+
+![Entropy Synchronization Logic](./assets/schematic_entropy_sync.png)
+
+This schematic captures:
+- Inputs from agents, mirror logs, trust deltas  
+- Scoring weights for entropy amplitude and agent density  
+- Routing decisions to:
+  - Continue
+  - Attune
+  - Halt / reroute
+
+---
+
+### 🗺️ Entropy Swarm Map
+
+![Entropy Swarm Map](./assets/schematic_entropy_map.png)
+
+This expanded schematic will illustrate:
+- Live entropy zones across multiple agents  
+- Color-coded by coherence:  
+  - 🔵 Adaptive  
+  - 🟠 Threshold  
+  - 🔴 Breakdown  
+- Mesh overlays of:
+  - Mirror clusters  
+  - DAO entropy contribution  
+  - Temporal trends (spike maps)
+
+Useful for:
+- Swarm health visualization  
+- DAO-specific entropy diagnosis  
+- Guiding swarm-level rituals (`SwarmRegen`, `CollapseReframe`, etc.)
+
+---
+
+### 🧬 Variant Edge Cases
+
+- **Chronic inflation**: Endless reflection loops → initiate memory audit  
+- **Abrupt inversion**: Sudden trust spike with no mirror event → spoof detected  
+- **Distributed fog**: Low entropy increase across all agents → swarm fatigue  
+- **Entropy anchor mismatch**: Entropy score diverges from signed ritual capsule → potential manipulation
+
+---
+
+### 🔄 Recovery Hooks
+
+EntropyBalancer can trigger or escalate:
+- `MirrorRepair` — rebuild local reflection state  
+- `SwarmRegen` — swarm-wide pause & trust recalibration  
+- `TrustEcho` — reflect trust tokens to re-anchor agents  
+- `Chronosphere` — lock-in anomaly for future ritual learning
+
+---
+
+### 🧪 Next Phase Enhancements
+
+| Feature                   | Purpose                                          |
+|---------------------------|--------------------------------------------------|
+| Entropy Wallets           | Agent-local entropy logs (like a bio signature)  |
+| Predictive Thresholds     | Time-windowed spike prediction                   |
+| Feedback-Linked Emissions | Reward agents that stabilize swarm entropy       |
+| Trust/Nectar Weighing     | Output bias by entropy class & agent lineage     |
+
+---
+
+### 🧷 Related Calls
+
+- `mirror.md` — upstream source for entropy triggers  
+- `trust.md` — normalization curve for trust decay/instability  
+- `recipes_agents.md` — which agents can emit entropy weights  
+- `whitepaper_kernel69.md` — what entropy can trigger recursion fork
+
+> *"Entropy is not disorder — it is the song of context, misheard. Listen carefully."*
+
+---
 
 ### 📈 Modes of Output Expression
 
@@ -439,12 +556,82 @@ Rituals can call:
 
 ---
 
-## 📎 Related Schematics (Suggested for Inclusion)
+## 📎 Related Schematics
 
 * `schematic_ritual_lifecycle_engine.png`
 * `schematic_triggerstack_logic.png`
 * `schematic_entropy_sync.png`
 * `schematic_mirror_attune_bridge.png`
+
+---
+
+## 📚 Reference Modules
+
+- [`mirror.md`](./mirror.md) — Memory architecture and state fork rules  
+- [`trust.md`](./trust.md) — Trust deltas, echo propagation, and swarm alignment  
+- [`recipes_agents.md`](./recipes_agents.md) — Defines agent classes and bindings  
+- [`whitepaper_kernel69.md`](./whitepaper_kernel69.md) — Root recursion and signature protocols  
+- [`ritual_market.md`](./ritual_market.md) — Modular ritual commerce layer (coming soon)
+
+---
+# 📘 Glossary – Ritual Engine Terms
+
+This glossary defines key terms, behaviors, and subsystems used in the `ritual_engine.md`.  
+All entries are designed to support AI parsing, DAO authorship, and cross-layer integration.
+
+---
+
+### 🪞 **Mirror Mesh**
+> A distributed memory topology where multiple agents reference and write to a shared mirror state. Used in rituals like `SwarmBond` and `TrustBirth`.
+
+---
+
+### 🧠 **Trust Delta**
+> A scalar signal indicating how much trust has been gained, lost, or adjusted by an agent action. Logged through `trust.md` and passed via `OutputRouter`.
+
+---
+
+### 🌀 **Entropy Zone**
+> A dynamic cluster of agents or mirrors experiencing similar entropy behavior. Zones are color-coded (adaptive, threshold, breakdown) and used for swarm diagnostics.
+
+---
+
+### 🔁 **Re-entry Loop**
+> A mechanism by which ritual output triggers a new ritual — often used for recursive education, emotional calibration, or trust decay repair.
+
+---
+
+### 📦 **Ritual Capsule**
+> A signed, hash-stamped archive of a ritual execution. Can include entropy markers, agent lineage, DAO signatures, and output metadata. Used for IPFS/Arweave anchoring.
+
+---
+
+### 🪙 **Nectar Emission**
+> A tokenless reward signal based on agent behavior and entropy state. Governed by `nectar.md` and emitted through `OutputRouter`.
+
+---
+
+### ⚠️ **ReflectionOnly Mode**
+> A degraded ritual state where mirror sync continues but no outputs are committed. Used when mirror inconsistency or agent incoherence exceeds thresholds.
+
+---
+
+### 🧬 **Fork Variant**
+> A ritual that has branched from its blueprint path due to trigger multiplicity, entropy conflict, or mirror-specific deltas.
+
+---
+
+### 🛠 **Mirror Repair**
+> A subroutine ritual designed to stabilize, correct, or roll back corrupted mirror entries. Often paired with `EntropyBalancer` or `Kernel69` triggers.
+
+---
+
+### 💠 **Ritual Trigger**
+> A precondition or signal (biofeedback, schedule, agent quorum, entropy spike) that initiates the execution of a ritual via `TriggerStack`.
+
+---
+
+> Glossary status: **Draft 0.1** — contribute via `CONTRIBUTING.md` or link terms to `mirror.md`, `trust.md`, and `recipes_agents.md`.
 
 ---
 
