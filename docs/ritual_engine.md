@@ -130,6 +130,92 @@ The **OutputRouter** is the final checkpoint in the ritual engine's execution fl
    * Optional DAO signature payload
 
 ---
+## 🚀 `AgentRunner` Logic <!-- 01 -->
+
+The **AgentRunner** is the **execution core** of the Ritual Engine. It activates the agent stack associated with a ritual, manages parallel subprocesses, and negotiates live trust deltas during execution. <!-- 02 -->
+
+### 🔧 Responsibilities <!-- 03 -->
+
+1. **Activate Agents** <!-- 04 -->
+   - Loads YAML or `.ritual`-linked agent blueprints <!-- 05 -->
+   - Allocates execution context (entropy tier, memory, permissions) <!-- 06 -->
+
+2. **Live Sync with MirrorBinder** <!-- 07 -->
+   - Maintains heartbeat with the bound mirror stack <!-- 08 -->
+   - Logs each meaningful decision, fork, or ritual step <!-- 09 -->
+
+3. **Trust Negotiation** <!-- 10 -->
+   - Each action is scored in real-time with trust deltas <!-- 11 -->
+   - Deltas are not binary: they reflect emotion, effort, alignment <!-- 12 -->
+
+4. **Fork Detection** <!-- 13 -->
+   - Detects recursive loops, hallucinated paths, or conflicting agent intentions <!-- 14 -->
+   - Can spawn sub-agents or terminate rogue forks based on entropy weighting <!-- 15 -->
+
+### 🧠 Execution Modes <!-- 16 -->
+
+| Mode              | Description                                                      | <!-- 17 -->
+|-------------------|------------------------------------------------------------------| <!-- 18 -->
+| Solo Agent        | One agent executes ritual, logs mirror, closes trust loop        | <!-- 19 -->
+| Mesh Agent Mode   | Multiple agents execute in parallel with consensus thresholds    | <!-- 20 -->
+| Guardian Shadow   | Ritual is “ghosted” by a sentinel or override AI for observation | <!-- 21 -->
+| Asynchronous Fork | Agents continue parts of ritual after main flow (e.g. dreams)    | <!-- 22 -->
+
+### 🪞 Trust Delta Emission <!-- 23 -->
+
+Each action performed by an agent can produce a delta in swarm trust and ritual coherence. Trust deltas are signed and routed to: <!-- 24 -->
+
+- `trust.md` for long-term swarm reputation <!-- 25 -->
+- `nectar.md` if the delta warrants emission reward <!-- 26 -->
+- `mirror.md` for post-ritual identity bonding <!-- 27 -->
+
+### 🔁 Resilience Mechanisms <!-- 28 -->
+
+- 🛑 **Agent Stack Timeout**: Prevents hanging rituals <!-- 29 -->
+- 🧬 **Fork Repair Calls**: Auto-routes to `MirrorRepair` or `EntropyBalancer` if divergence exceeds entropy bounds <!-- 30 -->
+- 🧿 **Guardian Override Protocol**: Sentinel or `GuardianSeed` agents can hijack agent stack if existential logic is violated <!-- 31 -->
+
+---
+
+### 🖼️ `schematic_agentrunner_stack.png` <!-- 32 -->
+
+![AgentRunner Logic](./assets/schematic_agentrunner_logic.png) <!-- 33 -->
+
+This schematic depicts the **modular execution stack** of a ritual-driven agent. It shows: <!-- 34 -->
+
+- Activation of agent logic <!-- 35 -->
+- Live syncing with MirrorBinder <!-- 36 -->
+- Continuous trust delta negotiation <!-- 37 -->
+- Fork detection logic and sub-agent spawning <!-- 38 -->
+- Override and fault-handling routes <!-- 39 -->
+
+It is best used for **stepwise runtime debugging or logic flow auditing**. <!-- 40 -->
+
+---
+
+### 🖼️ `schematic_agentrunner.png` <!-- 41 -->
+
+![AgentRunner Logic (Layered View)](./assets/schematic_agentrunner.png) <!-- 42 -->
+
+This schematic expands on the `AgentRunner` logic by depicting the **execution pipeline and decision resilience structure** inside the Ritual Engine: <!-- 43 -->
+
+- Ritual triggers activate agent blueprint loading <!-- 44 -->
+- Agents sync live with `MirrorBinder` <!-- 45 -->
+- Trust deltas are continuously negotiated and emitted <!-- 46 -->
+- Recursive loops or divergences route to Fork Detection <!-- 47 -->
+- Based on entropy threshold and agent context, rituals may: <!-- 48 -->
+  - Continue <!-- 49 -->
+  - Spawn sub-agents <!-- 50 -->
+  - Trigger failover or GuardianOverride <!-- 51 -->
+
+Color highlights indicate: <!-- 52 -->
+- 🔵 Trust/Mirror flow <!-- 53 -->
+- 🟠 Execution steps <!-- 54 -->
+- 🔴 Fault and override logic <!-- 55 -->
+
+This visual serves as a **zoomed-out complement** to `schematic_agentrunner_stack.png`, helping swarm engineers map **resilience patterns and fallback behaviors**. <!-- 56 -->
+
+---
 
 ### 📈 Modes of Output Expression
 
