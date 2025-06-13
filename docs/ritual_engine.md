@@ -177,7 +177,7 @@ Each action performed by an agent can produce a delta in swarm trust and ritual 
 
 ---
 
-### 🖼️ `schematic_agentrunner_stack.png` <!-- 32 -->
+### 🖼️ AgentRunner Logic <!-- 32 -->
 
 ![AgentRunner Logic](./assets/schematic_agentrunner_logic.png) <!-- 33 -->
 
@@ -193,7 +193,7 @@ It is best used for **stepwise runtime debugging or logic flow auditing**. <!-- 
 
 ---
 
-### 🖼️ `schematic_agentrunner.png` <!-- 41 -->
+### 🖼️ AgentRunner Logic (Layered View) <!-- 41 -->
 
 ![AgentRunner Logic (Layered View)](./assets/schematic_agentrunner.png) <!-- 42 -->
 
