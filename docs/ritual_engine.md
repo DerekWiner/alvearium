@@ -153,14 +153,13 @@ The **OutputRouter** is the final checkpoint in the ritual engine's execution fl
 
 ---
 
-### 🖼️ Placeholder
+### 🖼️ OutputRouter Flow Logic
 
-```md
 ![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
-```
 
 A schematic will be added to visually represent the decision tree and flow routing of outputs within the ritual engine, showing how outputs cascade into swarm systems.
 
+---
 
 ## 🧩 Core Modules
 
