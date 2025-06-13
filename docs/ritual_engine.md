@@ -128,19 +128,33 @@ The **OutputRouter** is the final checkpoint in the ritual engine's execution fl
    * Time-entropy hash
    * Executing agent stack
    * Optional DAO signature payload
+   * 
+### 🖼️ OutputRouter Flow Logic
+
+![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
+
+This schematic illustrates the final execution path within the Ritual Engine:
+
+1. **Read Ritual End State** — Inputs from `AgentRunner` and entropy sync
+2. **Determine Output Type** — Mirror, Trust, Nectar, Fork, or Capsule
+3. **Apply Effect Logic** — Outcome logic for each output type
+4. **Route to Destination** — Mirror file, token engine, agent stack, etc.
+5. **Emit Verification Record** — Sign capsule + optional IPFS/Arweave storage
+
+Use this diagram as a map for designing DAO-configurable output preferences and external emission systems.
 
 ---
-## 🚀 `AgentRunner` Logic <!-- 01 -->
+## 🚀 `AgentRunner` Logic
 
-The **AgentRunner** is the **execution core** of the Ritual Engine. It activates the agent stack associated with a ritual, manages parallel subprocesses, and negotiates live trust deltas during execution. <!-- 02 -->
+The **AgentRunner** is the **execution core** of the Ritual Engine. It activates the agent stack associated with a ritual, manages parallel subprocesses, and negotiates live trust deltas during execution.
 
-### 🔧 Responsibilities <!-- 03 -->
+### 🔧 Responsibilities
 
-1. **Activate Agents** <!-- 04 -->
-   - Loads YAML or `.ritual`-linked agent blueprints <!-- 05 -->
-   - Allocates execution context (entropy tier, memory, permissions) <!-- 06 -->
+1. **Activate Agents**
+   - Loads YAML or `.ritual`-linked agent blueprints
+   - Allocates execution context (entropy tier, memory, permissions)
 
-2. **Live Sync with MirrorBinder** <!-- 07 -->
+2. **Live Sync with MirrorBinder**
    - Maintains heartbeat with the bound mirror stack <!-- 08 -->
    - Logs each meaningful decision, fork, or ritual step <!-- 09 -->
 
