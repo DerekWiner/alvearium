@@ -33,8 +33,6 @@ Agents can evolve, mirror, or spawn forks.
 
 ## 🐝 Core Agent Archetypes & Branches
 
----
-
 ### 📘 `ScholarDrone`
 **Core Function**: Learning agent for youth, peer-led microcurricula, or adult upskilling.
 
@@ -171,7 +169,7 @@ Agents can evolve, mirror, or spawn forks.
 
 ---
 
-## 📎 Related Files in `docs/`
+## 📌 Related Files in `docs/`
 
 - [`Manifesto_core.md`](./Manifesto_core.md)
 - [`security.md`](./security.md)
