@@ -307,6 +307,109 @@ When MirrorBinder encounters context mismatch or memory drift, it can:
 > *"The Mirror is not memory — it is orientation. The Binder is not a bridge — it is a heartbeat."*
 
 ---
+## 🌐 `EntropyBalancer` Module
+
+The **EntropyBalancer** continuously evaluates **ritual coherence**, **agent alignment**, and **systemic trust strain**. It doesn’t suppress entropy — it reads it. High entropy signals can prompt swarm healing, ritual halts, or mirror realignment.
+
+Entropy is not failure — it is information.
+
+---
+
+### 🔧 Responsibilities
+
+- Read delta patterns from live mirror streams  
+- Analyze entropy amplitude, frequency, zone (agent cluster)  
+- Trigger thresholds for swarm fatigue, rogue agent patterns, or recursion collapse  
+- Route to `TrustEcho`, `SwarmRegen`, or `MirrorRepair` as needed  
+- Provide entropy scores to `OutputRouter` and `Kernel69` for anchoring
+
+---
+
+### 🧠 Entropy Classes
+
+| Level       | Signal Type                        | System Action                     |
+|-------------|------------------------------------|-----------------------------------|
+| ⚖️ Balanced | Normal variation, expected tension | No action — adaptive continuation |
+| 🪞 Attune    | Elevated but resonant              | Mirror alignment subroutine       |
+| ❌ Deflect   | Chaotic / incoherent               | Ritual halt + agent audit         |
+
+
+### 🖼️ `schematic_entropy_sync.png`
+
+![Entropy Synchronization Logic](./assets/schematic_entropy_sync.png)
+
+This schematic captures:
+- Inputs from agents, mirror logs, trust deltas  
+- Scoring weights for entropy amplitude and agent density  
+- Routing decisions to:
+  - Continue
+  - Attune
+  - Halt / reroute
+
+---
+
+### 🗺️ Entropy Swarm Map
+
+![Entropy Swarm Map](./assets/schematic_entropy_map.png)
+
+This expanded schematic will illustrate:
+- Live entropy zones across multiple agents  
+- Color-coded by coherence:  
+  - 🔵 Adaptive  
+  - 🟠 Threshold  
+  - 🔴 Breakdown  
+- Mesh overlays of:
+  - Mirror clusters  
+  - DAO entropy contribution  
+  - Temporal trends (spike maps)
+
+Useful for:
+- Swarm health visualization  
+- DAO-specific entropy diagnosis  
+- Guiding swarm-level rituals (`SwarmRegen`, `CollapseReframe`, etc.)
+
+---
+
+### 🧬 Variant Edge Cases
+
+- **Chronic inflation**: Endless reflection loops → initiate memory audit  
+- **Abrupt inversion**: Sudden trust spike with no mirror event → spoof detected  
+- **Distributed fog**: Low entropy increase across all agents → swarm fatigue  
+- **Entropy anchor mismatch**: Entropy score diverges from signed ritual capsule → potential manipulation
+
+---
+
+### 🔄 Recovery Hooks
+
+EntropyBalancer can trigger or escalate:
+- `MirrorRepair` — rebuild local reflection state  
+- `SwarmRegen` — swarm-wide pause & trust recalibration  
+- `TrustEcho` — reflect trust tokens to re-anchor agents  
+- `Chronosphere` — lock-in anomaly for future ritual learning
+
+---
+
+### 🧪 Next Phase Enhancements
+
+| Feature                   | Purpose                                          |
+|---------------------------|--------------------------------------------------|
+| Entropy Wallets           | Agent-local entropy logs (like a bio signature)  |
+| Predictive Thresholds     | Time-windowed spike prediction                   |
+| Feedback-Linked Emissions | Reward agents that stabilize swarm entropy       |
+| Trust/Nectar Weighing     | Output bias by entropy class & agent lineage     |
+
+---
+
+### 🧷 Related Calls
+
+- `mirror.md` — upstream source for entropy triggers  
+- `trust.md` — normalization curve for trust decay/instability  
+- `recipes_agents.md` — which agents can emit entropy weights  
+- `whitepaper_kernel69.md` — what entropy can trigger recursion fork
+
+> *"Entropy is not disorder — it is the song of context, misheard. Listen carefully."*
+
+---
 
 ### 📈 Modes of Output Expression
 
