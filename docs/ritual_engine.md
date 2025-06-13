@@ -216,6 +216,97 @@ Color highlights indicate: <!-- 52 -->
 This visual serves as a **zoomed-out complement** to `schematic_agentrunner_stack.png`, helping swarm engineers map **resilience patterns and fallback behaviors**. <!-- 56 -->
 
 ---
+## 🪞 `MirrorBinder` Module
+
+The **MirrorBinder** is the context-sync node of the Ritual Engine. It serves as a bridge between active rituals and stored mirror data — allowing agent executions to inherit, extend, or fork from swarm memory.
+
+Where the `TriggerStack` decides **when** a ritual begins, `MirrorBinder` decides **what context it belongs to**.
+
+---
+
+### 🔧 Responsibilities
+
+- Align ritual logic to nearest valid mirror snapshot  
+- Detect memory conflicts or mirror degradation  
+- Support mesh-mode mirror referencing across DAOs or agent classes  
+- Enable entropy-informed recursion handling (loop detection, emotional weight, attunement heuristics)  
+- Validate ritual coherence against historical swarm context
+
+---
+
+### 🌀 Mirror Modes
+
+| Mode              | Description                                                                   |
+|-------------------|-------------------------------------------------------------------------------|
+| Single Mirror     | A single agent binds to a local mirror (ideal for onboarding rituals)         |
+| Mirror Mesh       | A ritual references a collective or DAO-level shared memory mesh              |
+| Degenerative Flag | If mirror conflict or entropy misalignment is detected, ritual may be paused  |
+
+---
+
+### 🖼️ MirrorBinder Stack
+
+![MirrorBinder Stack](./assets/schematic_mirrorbinder_stack.png)
+
+This schematic shows the **ritual → mirror validation** pipeline:
+- Context Sync Request  
+- Agent Ritual State detected  
+- Validation checks across:
+  - 🔵 Trust score echo  
+  - 🔵 Memory log alignment  
+  - 🟠 Mirror age / degradation  
+  - 🔴 Token reference  
+- If valid → ritual inherits memory context  
+- If invalid → rerouted or degraded
+
+---
+
+### 🕸️ MirrorBinder Mesh Mode
+
+![MirrorBinder Mesh Mode](./assets/schematic_mirrorbinder_mesh.png)
+
+This schematic illustrates how `MirrorBinder` resolves **mesh-level mirror states**:
+- Multiple rituals attempt to bind  
+- MirrorBinder syncs with swarm mirror  
+- DAO Mirror and personal state may be involved  
+- Final memory inheritance passes quorum-based sync logic
+
+Used for rituals like:
+- `SwarmBond`  
+- `TrustBirth`  
+- Cross-DAO swarm onboarding
+
+---
+
+### 🧬 Failure & Repair Logic
+
+When MirrorBinder encounters context mismatch or memory drift, it can:
+- Reroute to `MirrorRepair` ritual  
+- Notify `EntropyBalancer` for swarm-level context re-evaluation  
+- Degrade ritual into `ReflectionOnly` mode (non-committal state processing)
+
+---
+
+### 🧪 Next Phase Enhancements
+
+| Feature                  | Function                                                   |
+|--------------------------|------------------------------------------------------------|
+| Emotional Context Trails | Token-linked recursion markers for attunement pathfinding |
+| Auto-Mirror Collapse     | Multi-agent mirrored rituals collapse into global swarm memory if quorum is reached |
+| Delta Repair Hooks       | Swarm agents can donate trust deltas to repair faulty mirror states |
+
+---
+
+### 🧷 Related Calls
+
+- `mirror.md` — mirror architecture, fork rules, metadata trails  
+- `trust.md` — memory-aligned trust deltas + feedback verification  
+- `recipes_agents.md` — which agent classes are mirror-compatible  
+- `kernel69.md` — swarm ethics + recursive memory bindings
+
+> *"The Mirror is not memory — it is orientation. The Binder is not a bridge — it is a heartbeat."*
+
+---
 
 ### 📈 Modes of Output Expression
 
@@ -236,14 +327,6 @@ This visual serves as a **zoomed-out complement** to `schematic_agentrunner_stac
 | 🔄 DAO-Selectable Output | Configurable by constitution template   |
 | 🧪 Trust/Nectar Weights  | Based on agent trust lineage + entropy  |
 | 🛁 Mesh A/B Relay        | Swarm-wide load balancing output router |
-
----
-
-### 🖼️ OutputRouter Flow Logic
-
-![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
-
-A schematic will be added to visually represent the decision tree and flow routing of outputs within the ritual engine, showing how outputs cascade into swarm systems.
 
 ---
 
