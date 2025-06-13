@@ -31,14 +31,14 @@ These agents are **mirror-native**, memory-anchored, and fully forkable.
 
 ---
 
-## 📎 Bio-Inputs & Modalities
+## 📌 Bio-Inputs & Modalities
 
 | Input Type      | Agent Usage Example                               |
 |------------------|---------------------------------------------------|
-| 🫁 Breath rate     | Calm loop agents, GuardianSeed pacers             |
+| �� Breath rate     | Calm loop agents, GuardianSeed pacers             |
 | ❤️ Heart rate      | Ritual threshold triggers, fear-loop intercepts  |
 | 🧠 EEG signal      | Agent awareness shift, task focus calibration     |
-| 🖐️ Tactile feedback | Interaction reinforcement, habit anchoring        |
+| 👐 Tactile feedback | Interaction reinforcement, habit anchoring        |
 | 🧬 Hormonal markers| Long-loop mood shaping, adolescent ritual logs    |
 
 All inputs remain **private by default**, never monetized or extracted.  
