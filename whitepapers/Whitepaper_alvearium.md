@@ -49,6 +49,7 @@ Each is governed by **Open Source Without Malice** and the **69 Protocol**.
 ### 📊 Schematic: Ecosystem Interflow Map
 
 ```
+
 ![Ecosystem Interflow Map](./assets/schematic_ecosystem_map.png)
 
 ```
@@ -74,6 +75,7 @@ Swarm coherence is maintained through mirror attunement, trust deltas, agentic r
 ### 🧬 Schematic: Reflective Intelligence Architecture
 
 ```
+
 ![Layered Swarm Intelligence Stack](./assets/schematic_layered_swarm.png)
 
 ```
