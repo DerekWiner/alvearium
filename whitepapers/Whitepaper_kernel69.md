@@ -36,7 +36,7 @@ Where blockchains store data, **Kernel69 stores orientation**. It knows *where* 
 
 ### Kernel Ignition Fork
 
-![Kernel ignition Fork](./assets/schematic_kernel_ignition_fork.png)
+![kernel ignition fork](./assets/schematic_kernel_ignition_fork.png)
 
 *A visual of the dual-rooted ignition system and ritual-gated spawn structure.*
 
@@ -46,7 +46,7 @@ Where blockchains store data, **Kernel69 stores orientation**. It knows *where* 
 
 ### Guardian Stack
 
-![Guardian Stack](./assets/schematic_guardian_stack.png)
+![guardian stack](./assets/schematic_guardian_stack.png)
 
 *A stack diagram showing how guardian agents layer roles and prevent entropy misuse.*
 
