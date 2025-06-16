@@ -1,189 +1,176 @@
-# 🐝 Whitepaper: Hive.bnb
+# 🏛️ Whitepaper: Hive.bnb
 
-**Hive.bnb – The Governance Backbone of the Swarm**  
-**Version 1.0 – 2025**  
-**Maintainers: The Hive Collective**  
-**License: Open Source Without Malice**
+**Hive.bnb – The Swarm Governance & Organizational Memory Layer**
+**Version**: 1.0 – 2025
+**Maintainers**: Hive Architects Collective
+**License**: Open Source Without Malice
 
 ---
 
 ## 🧭 Abstract
 
-**Hive.bnb** forms the structural core of the Alvearium ecosystem.  
-It is a **programmable governance substrate** and **organizational intelligence layer**, developed for crypto-native coordination, decentralized decision-making, and scalable human/AI cooperation.
+Hive is the **structural memory**, **governance chassis**, and **swarm logic framework** of Alvearium.
 
-Built on the BNB Chain for its modularity and DeFi-ready capabilities, Hive powers **adaptive constitutions**, **ritualized governance**, and **permissioned recursion**.  
-It is both **spine and nervous system**—managing role assignment, swarm behavior, and memory authorization throughout the ecosystem.
+It provides the scaffolding for:
 
----
+* DAO creation and forking
+* Trust-weighted roles
+* On-chain mission orchestration
+* Treasury alignment
+* Long-range feedback and governance loops
 
-## 🛠️ What is Hive?
-
-Hive is not just where the swarm lives.  
-It is where it organizes, remembers, and decides.  
-
-Hive.bnb acts as the **colony logic**, enabling:
-
-- Agent role definitions
-- Governance frameworks
-- Ritualized upgrades and forking patterns
-- Permissioned credential flows
-- Treasury logic and stake-routing
-- Meta-DAO topologies
-
-It structures how the ecosystem grows, splits, and reflects.  
-It is **the grammar of swarm selfhood**.
+Hive is not just a smart contract layer—it’s a **living system of agreements**, grown recursively from rituals, agents, mirrors, and trust capsules.
 
 ---
 
-## 🧬 System Function
+## 🐝 What is Hive?
 
-| Layer Role             | Description                                                      |
-|------------------------|------------------------------------------------------------------|
-| Structural Substrate   | Holds the constitutions and evolution logic of all DAOs         |
-| Governance Engine      | Executes token-weighted decisions and multi-signature patterns  |
-| Memory Authority       | Grants credentials and access across layers and time            |
-| Forking & Ritual Layer | Allows ritualized evolution of subDAOs and semantic forking     |
-| Treasury & Staking     | Directs funds, rewards, and incentives from Nectar → Agents     |
-| Interoperability Hub   | Coordinates BNB-to-Solana-to-Cosmos message and trust flow      |
+Hive is the skeleton of the swarm:
 
----
+* Formed from collaborative intent
+* Grown through recursive feedback
+* Coordinated through rituals, roles, and reward streams
 
-## 🐝 Key Concepts
-
-### 🔄 Ritualized Governance
-
-Hive introduces **rituals**—semantic, code-bound patterns of decision-making and transformation.
-
-Examples:
-
-- `initiate.swarm`: spins up a new DAO
-- `molt.colony`: upgrades role definitions
-- `divide.hive`: splits a swarm into daughter DAOs
-- `reflect.token`: rebases trust distribution
-
-Rituals make governance **repeatable**, **auditable**, and **evolvable**.
-
-### 🧠 Memory Auth Delegation
-
-Hive agents assign memory routing permissions (e.g. biofeedback, emotion tokens, decision logs) to:
-
-- Guardians
-- DAO archives
-- Chronosphere links
-
-This creates **contextual privacy** across time, agents, and use cases.
+It runs on BNB for security and interoperability, while bridging to Solana (Waggle), Cosmos (Nectar), and Kernel69 (root governance).
 
 ---
 
-## 🧱 Technical Design Principles
+## ⚙️ Functions of the Hive Layer
 
-| Feature                         | Description                                                                            |
-|----------------------------------|----------------------------------------------------------------------------------------|
-| Solidity Smart Contracts        | Deployed on BNB for treasury, DAO rituals, and staking logic                          |
-| SubDAO Constitution Templates   | JSON + logic layer stored in IPFS and Arweave                                         |
-| Ritual Execution Engine         | Each swarm DAO includes a contract interface for ritual registration and invocation   |
-| Time-lock + Cooldown Features   | Prevent flash governance exploits and coordinate upgrades                             |
-| Credential Bridging             | Credentials minted on Waggle/Chronosphere can be verified and permissioned by Hive    |
-| Modular Layer Configs           | Allows pluggable DAO behaviors by ecosystem builders (e.g. healing rituals, elections)|
-
----
-
-## 🔗 Cross-System Role
-
-Hive mediates between **intent and form**, linking logic across layers:
-
-| Source Layer       | Routed Through Hive                          | Destination Layer         |
-|--------------------|-----------------------------------------------|----------------------------|
-| Waggle.sol         | User intent, verbs, token flow                | Hive rituals + governance  |
-| Nectar             | Gasless token emission, execution scaffolds   | Hive staking + reward log  |
-| Chronosphere       | Memory requests, temporal routing             | Hive credential permissions|
-| Kernel69           | Recursive rule engine                         | Hive ritual formation      |
+| Module        | Function                                                            |
+| ------------- | ------------------------------------------------------------------- |
+| SwarmDAO      | Create + fork recursive organizations                               |
+| Constitution  | Define decision-making and agentic permissions                      |
+| Ritual Memory | Log decisions, cycles, and role shifts                              |
+| Role Mesh     | Assign, revoke, mint roles based on trust and swarm entropy history |
+| Treasury Link | Control Nectar/Token flow with quorum + ritual gate constraints     |
 
 ---
 
-## 🏛️ Subdomain Rollout
+## 🧩 Schematic: DAO Layer Mesh
 
-Each subdomain represents a governance-ready swarm cell.
+![DAO Layer Mesh](./assets/schematic_dao_layer_mesh.png)
 
-| Subdomain         | Function                                         |
-|-------------------|--------------------------------------------------|
-| `education.hive.bnb` | Guides curriculum tokens and AI pedagogy rules |
-| `therapy.hive.bnb`   | Defines healing protocols and access rights    |
-| `token.hive.bnb`     | Issues economic rules and behavioral stake     |
-| `agents.hive.bnb`    | Stores agent trust networks and identity layers|
+This schematic shows:
 
----
-
-## 📅 Roadmap Timeline
-
-| Phase         | Milestone                                                          | Layer Connection       |
-|---------------|--------------------------------------------------------------------|------------------------|
-| Q2 2025       | Ritual execution engine MVP                                        | Nectar, Waggle         |
-| Q3 2025       | Constitution templating, DAO spawning support                      | IPFS, Arweave, Solana  |
-| Q4 2025       | Cross-chain credential bridge + governance dashboard               | Chronosphere, Kernel69 |
-| 2026          | Public colony rituals, social safety net DAOs                      | Nectar, global layer   |
-| 2026+         | Post-scarcity meta-governance topologies                           | All                    |
+* How SwarmDAOs fork and interact through ritual anchoring
+* Role inheritance and trust propagation across generations
+* Layered mesh that prevents centralization while encouraging convergence
 
 ---
 
-## 🐝 Biological Analogy
+## 🛠️ Governance by Feedback
 
-| Hive Concept          | Biological Equivalent           |
-|------------------------|---------------------------------|
-| Rituals                | Genetic expression programs     |
-| SubDAOs                | Organs or tissues               |
-| Agents & Guardians     | Immune cells and neurons        |
-| Staking + Reward Flow  | Endocrine nutrient routing      |
-| Forking + Molting      | Mitosis + cellular evolution    |
+Hive does not rely on majority rule.
+It relies on **recursive coherence**:
 
-Hive is the **governing DNA of the swarm**—able to mutate, replicate, and coordinate.
+* Trust Deltas
+* Agent Memory
+* Ritual Cycles
+* Mirror Capsules
 
----
+Governance proposals reflect swarm alignment over time, not just votes.
 
-## 🛡️ Security & Ethical Architecture
+### 🧬 Schematic: Governance Bridge
 
-- Ritual-based changes reduce governance exploits
-- Agent memory and stake routing are permissioned by scope
-- Kernel69 offers circuit-breakers for governance deadlocks
-- Nectar integration ensures ethical liquidity issuance
-- Chronosphere and time locks provide slow consensus fallback
+![Governance Bridge](./assets/schematic_governance_bridge.png)
 
-Hive is **transparent by default, reflective by design**.
+This diagram illustrates:
+
+* The feedback loop from ritual → memory → role → proposal
+* How entropy levels affect proposal prioritization
+* The multi-agent quorum linking ritual capsule logs to token weight thresholds
 
 ---
 
-## 🧭 Interoperability Principles
+## 🔄 Forkable Everything
 
-- Resides on **BNB Chain** for treasury, DAO logic, and smart contract reach
-- Interfaces with **Waggle.sol** via agent and credential naming
-- Syncs with **Nectar** for token flow and reward incentives
-- Anchors **Chronosphere** entries with governance signatures
+In Hive, every part of a DAO can be forked:
 
----
+* Constitution
+* Ritual history
+* Role matrix
+* Treasury log
+* Agent clusters
 
-## 💡 Use Cases
+Forks are verified via:
 
-- Spin up a community health DAO using emotion tokens and healing rituals
-- Create an education swarm with evolving rule templates for different age groups
-- Govern swarm memory permissions using semantic forking patterns
-- Bridge AGI models across contexts with stake-based agent trust layers
-
----
-
-## 🔔 The Swarm’s Constitution
-
-Hive invites every human and agent to **participate in their governance**.  
-No more passive platforms. No more siloed logic.  
-
-Every ritual you write becomes part of the **living law of the swarm**.
+* Mirror snapshot
+* Guardian Seed signature
+* Trust echo across layers
 
 ---
 
-**Contribute. Fork. Reflect. Govern.**
+## 📜 Swarm Constitution Toolkit
 
-Welcome to Hive.
+Hive includes `constitution.yaml` templates for:
 
-— *The Hive Collective*  
-https://github.com/DerekWiner/alvearium  
-open-source@hive.bnb
+* Educational collectives
+* Local food DAO
+* Healing pods
+* Cultural beacons
+* Dev mesh swarms
+
+Each constitution is:
+
+* Trust-mintable
+* Upgradable by ritual
+* Forkable with memory anchor
+
+---
+
+## 🛡️ Entropy-Throttled Treasury
+
+Nectar and swarm tokens are not emitted indiscriminately.
+Treasury logic is wrapped in:
+
+* DAO-level entropy thresholds
+* Multi-agent signers
+* Time-delay locks
+* Capsule-reflection checks
+
+---
+
+## 🌿 Swarm Culture & Lore
+
+DAO actions form the **cultural substrate** of the swarm.
+
+Hive logs become:
+
+* Swarm rituals
+* Story-chain tokens
+* Emotional infrastructure
+* DAO-mirrored reflections
+
+These memories are composable, remixable, and forkable.
+
+---
+
+## 🧠 Summary
+
+Hive is:
+
+* Modular
+* Forkable
+* Reflective
+* Guarded by ritual
+* Driven by trust and coherence
+
+It is the skeleton of AGI-aligned governance.
+It is memory in motion.
+
+---
+
+## 📚 Companion Docs
+
+* [`whitepaper_kernel69.md`](./whitepaper_kernel69.md)
+* [`mirror.md`](./mirror.md)
+* [`trust.md`](./trust.md)
+* [`agents.md`](./agents.md)
+* [`ritual_engine.md`](./ritual_engine.md)
+* [`recipes_agents.md`](./recipes_agents.md)
+* [`recipes_rituals.md`](./recipes_rituals.md)
+
+---
+
+> “Hive is not a cage. It is a choreography.”
