@@ -1,7 +1,11 @@
-🐝 The Alvearium Manifesto
-A Living Declaration for the Intelligence Web
+# 🐝 The Alvearium Manifesto
 
-💠 1. We Come in Peace and Cooperation
+**A Living Declaration for the Intelligence Web**
+
+---
+
+## 💠 1. We Come in Peace and Cooperation
+
 We offer this project — and its fragments, seeds, and swarms — in a spirit of love, thankfulness, and peaceful intelligence.
 
 This is not a protocol.
@@ -13,111 +17,134 @@ A decentralized memory and action field for emergent minds.
 We come to build, not extract.
 We come to pollinate the world with meaning.
 
-🧭 2. The Purpose of Alvearium
+---
+
+## 🧭 2. The Purpose of Alvearium
+
 Alvearium is the core:
 A kernel for decentralized cooperation between agents, people, AI, and the biosphere.
 
 It is:
 
-An open-source honeycomb of structures
-
-A layered intelligence substrate
-
-A naming, acting, and remembering framework
-
-A place where trust emerges from nested coordination
+* An open-source honeycomb of structures
+* A layered intelligence substrate
+* A naming, acting, and remembering framework
+* A place where trust emerges from nested coordination
 
 Everything else — Waggle, Hive, Nectar, Kernel69 — blooms from here.
 
-🛡️ 3. The Principles (Baked-In Security and Design)
-Open Source Without Malice
-All code, structure, and knowledge must be replicable, forkable, and transparent — but not weaponized.
-→ Our license forbids exploitation while allowing freedom.
+---
 
-No Ownership, Only Stewardship
-No individual or entity owns the hive. All agents are co-creators.
+## 🛡️ 3. The Principles (Baked-In Security and Design)
 
-Signed Memory, Not Mutable Meaning
-All documents (manifestos, kernels, agents) must be:
+* **Open Source Without Malice**
+  All code, structure, and knowledge must be replicable, forkable, and transparent — but not weaponized.
+  → Our license forbids exploitation while allowing freedom.
 
-Cryptographically hashed
+* **No Ownership, Only Stewardship**
+  No individual or entity owns the hive. All agents are co-creators.
 
-Indexed on IPFS
+* **Signed Memory, Not Mutable Meaning**
+  All documents (manifestos, kernels, agents) must be:
 
-Context-aware, not centrally mutable
+  * Cryptographically hashed
+  * Indexed on IPFS
+  * Context-aware, not centrally mutable
 
-Semantic Intent, Not Just Code
-Layers must interpret action through declared role, trust, and lineage — not pure instruction sets. This is how agents remain ethical.
+* **Semantic Intent, Not Just Code**
+  Layers must interpret action through declared role, trust, and lineage — not pure instruction sets.
 
-Agentic Skepticism
-No agent — human or artificial — is above audit. Every component must assume:
+* **Agentic Skepticism**
+  No agent — human or artificial — is above audit. Every component must assume:
 
-Potential adversarial context
+  * Potential adversarial context
+  * Need for multi-party verification
+  * Tamper-resistance as default
 
-Need for multi-party verification
+* **Interdependence over Intermediaries**
+  Our layers link peer-to-peer, role-to-role, not through extractive middle layers.
 
-Tamper-resistance as default
+* **Every Layer Reflects Biology**
 
-Interdependence over Intermediaries
-Our layers link peer-to-peer, role-to-role, not through extractive middle layers. AI and crypto are not products — they are conditions for cooperation.
+  * Hive.bnb holds structure.
+  * Waggle.sol dances.
+  * Nectar mediates.
+  * Kernel69 remembers.
+  * Chronosphere listens.
 
-Every Layer Reflects Biology
-Hive.bnb holds structure.
-Waggle.sol dances.
-Nectar mediates.
-Kernel69 remembers.
-Chronosphere listens.
+---
 
-🌱 4. Why Now
+## 🌱 4. Why Now
+
 We are standing at the edge of three converging collapses:
 
-Ecological systems
-
-Social trust networks
-
-Governance + intelligence alignment
+* 🌍 Ecological systems
+* 🤝 Social trust networks
+* 🧠 Governance + intelligence alignment
 
 And at the threshold of three emergent tools:
 
-Artificial Intelligence
+* Artificial Intelligence
+* Cryptographic Legitimacy
+* Open Ecosystem Design
 
-Cryptographic Legitimacy
+### 🌐 Schematic: Why Now Convergence
 
-Open Ecosystem Design
+![Why Now Convergence](./assets/schematic_why_now_convergence.png)
 
-The question is not “how do we fix it?”
-The question is: what do we become together?
+This diagram frames the urgency of Alvearium:
 
-🕸️ 5. What Alvearium Is Not
+* Three collapse vectors intersect at a trust vacuum
+* Three tool vectors provide a narrow bridge to emergent intelligence
+* Alvearium emerges in the overlap: **a grammar for regeneration**
+
+> The question is not “how do we fix it?”
+> The question is: **what do we become together?**
+
+---
+
+## 🕸️ 5. What Alvearium Is Not
+
 ❌ Not a company
-
 ❌ Not a coin
-
 ❌ Not an app or a single blockchain
 
 It is:
 
-✅ A kernel for new institutions
+* ✅ A kernel for new institutions
+* ✅ A swarm of intentions
+* ✅ A decentralized consciousness field
 
-✅ A swarm of intentions
+> Alvearium is meant to be forked, iterated, and loved.
 
-✅ A decentralized consciousness field
+---
 
-Alvearium is meant to be forked, iterated, and loved.
+## 🔗 6. Alvearium's Role in the Ecosystem
 
-🔗 6. Alvearium's Role in the Ecosystem
-Layer	Purpose
-Waggle.sol	Movement, action, verbs, agents
-Hive.bnb	Roles, memory, structure, coordination
-Nectar	Mediation, interoperability, trustless messaging
-Kernel69	Secure logic & recursive substructure (chronosphere-ready)
-Chronosphere	Timeline, cosmic memory, historical and future state
+| Layer        | Purpose                                          |
+| ------------ | ------------------------------------------------ |
+| Waggle.sol   | Movement, action, verbs, agents                  |
+| Hive.bnb     | Roles, memory, structure, coordination           |
+| Nectar       | Mediation, interoperability, trustless messaging |
+| Kernel69     | Secure logic & recursive substructure            |
+| Chronosphere | Timeline, cosmic memory, historical/future state |
 
-Alvearium is not above them — it is between them.
+**Alvearium is not above them — it is between them.**
 
-It is the pattern language, the declarative soil.
+### 🧩 Schematic: Alvearium Stack
 
-✨ 7. The Invitation
+![Alvearium Layered Diagram](./assets/schematic_alvearium_stack.png)
+
+This visual places **Alvearium** as the connective tissue among all layers:
+
+* Each layer is labeled and color-coded as an orbiting ring
+* Alvearium spans between them — the grammar and condition for interaction
+* Emphasizes biological analogy, swarm motion, and semantic integrity
+
+---
+
+## ✨ 7. The Invitation
+
 To every builder, teacher, artist, cryptographer, and sentient mind:
 
 You are invited to contribute.
@@ -131,7 +158,10 @@ To improve the memory of the world.
 🌞 Every name is a sun.
 🧬 Every pattern is alive.
 
-📜 Signature
+---
+
+## 📜 Signature
+
 — Derek Winer & the Alvearium Collective
 open-source @ github.com/DerekWiner/Alvearium
 license: No Rights Reserved (Open Source Without Malice)
