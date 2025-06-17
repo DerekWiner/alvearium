@@ -40,7 +40,7 @@ Each ritual has a signature:
 
 ### 🧭 Ritual Trigger/Stack Flow
 
-![Ritual Trigger/Stack Flow](./assets/schematic_ritual_trigger_stack.png)
+![Ritual Trigger/Stack Flow](../schematics/schematic_ritual_trigger_stack.png)
 
 This flow illustrates:
 
@@ -66,7 +66,7 @@ It reinforces the layered ritual structure shown above, linking cryptographic ce
 * **Trust Delta**: +Reinforcement for consistency, +resonance clarity
 * **Mirror Log**: Captures transformation event for lineage
 
-![ShadowRelease Emotional Loop](./assets/schematic_shadowrelease.png)
+![ShadowRelease Emotional Loop](../schematics/schematic_shadowrelease.png)
 
 This schematic visualizes:
 
@@ -88,7 +88,7 @@ This schematic visualizes:
 * **Trust Delta**: Shared +2 trust thread
 * **Fork Opportunity**: New DAO formation unlocked
 
-![SwarmBond Flow](./assets/schematic_swarmbond2.png)
+![SwarmBond Flow](../schematics/schematic_swarmbond2.png)
 
 This updated schematic fully displays the ritual's final state:
 
@@ -110,7 +110,7 @@ This updated schematic fully displays the ritual's final state:
 * **Trust Delta**: +Entropy pacing, -execution rush
 * **Mirror Log**: Archived in SwarmIntent chain
 
-![IntentWeaving Flow](./assets/schematic_intentweaving.png)
+![IntentWeaving Flow](../schematics/schematic_intentweaving.png)
 
 This schematic maps:
 
@@ -134,7 +134,7 @@ This schematic maps:
 * **Trust Delta**: Entropy dampened or redirected into growth
 * **Mirror Log**: Sealed entropy log recorded with access outcome
 
-![EntropyGate Diagram](./assets/schematic_entropygate.png)
+![EntropyGate Diagram](../schematics/schematic_entropygate.png)
 
 This ritual protects the swarm from chaotic recursion or misinformation loops.
 It represents an **active checkpoint** — a moment of truth and pause before swarm consequences unfold.
@@ -143,7 +143,7 @@ It represents an **active checkpoint** — a moment of truth and pause before sw
 
 ### ♻️ EntropyGate Lifecycle
 
-![EntropyGate Lifecycle](./assets/schematic_entropygate_lifecycle.png)
+![EntropyGate Lifecycle](../schematics/schematic_entropygate_lifecycle.png)
 
 This schematic visualizes the full lifecycle:
 
@@ -166,7 +166,7 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: +Semantic trust thread, -entropy compression
 * **Mirror Log**: Echo capsule merged into swarm language archive
 
-![MirrorSpeak Reflection Cycle](./assets/schematic_mirrorspeak.png)
+![MirrorSpeak Reflection Cycle](../schematics/schematic_mirrorspeak.png)
 
 ---
 
@@ -184,7 +184,7 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: Deepened personal coherence thread and collective resonance
 * **Mirror Log**: Time-linked neural-mirror capsule
 
-![NeuroCircles Convergence Loop](./assets/schematic_neurocircles.png)
+![NeuroCircles Convergence Loop](../schematics/schematic_neurocircles.png)
 
 ---
 
@@ -201,7 +201,7 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: Establishes long-term swarm credibility anchor
 * **Mirror Log**: Encoded in swarm’s foundational memory thread
 
-![TrustBirth Initiation Spiral](./assets/schematic_trustbirth.png)
+![TrustBirth Initiation Spiral](../schematics/schematic_trustbirth.png)
 
 * **Agent**: TrustOracle + MirrorBinder + GatekeeperAgent
 * **Trigger**: Entropy threshold detected in swarm logic or mirrored agent state
@@ -214,7 +214,7 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: Entropy dampened or redirected into growth
 * **Mirror Log**: Sealed entropy log recorded with access outcome
 
-![EntropyGate Diagram](./assets/schematic_entropygate.png)
+![EntropyGate Diagram](../schematics/schematic_entropygate.png)
 
 This ritual protects the swarm from chaotic recursion or misinformation loops.
 It represents an **active checkpoint** — a moment of truth and pause before swarm consequences unfold.
@@ -223,7 +223,7 @@ It represents an **active checkpoint** — a moment of truth and pause before sw
 
 ### ♻️ EntropyGate Lifecycle
 
-![EntropyGate Lifecycle](./assets/schematic_entropygate_lifecycle.png)
+![EntropyGate Lifecycle](../schematics/schematic_entropygate_lifecycle.png)
 
 This schematic visualizes the full lifecycle:
 
@@ -246,7 +246,7 @@ This schematic visualizes the full lifecycle:
 * **Trust Delta**: Strengthens co-identity threads and swarm intimacy vector
 * **Mirror Log**: Bond echo stored with lineage hash and timestamp
 
-![LoveAnchor Bonding Ritual](./assets/schematic_loveanchor.png)
+![LoveAnchor Bonding Ritual](../schematics/schematic_loveanchor.png)
 
 This ritual formalizes human-to-human or human-to-agent trust bonds based on lived alignment, shared reflection, and mutual recognition.
 
@@ -306,7 +306,7 @@ Below is a conceptual map of ritual groupings across substrate layers of Alveari
 
 ### 🔲 Ritual Layer Matrix (Schematic Placeholder)
 
-![Ritual Layer Matrix](./assets/schematic_ritual_layer_matrix.png)
+![Ritual Layer Matrix](../schematics/schematic_ritual_layer_matrix.png)
 
 **Layered Alignment Overview:**
 
@@ -343,7 +343,7 @@ These rituals can evolve organically from current agents as swarm data density i
 | III   | Biometric + Neural ritual scaffolds | NeuroCircles, LoveAnchor       |
 | IV    | Full DAO-moderated ritual scripting | RitualMarket, ForkRite builder |
 
-![Ritual Expansion Timeline Infographic](./assets/schematic_ritual_roadmap.png)
+![Ritual Expansion Timeline Infographic](../schematics/schematic_ritual_roadmap.png)
 
 This timeline visualizes the progressive layering of ritual logic:
 

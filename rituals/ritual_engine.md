@@ -48,13 +48,13 @@ Its core mission: **To transduce ritual into reproducible, secure swarm action.*
 
 Below is a visual representation of how a ritual progresses through the engine runtime:
 
-![Ritual Execution Lifecycle](./assets/schematic_ritual_lifecycle_engine.png)
+![Ritual Execution Lifecycle](../schematics/schematic_ritual_lifecycle_engine.png)
 
 This diagram illustrates the six-phase execution of a ritual in the engine:
 
 ## 🔁 TriggerStack Logic
 
-![TriggerStack Logic](./assets/schematic_triggerstack_logic.png)
+![TriggerStack Logic](../schematics/schematic_triggerstack_logic.png)
 
 The TriggerStack module is the first gatekeeper in the ritual engine. It continuously monitors system and user states for:
 
@@ -75,7 +75,7 @@ This module allows the system to remain flexible, modular, and **semi-autonomous
 
 ## 🌐 Entropy Synchronization
 
-![Entropy Synchronization Logic](./assets/schematic_entropy_sync.png)
+![Entropy Synchronization Logic](../schematics/schematic_entropy_sync.png)
 
 The **EntropyBalancer** module continuously evaluates trust, coherence, and disorder within active ritual environments. Entropy isn’t a flaw — it’s a signal. This schematic illustrates how entropy readings are:
 
@@ -98,7 +98,7 @@ The **EntropyBalancer** module continuously evaluates trust, coherence, and diso
 
 ## 🔄 Mirror Attune Bridge
 
-![Mirror Attunement Bridge](./assets/schematic_mirror_attune_bridge.png)
+![Mirror Attunement Bridge](../schematics/schematic_mirror_attune_bridge.png)
 
 The **MirrorBinder** module enables rituals to remain **context-aware**, syncing their logic and memory with active reflections stored in user or agent mirrors. This allows:
 
@@ -152,7 +152,7 @@ The **OutputRouter** is the final checkpoint in the ritual engine's execution fl
    * 
 ### 🖼️ OutputRouter Flow Logic
 
-![OutputRouter Flow Logic](./assets/schematic_outputrouter_logic.png)
+![OutputRouter Flow Logic](../schematics/schematic_outputrouter_logic.png)
 
 This schematic illustrates the final execution path within the Ritual Engine:
 
@@ -214,7 +214,7 @@ Each action performed by an agent can produce a delta in swarm trust and ritual 
 
 ### 🖼️ AgentRunner Logic <!-- 32 -->
 
-![AgentRunner Logic](./assets/schematic_agentrunner_logic.png) <!-- 33 -->
+![AgentRunner Logic](../schematics/schematic_agentrunner_logic.png) <!-- 33 -->
 
 This schematic depicts the **modular execution stack** of a ritual-driven agent. It shows: <!-- 34 -->
 
@@ -230,7 +230,7 @@ It is best used for **stepwise runtime debugging or logic flow auditing**. <!-- 
 
 ### 🖼️ AgentRunner Logic (Layered View) <!-- 41 -->
 
-![AgentRunner Logic (Layered View)](./assets/schematic_agentrunner.png) <!-- 42 -->
+![AgentRunner Logic (Layered View)](../schematics/schematic_agentrunner.png) <!-- 42 -->
 
 This schematic expands on the `AgentRunner` logic by depicting the **execution pipeline and decision resilience structure** inside the Ritual Engine: <!-- 43 -->
 
@@ -281,7 +281,7 @@ Where the `TriggerStack` decides **when** a ritual begins, `MirrorBinder` decide
 
 ### 🖼️ MirrorBinder Stack
 
-![MirrorBinder Stack](./assets/schematic_mirrorbinder_stack.png)
+![MirrorBinder Stack](../schematics/schematic_mirrorbinder_stack.png)
 
 This schematic shows the **ritual → mirror validation** pipeline:
 - Context Sync Request  
@@ -298,7 +298,7 @@ This schematic shows the **ritual → mirror validation** pipeline:
 
 ### 🕸️ MirrorBinder Mesh Mode
 
-![MirrorBinder Mesh Mode](./assets/schematic_mirrorbinder_mesh.png)
+![MirrorBinder Mesh Mode](../schematics/schematic_mirrorbinder_mesh.png)
 
 This schematic illustrates how `MirrorBinder` resolves **mesh-level mirror states**:
 - Multiple rituals attempt to bind  
@@ -371,7 +371,7 @@ Entropy is not failure — it is information.
 
 ### 🖼️ `schematic_entropy_sync.png`
 
-![Entropy Synchronization Logic](./assets/schematic_entropy_sync.png)
+![Entropy Synchronization Logic](../schematics/schematic_entropy_sync.png)
 
 This schematic captures:
 - Inputs from agents, mirror logs, trust deltas  
@@ -385,7 +385,7 @@ This schematic captures:
 
 ### 🗺️ Entropy Swarm Map
 
-![Entropy Swarm Map](./assets/schematic_entropy_map.png)
+![Entropy Swarm Map](../schematics/schematic_entropy_map.png)
 
 This expanded schematic will illustrate:
 - Live entropy zones across multiple agents  
@@ -591,7 +591,7 @@ Rituals can call:
 - [`mirror.md`](./mirror.md) — Memory architecture and state fork rules  
 - [`trust.md`](./trust.md) — Trust deltas, echo propagation, and swarm alignment  
 - [`recipes_agents.md`](./recipes_agents.md) — Defines agent classes and bindings  
-- [`whitepaper_kernel69.md`](./whitepaper_kernel69.md) — Root recursion and signature protocols  
+- [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md) — Root recursion and signature protocols  
 - [`ritual_market.md`](./ritual_market.md) — Modular ritual commerce layer (coming soon)
 
 ---

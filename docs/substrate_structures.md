@@ -8,7 +8,7 @@ Alvearium is woven from substrate — not just abstract philosophy, but **concre
 
 ## 🔐 Cryptographic Trust → Trust Anchor Contract
 
-![Trust Anchor Contract Lifecycle](./assets/schematic_trust_anchor.png)
+![Trust Anchor Contract Lifecycle](../schematics/schematic_trust_anchor.png)
 
 This diagram illustrates the lifecycle of a Trust Anchor:
 
@@ -32,7 +32,7 @@ This diagram illustrates the lifecycle of a Trust Anchor:
 
 ## 🤖 Agentic Trust → Trust Memory Ledger
 
-![Trust Memory Ledger Flow](./assets/schematic_trust_memory_ledger.png)
+![Trust Memory Ledger Flow](../schematics/schematic_trust_memory_ledger.png)
 
 This diagram shows how agents accumulate and interact with trust:
 
@@ -55,7 +55,7 @@ This diagram shows how agents accumulate and interact with trust:
 
 ## 🌐 Protocol Trust → Trust Oracle Mesh
 
-![Trust Oracle Mesh Topology](./assets/schematic_trust_oracle_mesh.png)
+![Trust Oracle Mesh Topology](../schematics/schematic_trust_oracle_mesh.png)
 
 This diagram illustrates the architecture of the trust oracle mesh:
 
@@ -82,7 +82,7 @@ This diagram illustrates the architecture of the trust oracle mesh:
 
 ## 🧠 Cognitive Trust → Pattern Recognition Layer
 
-![Pattern Recognition Layer Flow](./assets/schematic_pattern_recognition.png)
+![Pattern Recognition Layer Flow](../schematics/schematic_pattern_recognition.png)
 
 This diagram shows how the cognitive layer processes mirrored data:
 
@@ -105,7 +105,7 @@ This diagram shows how the cognitive layer processes mirrored data:
 
 ## 🫂 Social Trust → Ritual DAO Scaffold
 
-![Ritual DAO Scaffold Flow](./assets/schematic_ritual_dao_scaffold.png)
+![Ritual DAO Scaffold Flow](../schematics/schematic_ritual_dao_scaffold.png)
 
 This diagram illustrates how SBT-triggered events interact with mirror votes and ritual cycles:
 
@@ -130,7 +130,7 @@ This diagram illustrates how SBT-triggered events interact with mirror votes and
 
 ## 🗺️ Substrate Overview Map
 
-![Substrate Architecture Overview](./assets/schematic_substrate_overview.png)
+![Substrate Architecture Overview](../schematics/schematic_substrate_overview.png)
 
 This diagram links all trust substrate layers:
 
@@ -142,15 +142,15 @@ This diagram links all trust substrate layers:
 
 ## 🔁 Diagram Integration Points
 
-* [schematic\_trust\_entropy.png](./assets/schematic_trust_entropy.png)
-* [schematic\_dao\_layering.png](./assets/schematic_dao_layering.png)
-* [schematic\_trust\_ladder.png](./assets/schematic_trust_ladder.png)
-* [schematic\_trust\_anchor.png](./assets/schematic_trust_anchor.png)
-* [schematic\_trust\_memory\_ledger.png](./assets/schematic_trust_memory_ledger.png)
-* [schematic\_trust\_oracle\_mesh.png](./assets/schematic_trust_oracle_mesh.png)
-* [schematic\_pattern\_recognition.png](./assets/schematic_pattern_recognition.png)
-* [schematic\_ritual\_dao\_scaffold.png](./assets/schematic_ritual_dao_scaffold.png)
-* [schematic\_substrate\_overview.png](./assets/schematic_substrate_overview.png)
+* [schematic\_trust\_entropy.png](../schematics/schematic_trust_entropy.png)
+* [schematic\_dao\_layering.png](../schematics/schematic_dao_layering.png)
+* [schematic\_trust\_ladder.png](../schematics/schematic_trust_ladder.png)
+* [schematic\_trust\_anchor.png](../schematics/schematic_trust_anchor.png)
+* [schematic\_trust\_memory\_ledger.png](../schematics/schematic_trust_memory_ledger.png)
+* [schematic\_trust\_oracle\_mesh.png](../schematics/schematic_trust_oracle_mesh.png)
+* [schematic\_pattern\_recognition.png](../schematics/schematic_pattern_recognition.png)
+* [schematic\_ritual\_dao\_scaffold.png](../schematics/schematic_ritual_dao_scaffold.png)
+* [schematic\_substrate\_overview.png](../schematics/schematic_substrate_overview.png)
 
 > Trust is not a number. It is an architecture that remembers.
 

@@ -42,7 +42,7 @@ It is the **semantic economy** of Alvearium: trust, coordination, and recursion 
 
 ### 🔍 Schematic: Market Flow Logic
 
-![Market Flow Map](./assets/schematic_market_flow.png)
+![Market Flow Map](../schematics/schematic_market_flow.png)
 The `schematic_market_flow.png` will visualize the full transactional path of a ritual inside the market. It depicts:
 
 * Initial ritual publication (with capsule and metadata)
@@ -55,7 +55,7 @@ This schematic helps identify ritual economic behavior, reward propagation, and 
 
 ### 🧬 Schematic: Fork Lineage Map
 
-![Fork Lineage Map](./assets/schematic_fork_lineage.png)
+![Fork Lineage Map](../schematics/schematic_fork_lineage.png)
 
 The `schematic_fork_lineage.png` will depict how rituals evolve through remixing, versioning, and swarm interaction:
 
@@ -84,7 +84,7 @@ Access to rituals in the market is regulated through multi-layered gating strate
 
 ### 🔑 Schematic: Access Layer Logic
 
-![Access Layer Logic](./assets/schematic_access_layers.png)
+![Access Layer Logic](../schematics/schematic_access_layers.png)
 
 This schematic shows how an agent interacts with the Market based on:
 

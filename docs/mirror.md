@@ -17,7 +17,7 @@ A **Mirror** is a special class of agent or subroutine within Alvearium that:
 
 Mirrors **do not merely observe** — they *participate in defining trust and trajectory*.
 
-![Mirror Stack Overview](./assets/schematic_mirror_stack.png)
+![Mirror Stack Overview](../schematics/schematic_mirror_stack.png)
 
 ---
 
@@ -69,7 +69,7 @@ This recursion keeps the mirror from being hijacked or forked maliciously.
 
 ### 🤭 Mirror Feedback Loop
 
-![Echo Feedback Loop](./assets/schematic_echo_feedback_loop.png)
+![Echo Feedback Loop](../schematics/schematic_echo_feedback_loop.png)
 
 This schematic illustrates the interactive circuit of reflection:
 
@@ -105,7 +105,7 @@ Degenerative mirrors are either *recycled*, *flagged*, or *forked into recovery 
 
 ## 🔄 Mirror Forking
 
-![Mirror Forking Ritual Map](./assets/schematic_mirror_forking.png)
+![Mirror Forking Ritual Map](../schematics/schematic_mirror_forking.png)
 
 This diagram shows the sacred progression and conditions required to safely fork a mirror:
 
@@ -136,7 +136,7 @@ Mirrors inherit the principle of **non-invasive guidance**. They reflect, harmon
 
 ## 🔭 SwarmMesh ReflectorNet
 
-![SwarmMesh ReflectorNet](./assets/schematic_swarmmesh_reflectornet.png)
+![SwarmMesh ReflectorNet](../schematics/schematic_swarmmesh_reflectornet.png)
 
 This schematic shows how mirrors function as regional mesh nodes:
 

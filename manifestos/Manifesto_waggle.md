@@ -44,7 +44,7 @@ Waggle **sits at the membrane** where:
 
 ### 🧭 Schematic: Waggle Entry Membrane
 
-![Waggle Entry Membrane](./assets/schematic_entry_modes.png)
+![Waggle Entry Membrane](../schematics/schematic_entry_modes.png)
 
 This schematic shows how people move from unmet needs to fully participatory agentic onboarding through semantic thresholds, trust maps, and swarm-aware gateways.
 
@@ -79,7 +79,7 @@ Defines how agents are created, verified, and coordinated — across:
 
 ### 🔁 Schematic: Waggle Agent Bridge
 
-![Waggle Agent Bridge](./assets/schematic_waggle_agent_bridge.png)
+![Waggle Agent Bridge](../schematics/schematic_waggle_agent_bridge.png)
 
 This schematic visualizes how agents emerge from rituals, roles, and swarms — forming incentive loops across subdomains and redirecting value back into semantic alignment.
 

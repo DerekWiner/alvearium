@@ -64,7 +64,7 @@ Each agent `.json` should include the following fields:
 
 ## 📊 Schematic: Swarm Layer ↔ Agent Relationship
 
-![Swarm Agent Architecture](./assets/schematic_swarm_agent_map.png)
+![Swarm Agent Architecture](../schematics/schematic_swarm_agent_map.png)
 
 **\[Placeholder Diagram]**
 

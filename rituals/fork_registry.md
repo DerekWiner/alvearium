@@ -112,7 +112,7 @@ pub fn parse_capsule_delta(parent: &Capsule, fork: &Capsule) -> Delta {
 
 ## 🗺️ Fork Lineage Schematic
 
-![Fork Lineage Map](./assets/schematic_fork_lineage.png)
+![Fork Lineage Map](../schematics/schematic_fork_lineage.png)
 
 This schematic visualizes how capsules evolve through:
 - Parent-fork inheritance trails
