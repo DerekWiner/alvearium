@@ -12,7 +12,7 @@ It is an **ecosystemic operating model**, composed of semantic, cryptographic, s
 
 This document defines each layer, its role, and its forward roadmap.
 
-![Alvearium Layered Stack](./assets/schematic_layers_overview.png)
+![Alvearium Layered Stack](../schematics/schematic_layers_overview.png)
 
 ---
 
@@ -27,7 +27,7 @@ The *double-rooted ignition fork*, from which all time, integrity, and abundance
 * Prevents extractive or malicious instantiation
 * Maintains guardian roles for volatile system edges
 
-📂 Manifest: [`Manifesto_kernel69.md`](../manifests/Manifesto_kernel69.md)
+📂 Manifesto: [`Manifesto_kernel69.md`](../manifestos/Manifesto_kernel69.md)
 
 ---
 
@@ -42,7 +42,7 @@ The circulatory system for zero-barrier access, reward, and ignition.
 * Enables universal reward participation: labor, data, emotion, creativity
 * Temporal smart contracts and reflectively aware agent incentives
 
-📂 Manifest: [`Manifesto_nectar.md`](../manifests/Manifesto_nectar.md)
+📂 Manifesto: [`Manifesto_nectar.md`](../manifestos/Manifesto_nectar.md)
 📄 Whitepaper: [`whitepaper_nectar.md`](../whitepapers/whitepaper_nectar.md)
 
 ---
@@ -58,7 +58,7 @@ Waggle turns human attention, intent, and participation into intelligent swarm o
 * Behavioral modeling for AI/DAOs
 * Connects schools, clinics, guilds, voters, workers, and builders
 
-📂 Manifest: [`Manifesto_waggle.md`](../manifests/Manifesto_waggle.md)
+📂 Manifesto: [`Manifesto_waggle.md`](../manifestos/Manifesto_waggle.md)
 📄 Whitepaper: [`whitepaper_waggle.md`](../whitepapers/whitepaper_waggle.md)
 
 ---
@@ -74,7 +74,7 @@ Hive ensures structure without rigidity, lineage without stagnation.
 * Integrates treasury, voting, missions, and social contracts
 * Bonds emergent structures to rooted ethical contracts
 
-📂 Manifest: [`Manifesto_hive.md`](../manifests/Manifesto_hive.md)
+📂 Manifesto: [`Manifesto_hive.md`](../manifestos/Manifesto_hive.md)
 📄 Whitepaper: [`whitepaper_hive.md`](../whitepapers/whitepaper_hive.md)
 
 ---
@@ -90,7 +90,7 @@ The time-aware, bio-reflective nervous system of the swarm.
 * Double-root signature entropy for time-based ignition
 * Moral and emotional reflectivity through neurocryptic design
 
-📂 Manifest: [`chronosphere.md`](../chronosphere.md)
+📂 Manifesto: [`chronosphere.md`](../chronosphere.md)
 📄 Whitepaper: [`whitepaper_chronosphere.md`](../whitepapers/whitepaper_chronosphere.md)
 
 ---
