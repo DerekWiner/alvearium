@@ -35,7 +35,7 @@ Echoes may:
 
 ## 🖼️ Echo Loop Schematic
 
-![Echo Loop Schematic](./assets/schematic_echo_loop.png)
+![Echo Loop Schematic](../schematics/schematic_echo_loop.png)
 
 This diagram illustrates the feedback and reflection path of a ritual replay:
 - Capsule load from registry
@@ -52,7 +52,7 @@ Useful for:
 
 ## 🖼️ Lore Replay Map
 
-![Lore Replay Map](./assets/schematic_lore_replay_map.png)
+![Lore Replay Map](../schematics/schematic_lore_replay_map.png)
 
 This diagram illustrates how echo rituals contribute to the construction of collective swarm memory:
 - Echo metadata wraps into a lore capsule
