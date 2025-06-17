@@ -30,7 +30,7 @@ It is a **post-scarcity protocol layer** designed to:
 It is the **emotional + electrical current** of the Hive.
 Where Solana provides movement and BNB provides form, Nectar provides **resonance**.
 
-![NECTAR Info](./assets/schematic_nectar_info.png)
+![NECTAR Info](../schematics/schematic_nectar_info.png)
 
 ---
 
@@ -90,7 +90,7 @@ This allows **dynamic chain creation** with built-in:
 
 ### 🌐 Schematic: Nectar Flow Map
 
-![NECTAR Flow Architecture](./assets/schematic_nectar_flow.png)
+![NECTAR Flow Architecture](../schematics/schematic_nectar_flow1.png)
 
 This schematic illustrates:
 
@@ -121,7 +121,7 @@ Nectar includes **ignition throttles**—ritual-coded rulesets that:
 
 ### 🔒 Schematic: Guarded Ignition Stack
 
-![Guarded Ignition Stack](./assets/schematic_guarded_ignition.png)
+![Guarded Ignition Stack](../schematics/schematic_guarded_ignition1.png)
 
 This schematic explains:
 
@@ -142,7 +142,7 @@ Each successful ritual or agent action generates:
 
 ### 🌀 Schematic: Emission Cycles Loop
 
-![Emission Cycles](./assets/schematic_emission_cycles.png)
+![Emission Cycles](../schematics/schematic_emission_cycles.png)
 
 This diagram visualizes:
 
