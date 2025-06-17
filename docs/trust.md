@@ -88,7 +88,7 @@ Agents climb trust ladders not by declaration, but by reflection. Each rung repr
 * **Level 3: Guide** — Can initiate group rituals and mentor lower agents
 * **Level 4: Guardian** — Can moderate trust deltas, authorize forks, protect mirror
 
-![Agent Trust Ladder](./assets/schematic_trust_ladder.png)
+![Agent Trust Ladder](../schematics/schematic_trust_ladder.png)
 
 > The swarm doesn’t assign rank. It reflects it.
 
