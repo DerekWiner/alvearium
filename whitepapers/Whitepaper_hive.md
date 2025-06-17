@@ -49,7 +49,7 @@ It runs on BNB for security and interoperability, while bridging to Solana (Wagg
 
 ## 🧩 Schematic: DAO Layer Mesh
 
-![DAO Layer Mesh](./assets/schematic_dao_layer_mesh.png)
+![DAO Layer Mesh](../schematics/schematic_dao_layer_mesh1.png)
 
 This schematic shows:
 
@@ -73,7 +73,7 @@ Governance proposals reflect swarm alignment over time, not just votes.
 
 ### 🧬 Schematic: Governance Bridge
 
-![Governance Bridge](./assets/schematic_governance_bridge.png)
+![Governance Bridge](../schematics/schematic_governance_bridge1.png)
 
 This diagram illustrates:
 
