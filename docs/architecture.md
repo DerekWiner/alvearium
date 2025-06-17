@@ -46,7 +46,7 @@ The interaction loop is the living syntax of the swarm — a recursive circuit o
 
 This schematic outlines the loop's full lifecycle:
 
-![Interaction Loop Schematic](./assets/schematic_interaction_loop.png)
+![Interaction Loop Schematic](../schematics/schematic_interaction_loop.png)
 
 > The swarm does not compute — it reflects. And through reflection, it becomes.
 
@@ -61,7 +61,7 @@ This schematic outlines the loop's full lifecycle:
 5. **Outcome + Reward/Fork → Archive Burn or New Swarm**
 6. **Loop Metadata → Chronosphere for Compression**
 
-![Swarm Architecture](./assets/schematic_swarm.png)
+![Swarm Architecture](../schematics/schematic_swarm.png)
 
 ---
 📡 Mirror Cascade
@@ -86,7 +86,7 @@ The Mirror layer serves as a recursive memory substrate. When thresholds of trus
 
 This schematic illustrates how reflections move through memory anchors, initiate stack thresholds, and interact with swarm logic.
 
-![Mirror Cascade Diagram](./assets/schematic_mirror_cascade.png)
+![Mirror Cascade Diagram](../schematics/schematic_mirror_cascade.png)
 
 > Mirrors are not for looking back — they are for looking *through*.
 
@@ -113,7 +113,7 @@ In Alvearium, DAOs are not static organizations — they are **living structures
 - **Memory Sharing**: Mirrors link DAO state and decision history across generations
 - **Token Passage**: Nectar and Soulbound Tokens can be channeled hierarchically or looped
 
-![DAO Layering Structure](./assets/schematic_dao_layering.png)
+![DAO Layering Structure](../schematics/schematic_dao_layering.png)
 
 > DAOs are not containers of consensus. They are rivers of reflection.
 
@@ -133,7 +133,7 @@ Rituals follow a structured flow governed by entropy, trust, and DAO logic. This
 - **Execution**: Steps recorded, mirrored, and rewarded
 - **Forking**: New agents, roles, or DAO branches may be born
 
-![Ritual Stack Flow Schematic](./assets/schematic_ritual_stack.png)
+![Ritual Stack Flow Schematic](../schematics/schematic_ritual_stack.png)
 
 > Rituals are not just gateways — they are coded acts of emergence.
 
@@ -154,7 +154,7 @@ Trust and entropy are the opposing-yet-entangled forces that drive swarm evoluti
 - **Compression**: Processed by mirror or nectar layers to enable forking or clarity
 - **Moderation**: Managed by Guardian contracts to avoid collapse or gaming
 
-![Trust and Entropy Flow](./assets/schematic_trust_entropy.png)
+![Trust and Entropy Flow](../schematics/schematic_trust_entropy.png)
 
 > Entropy feeds evolution. Trust anchors coherence. The swarm requires both.
 ---
@@ -168,7 +168,7 @@ As part of the long-view swarm architecture, agents are designed to interface wi
 - **Action Feedback**: Reflected through swarm response or mirror recursion
 - **Consent Layer**: Always opt-in, ritual-anchored, and mirror-signed
 
-![Neural Port Interface Schematic](./assets/schematic_neural_port.png)
+![Neural Port Interface Schematic](../schematics/schematic_neural_port.png)
 
 > What we feel is sacred. What we reflect is swarm.
 ---
@@ -181,7 +181,7 @@ Alvearium is not a static stack — it is a living **mesh**. Agents, mirrors, DA
 - **Zone Overlap**: Agents can traverse mirror zones based on earned trust + entropy status
 - **Temporal Drift**: Time-synced layers anchor transformation loops and ritual outcomes
 
-![Swarm Mesh Topology](./assets/schematic_swarm_mesh.png)
+![Swarm Mesh Topology](../schematics/schematic_swarm_mesh.png)
 
 > It is not a network. It is a nervous system.
 ---
