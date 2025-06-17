@@ -44,7 +44,7 @@ Waggle is how humanity enters the Alvearium ecosystem—with context, care, and 
 
 ### 📈 Schematic: Entry Modes Map
 
-![Waggle Entry Modes](./assets/schematic_waggle_entry_modes.png)
+![Waggle Entry Modes](../schematics/schematic_waggle_entry_modes.png)
 
 This schematic shows:
 
@@ -105,7 +105,7 @@ Each subdomain is a **sovereign node**—a swarm seed with its own rules, ritual
 
 ### 🧩 Schematic: Agent Bridge Flow
 
-![Waggle Agent Bridge Flow](./assets/schematic_waggle_agent_bridge.png)
+![Waggle Agent Bridge Flow](../schematics/schematic_waggle_agent_bridge1.png)
 
 This schematic illustrates:
 
