@@ -45,7 +45,7 @@ Nectar is emitted through an ecosystem of **semantic triggers** and **trust-weig
 
 ### ✨ Emission Flow Schematic
 
-![Nectar Emission Flow](./assets/schematic_nectar_flow.png)
+![Nectar Emission Flow](../schematics/schematic_nectar_flow.png)
 
 This schematic shows:
 
@@ -69,7 +69,7 @@ Nectar must not be farmed or exploited. Therefore, **ignition is guarded**.
 
 ### 🛠️ Ignition Schematic
 
-![Guarded Ignition](./assets/schematic_guarded_ignition.png)
+![Guarded Ignition](../schematics/schematic_guarded_ignition.png)
 
 Shows the multi-layer gatekeeping around:
 
@@ -98,7 +98,7 @@ Nectar does not flow uniformly. It adapts to:
 
 ### ♲ Emission Cycle Map
 
-![Emission Cycles](./assets/schematic_emission_cycles.png)
+![Emission Cycles](../schematics/schematic_emission_cycles.png)
 
 Illustrates:
 
