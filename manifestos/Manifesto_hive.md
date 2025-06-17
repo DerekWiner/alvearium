@@ -53,7 +53,7 @@ It ensures **information = function = continuity**.
 
 ### 🧭 Schematic: DAO Layer Mesh
 
-![DAO Layer Mesh](./assets/schematic_dao_layer_mesh.png)
+![DAO Layer Mesh](../schematics/schematic_dao_layer_mesh.png)
 
 This schematic shows how Hive enables modular subDAO replication with lineage signaling, memory anchoring, and fork-aware execution — each Hive branching from another but still semantically linked.
 
@@ -79,7 +79,7 @@ Hive guards the organism from:
 
 ### 🔐 Schematic: Memory Lifecycle Stack
 
-![Memory Lifecycle Stack](./assets/schematic_governance_lifecycle.png)
+![Memory Lifecycle Stack](../schematics/schematic_governance_lifecycle.png)
 
 This diagram illustrates how Hive encodes agent memory and lifecycle transitions. Juvenile, Mature, and Archived Hives operate with different access and permission scaffolds, providing resilience against memory corruption and drift.
 
@@ -100,7 +100,7 @@ Hive is thus a **multi-organ organism**, not just a DAO.
 
 ### 🌐 Schematic: Lineage & Rights Graph
 
-![Lineage and Rights Graph](./assets/schematic_governance_bridge.png)
+![Lineage and Rights Graph](../schematics/schematic_governance_bridge.png)
 
 This schematic maps swarm memory flow, lineage-based permission logic, and synchronized access across distributed sub-Hives. It demonstrates how governance and continuity propagate via verified capsules and anchored reputation.
 
