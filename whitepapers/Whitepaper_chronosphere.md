@@ -29,7 +29,7 @@ Chronosphere is the **organism's memory, endocrine feedback system, and clock**.
 
 ### 🧠 Schematic: ChronoStack Module Overview
 
-![Chronosphere Stack Overview](./assets/schematic_chronosphere_stack.png)
+![Chronosphere Stack Overview](../schematics/schematic_chronosphere_stack.png)
 
 This schematic shows:
 
@@ -116,7 +116,7 @@ Chronosphere throttles system-wide changes via:
 
 ### 🔄 Schematic: Temporal Capsule Lifecycle
 
-![Chronosphere Capsule Lifecycle](./assets/schematic_chronosphere_capsules.png)
+![Chronosphere Capsule Lifecycle](../schematics/schematic_chronosphere_capsules.png)
 
 This schematic illustrates:
 
