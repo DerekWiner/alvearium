@@ -171,12 +171,12 @@ Agents can evolve, mirror, or spawn forks.
 
 ## 📌 Related Files in `docs/`
 
-- [`Manifesto_alvearium.md`](./manifestos/Manifesto_alvearium.md)
-- [`security.md`](./docs/security.md)
-- [`onboarding.md`](./rituals/onboarding.md)
-- [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md)
-- [`mirror.md`](./rituals/mirror.md)
-- [`recipes_neuro.md`](./rituals/recipes_neuro.md) *(experimental agents)*
+- [`Manifesto_alvearium.md`](../manifestos/Manifesto_alvearium.md)
+- [`security.md`](../docs/security.md)
+- [`onboarding.md`](./onboarding.md)
+- [`whitepaper_kernel69.md`](./whitepapers/Whitepaper_kernel69.md)
+- [`mirror.md`](./mirror.md)
+- [`recipes_neuro.md`](./recipes_neuro.md) *(experimental agents)*
 
 ---
 
