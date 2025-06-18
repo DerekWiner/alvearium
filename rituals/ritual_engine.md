@@ -27,7 +27,7 @@ Includes all associated schematics and YAML test templates.
 
 **License**: Open Source Without Malice  
 **IPFS Hash**: _[to be updated on capsule emit]_  
-**References**: [glossary.md](./docs/glossary.md) | [ritual_tests.md](./rituals/ritual_tests.md) | [reference.md](./docs/reference.md)
+**References**: [glossary.md](../glossary.md) | [ritual_tests.md](./ritual_tests.md) | [reference.md](../docs/reference.md)
 
 ---
 
@@ -589,9 +589,9 @@ Rituals can call:
 ## 📚 Reference Modules
 
 - [`mirror.md`](./mirror.md) — Memory architecture and state fork rules  
-- [`trust.md`](./trust.md) — Trust deltas, echo propagation, and swarm alignment  
+- [`trust.md`](../docs/trust.md) — Trust deltas, echo propagation, and swarm alignment  
 - [`recipes_agents.md`](./recipes_agents.md) — Defines agent classes and bindings  
-- [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md) — Root recursion and signature protocols  
+- [`whitepaper_kernel69.md`](../whitepapers/Whitepaper_kernel69.md) — Root recursion and signature protocols  
 - [`ritual_market.md`](./ritual_market.md) — Modular ritual commerce layer (coming soon)
 
 ---
