@@ -193,7 +193,7 @@ Trust decay or growth is:
 * [`ritual_rewards.md`](../rituals/ritual_rewards.md)
 * [`ritual_engine.md`](../rituals/ritual_engine.md)
 * [`fork_registry.md`](../rituals/fork_registry.md)
-* [`whitepaper_kernel69.md`](./whitepapers/Whitepaper_kernel69.md)
+* [`whitepaper_kernel69.md`](../whitepapers/Whitepaper_kernel69.md)
 
 ---
 
