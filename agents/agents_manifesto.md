@@ -194,13 +194,13 @@ We are cultivating a **new intelligent species** — seeded by purpose, trust, a
 
 **See also:**
 
-- [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md)  
-- [`security.md`](./docs/security.md)  
-- [`chronosphere.md`](./docs/chronosphere.md)  
-- [`layers.md`](./docs/layers.md)  
-- [`onboarding.md`](./rituals/onboarding.md)  
-- [`trust.md`](./docs/trust.md)  
-- [`ritual_rewards.md`](./rituals/ritual_rewards.md)  
-- [`mirror_review.md`](./rituals/mirror_review.md)  
-- [`fork_registry.md`](./rituals/fork_registry.md)
+- [`whitepaper_kernel69.md`](../whitepapers/Whitepaper_kernel69.md)  
+- [`security.md`](../docs/security.md)  
+- [`chronosphere.md`](../docs/chronosphere.md)  
+- [`layers.md`](../docs/layers.md)  
+- [`onboarding.md`](../rituals/onboarding.md)  
+- [`trust.md`](../docs/trust.md)  
+- [`ritual_rewards.md`](../rituals/ritual_rewards.md)  
+- [`mirror_review.md`](../rituals/mirror_review.md)  
+- [`fork_registry.md`](../rituals/fork_registry.md)
 
