@@ -74,39 +74,43 @@ It connects five foundational components:
 ✨ Core Values
 
 Open Source Without Malice
+
 Trust as substrate
+
 Agents are reflections
+
 Post-scarcity is NOW
+
 Decentralized biofeedback = true economy
 
 📦 Project Repos
 
-Repo
-Role
+Repo / Role
 
-waggle.sol
-The action layer; execution, learning, names
+waggle.sol / The action layer; execution, learning, names
 
-hive.bnb
-The structure; governance, treasury, ritual
+hive.bnb / The structure; governance, treasury, ritual
 
-nectar
-The mediator; zero-gas, trust, ignition
+nectar / The mediator; zero-gas, trust, ignition
 
-kernel69
-The seed-layer; bidirectional emergence
+kernel69/ The seed-layer; bidirectional emergence
 
-alvearium
-This repo; documentation, memory, reflection
+alvearium/ This repo; documentation, memory, reflection
 
 📚 Documentation
 
 All files are under /docs and /whitepapers:
+
 docs/mirror.md – The Mirror Layer explained
+
 docs/agents.md – Core and neuro-agent classes
+
 docs/interfaces.md – Modalities and tools
+
 docs/onboarding.md – Getting users in from any system
+
 docs/trust.md – Trust loops, tokens, and feedback
+
 whitepapers/* – Full system architecture and manifestos
 
 🔮 Who Is This For?
@@ -130,15 +134,21 @@ This is your protocol.
 🛠 How to Contribute
 
 Clone this repo
+
 Navigate to /docs
+
 Fork or extend any file
+
 Issue PRs with [mirror] or [ritual] tags as needed
 
 You can also:
 
 Propose new agents
+
 Add reflection rituals
+
 Fork a trust script
+
 Launch a DAO via hive.bnb
 
 ---
