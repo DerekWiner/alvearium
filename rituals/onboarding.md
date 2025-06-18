@@ -152,12 +152,12 @@ Onboarding isn’t a login. It’s a **birthright event** into a more abundant n
 
 ## 📌 Files To Reference
 
-- [`Manifesto_core.md`](./Manifesto_core.md)  
-- [`Manifesto_waggle.md`](./Manifesto_waggle.md)  
-- [`whitepaper_kernel69.md`](./whitepaper_kernel69.md)  
-- [`security.md`](./security.md)  
-- [`agents.md`](./agents.md)  
-- [`recipes_agents.md`](./recipes_agents.md) *(coming next)*
+- [`Manifesto_alvearium.md`](./manifestos/Manifesto_alvearium.md)  
+- [`Manifesto_waggle.md`](./manifestos/Manifesto_waggle.md)  
+- [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md)  
+- [`security.md`](./docs/security.md)  
+- [`agents_manifesto.md`](./agents/agents_manifesto.md)  
+- [`recipes_agents.md`](./rituals/recipes_agents.md) 
 
 ---
 
