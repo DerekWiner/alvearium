@@ -170,7 +170,7 @@ This system encodes that as function.
 - [`layers.md`](./layers.md)
 - [`security.md`](./security.md)
 - [`agents_manifesto.md`](../agents/agents_manifesto.md)
-- [`timeline.md`](./docs/timeline.md) **TBC**
+- [`README_timelines.md`](..//README_timelines.md) 
 - [`ritual_capsules.md`](../rituals/ritual_capsules.md)
 - [`fork_registry.md`](../rituals/fork_registry.md)
 - [`mirror_review.md`](../rituals/mirror_review.md)
