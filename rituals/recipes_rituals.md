@@ -372,7 +372,7 @@ Here are core terms used throughout the ritual framework:
 ## 🔗 Related Docs
 
 * [`agents_manifesto.md`](../agents/agents_manifesto.md)
-* [`mirror.md`](../docs/mirror.md)
+* [`mirror.md`](./mirror.md)
 * [`trust.md`](../docs/trust.md)
 * [`recipes_neuro.md`](./recipes_neuro.md)
 
