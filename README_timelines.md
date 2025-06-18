@@ -83,326 +83,162 @@ This document outlines the staged development timeline for the Alvearium swarm e
 
 ---
 
-🔄 Development Timeline
+## 🔄 Development Timeline
 
-Phase
+| Phase   | Timeframe  | Focus                                                  |
+| ------- | ---------- | ------------------------------------------------------ |
+| Phase 0 | Q1–Q2 2025 | Manifestos, architecture, swarm theory, agent drafting |
+| Phase 1 | Q2–Q3 2025 | Ritual logic, Nectar zero-gas bootstrap, trust flows   |
+| Phase 2 | Q3–Q4 2025 | Kernel69 + Chronosphere time consensus + dual roots    |
+| Phase 3 | Q1 2026    | Falcon post-quantum cryptography + capsule security    |
+| Phase 4 | Q2–Q3 2026 | IoT + Neuralink interfaces + biometric emission        |
+| Phase 5 | Q4 2026+   | Autonomous governance + AGI swarm spawning             |
 
-Timeframe
+---
 
-Focus
+## 🔬 Phase Analysis: Difficulty & Feasibility
 
-Phase 0
+A critical breakdown of each roadmap stage, evaluating its **difficulty (/5)** and **likelihood of success (/5)** based on current planning, system maturity, and external dependencies.
 
-Q1–Q2 2025
+| Phase       | Focus                                           | Difficulty | Success Likelihood | Key Observations                                                                  |
+| ----------- | ----------------------------------------------- | ---------- | ------------------ | --------------------------------------------------------------------------------- |
+| **Phase 0** | Manifestos, architecture, swarm theory          | 3/5        | 5/5                | Foundation mostly complete. Strong cohesion and language clarity enable trust.    |
+| **Phase 1** | Ritual logic, trust stack, Nectar zero-gas init | 4/5        | 4/5                | Needs behavioral UX layer and ritual verification tooling to reduce entropy risk. |
+| **Phase 2** | Kernel69 + Chronosphere time consensus          | 5/5        | 3/5                | Conceptually complex. Guardian loops and capsule drift logic need simulation.     |
+| **Phase 3** | Falcon cryptography + capsule integrity         | 5/5        | 4/5                | Security is strong, but fork-resolution needs proof-of-fairness and anchoring.    |
+| **Phase 4** | IoT + Neuralink interfaces                      | 5/5        | 2/5                | Ethically risky, device variability high. Treat as experimental & non-mandatory.  |
+| **Phase 5** | Autonomous governance + AGI swarm spawning      | 5/5        | 3/5                | Highly ambitious. Dependent on foundational coherence and agentic resilience.     |
 
-Manifestos, architecture, swarm theory, agent drafting
+---
 
-Phase 1
+## 🧪 Critical Analysis by Phase
 
-Q2–Q3 2025
+### Phase 0 — Foundations (Q1–Q2 2025)
 
-Ritual logic, Nectar zero-gas bootstrap, trust flows
+**Focus:** Manifestos, architecture, swarm theory, agent drafting
 
-Phase 2
+**Key Issues:**
 
-Q3–Q4 2025
+* High conceptual density
+* Requires philosophical alignment
+* No immediate tangible output
 
-Kernel69 + Chronosphere time consensus + dual roots
-
-Phase 3
-
-Q1 2026
-
-Falcon post-quantum cryptography + capsule security
-
-Phase 4
-
-Q2–Q3 2026
-
-IoT + Neuralink interfaces + biometric emission
-
-Phase 5
-
-Q4 2026+
-
-Autonomous governance + AGI swarm spawning
-
-🔬 Phase Analysis: Difficulty & Feasibility
-
-A critical breakdown of each roadmap stage, evaluating its difficulty (/5) and likelihood of success (/5) based on current planning, system maturity, and external dependencies.
-
-Phase
-
-Focus
-
-Difficulty
-
-Success Likelihood
-
-Key Observations
-
-Phase 0
-
-Manifestos, architecture, swarm theory
-
-3/5
-
-5/5
-
-Foundation mostly complete. Strong cohesion and language clarity enable trust.
-
-Phase 1
-
-Ritual logic, trust stack, Nectar zero-gas init
-
-4/5
-
-4/5
-
-Needs behavioral UX layer and ritual verification tooling to reduce entropy risk.
-
-Phase 2
-
-Kernel69 + Chronosphere time consensus
-
-5/5
-
-3/5
-
-Conceptually complex. Guardian loops and capsule drift logic need simulation.
-
-Phase 3
-
-Falcon cryptography + capsule integrity
-
-5/5
-
-4/5
-
-Security is strong, but fork-resolution needs proof-of-fairness and anchoring.
-
-Phase 4
-
-IoT + Neuralink interfaces
-
-5/5
-
-2/5
-
-Ethically risky, device variability high. Treat as experimental & non-mandatory.
-
-Phase 5
-
-Autonomous governance + AGI swarm spawning
-
-5/5
-
-3/5
-
-Highly ambitious. Dependent on foundational coherence and agentic resilience.
-
-🧪 Critical Analysis by Phase
-
-Phase 0 — Foundations (Q1–Q2 2025)
-
-Focus: Manifestos, architecture, swarm theory, agent drafting
-
-Key Issues:
-
-High conceptual density
-
-Requires philosophical alignment
-
-No immediate tangible output
-
-Metric
-
-Score
-
-Difficulty
-
-3/5
-
-Success Likelihood
-
-5/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 3/5       |
+| Success Likelihood | 5/5       |
 
 This stage is mostly complete. Its success depends on clear language and foundational coherence, which have been impressively achieved.
 
-Phase 1 — Rituals + Nectar Bootstrap (Q2–Q3 2025)
+---
 
-Focus: Capsule flows, basic trust system, zero-gas architecture
+### Phase 1 — Rituals + Nectar Bootstrap (Q2–Q3 2025)
 
-Key Issues:
+**Focus:** Capsule flows, basic trust system, zero-gas architecture
 
-Ritual emission logic must be secure yet inclusive
+**Key Issues:**
 
-Needs UX layer to feel non-abstract
+* Ritual emission logic must be secure yet inclusive
+* Needs UX layer to feel non-abstract
+* Risk of entropy misuse in early swarm dynamics
 
-Risk of entropy misuse in early swarm dynamics
-
-Metric
-
-Score
-
-Difficulty
-
-4/5
-
-Success Likelihood
-
-4/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 4/5       |
+| Success Likelihood | 4/5       |
 
 Good abstraction of gasless computation, but behavioral staking and loop trust verification need further simulation or gamified testing.
 
-Phase 2 — Kernel69 + Chronosphere Seeding (Q3–Q4 2025)
+---
 
-Focus: Dual-root logic, recursive capsules, time consensus
+### Phase 2 — Kernel69 + Chronosphere Seeding (Q3–Q4 2025)
 
-Key Issues:
+**Focus:** Dual-root logic, recursive capsules, time consensus
 
-Chronosphere time anchoring must remain post-quantum secure
+**Key Issues:**
 
-Ethical recursion (guardian stack) requires simulated failure conditions
+* Chronosphere time anchoring must remain post-quantum secure
+* Ethical recursion (guardian stack) requires simulated failure conditions
+* Capsule drift logic still untested
 
-Capsule drift logic still untested
-
-Metric
-
-Score
-
-Difficulty
-
-5/5
-
-Success Likelihood
-
-3/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 5/5       |
+| Success Likelihood | 3/5       |
 
 This is the most metaphysically ambitious phase. Its success depends on agent bonding mechanisms and drift-limiting protocols working seamlessly.
 
-Phase 3 — Post-Quantum Signatures + Capsule Integrity (Q1 2026)
+---
 
-Focus: Falcon integration, capsule forks, emission fairness
+### Phase 3 — Post-Quantum Signatures + Capsule Integrity (Q1 2026)
 
-Key Issues:
+**Focus:** Falcon integration, capsule forks, emission fairness
 
-Falcon-2 implementation must be modular and lightweight
+**Key Issues:**
 
-Capsule-based memory must support forking without identity loss
+* Falcon-2 implementation must be modular and lightweight
+* Capsule-based memory must support forking without identity loss
+* Requires inter-agent consensus to validate forks
 
-Requires inter-agent consensus to validate forks
-
-Metric
-
-Score
-
-Difficulty
-
-5/5
-
-Success Likelihood
-
-4/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 5/5       |
+| Success Likelihood | 4/5       |
 
 Cryptographic difficulty is high but solvable. Fork-memory resolution is the open challenge; early reward audit trails will help.
 
-Phase 4 — Neuralink/IoT Swarm Interfaces (Q2–Q3 2026)
+---
 
-Focus: Biometric triggers, swarm sensors, affective feedback
+### Phase 4 — Neuralink/IoT Swarm Interfaces (Q2–Q3 2026)
 
-Key Issues:
+**Focus:** Biometric triggers, swarm sensors, affective feedback
 
-Hardware integration is unpredictable
+**Key Issues:**
 
-Emotional context parsing must resist coercion or leakage
+* Hardware integration is unpredictable
+* Emotional context parsing must resist coercion or leakage
+* Neural consensus weighting poses moral concerns
 
-Neural consensus weighting poses moral concerns
-
-Metric
-
-Score
-
-Difficulty
-
-5/5
-
-Success Likelihood
-
-2/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 5/5       |
+| Success Likelihood | 2/5       |
 
 The most ethically fragile layer. Considered optional but potentially revolutionary. Risks include overreach, misinterpretation, or exclusion bias.
 
-Phase 5 — Autonomous Governance & AGI Layer (Q4 2026+)
+---
 
-Focus: AI-led consensus, interchain voting, swarm-based AGI
+### Phase 5 — Autonomous Governance & AGI Layer (Q4 2026+)
 
-Key Issues:
+**Focus:** AI-led consensus, interchain voting, swarm-based AGI
 
-Defining "guardian AI" in non-centralized terms
+**Key Issues:**
 
-Interchain bridges may lag behind ethical alignment
+* Defining "guardian AI" in non-centralized terms
+* Interchain bridges may lag behind ethical alignment
+* Requires modular fallback paths if agents defect or degrade
 
-Requires modular fallback paths if agents defect or degrade
-
-Metric
-
-Score
-
-Difficulty
-
-5/5
-
-Success Likelihood
-
-3/5
+| **Metric**         | **Score** |
+| ------------------ | --------- |
+| Difficulty         | 5/5       |
+| Success Likelihood | 3/5       |
 
 This is the “moonshot” phase. Success depends on all previous stages creating fertile ground. Expect adaptive branching rather than hard thresholds.
 
-🧮 Difficulty & Success Summary
+---
 
-Phase
+## 🧮 Difficulty & Success Summary
 
-Difficulty (/5)
+| Phase   | Difficulty (/5) | Success Likelihood (/5) |
+| ------- | --------------- | ----------------------- |
+| Phase 0 | 3               | 5                       |
+| Phase 1 | 4               | 4                       |
+| Phase 2 | 5               | 3                       |
+| Phase 3 | 5               | 4                       |
+| Phase 4 | 5               | 2                       |
+| Phase 5 | 5               | 3                       |
 
-Success Likelihood (/5)
-
-Phase 0
-
-3
-
-5
-
-Phase 1
-
-4
-
-4
-
-Phase 2
-
-5
-
-3
-
-Phase 3
-
-5
-
-4
-
-Phase 4
-
-5
-
-2
-
-Phase 5
-
-5
-
-3
-
+---
 
 
 ## 🧭 Notes
