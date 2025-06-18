@@ -31,7 +31,7 @@ Alvearium memory is not static storage — it is **semantic memory**: recursivel
 
 ## 🧠 Memory Bootstrap Schematic
 
-![Memory Bootstrap Flow](./assets/schematic_memory_bootstrap.png)
+![Memory Bootstrap Flow](../schematics/schematic_memory_bootstrap.png)
 
 The schematic will depict:
 
@@ -76,11 +76,11 @@ Resolution paths include:
 
 ## 📂 Related Docs
 
-* [`mirror.md`](./mirror.md)
-* [`trust.md`](./trust.md)
-* [`mirror_bootstrap.md`](./mirror_bootstrap.md)
-* [`substrate_structures.md`](./substrate_structures.md)
-* [`recipes_rituals.md`](./recipes_rituals.md)
+* [`mirror.md`](./rituals/mirror.md)
+* [`trust.md`](./docs/trust.md)
+* [`mirror_init.md`](./docs/mirror_init.md)
+* [`substrate_structures.md`](./docs/substrate_structures.md)
+* [`recipes_rituals.md`](./rituals/recipes_rituals.md)
 
 ---
 
