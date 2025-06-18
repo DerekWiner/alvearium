@@ -165,7 +165,7 @@ This system encodes that as function.
 
 ## 📚 Linked Companion Files (Living Documents)
 
-- [`whitepaper_chronosphere.md`](../whitepapers/whitepaper_chronosphere.md)
+- [`whitepaper_chronosphere.md`](../whitepapers/Whitepaper_chronosphere.md)
 - [`Manifesto_kernel69.md`](../manifestos/Manifesto_kernel69.md)
 - [`layers.md`](./layers.md)
 - [`security.md`](./security.md)
