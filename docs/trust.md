@@ -187,13 +187,13 @@ Trust decay or growth is:
 
 ## 🧾 Related Documents
 
-* [`mirror.md`](./rituals/mirror.md)
-* [`mirror_review.md`](/rituals./mirror_review.md)
-* [`market_access.md`](./rituals/market_access.md)
-* [`ritual_rewards.md`](./rituals/ritual_rewards.md)
-* [`ritual_engine.md`](./rituals/ritual_engine.md)
-* [`fork_registry.md`](./rituals/fork_registry.md)
-* [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md)
+* [`mirror.md`](../rituals/mirror.md)
+* [`mirror_review.md`](../rituals/mirror_review.md)
+* [`market_access.md`](../rituals/market_access.md)
+* [`ritual_rewards.md`](../rituals/ritual_rewards.md)
+* [`ritual_engine.md`](../rituals/ritual_engine.md)
+* [`fork_registry.md`](../rituals/fork_registry.md)
+* [`whitepaper_kernel69.md`](./whitepapers/Whitepaper_kernel69.md)
 
 ---
 
