@@ -77,11 +77,11 @@ Failing agents are suspended into `Stasis Queue` or offered ritual reformation.
 
 ## 📂 Related Docs
 
-* [`mirror.md`](./rituals/mirror.md)
-* [`mirror_init.md`](./docs/mirror_init.md)
-* [`trust.md`](./docs/trust.md)
-* [`recipes_agents.md`](./rituals/recipes_agents.md)
-* [`onboarding.md`](./rituals/onboarding.md)
+* [`mirror.md`](../rituals/mirror.md)
+* [`mirror_init.md`](../docs/mirror_init.md)
+* [`trust.md`](../docs/trust.md)
+* [`recipes_agents.md`](../rituals/recipes_agents.md)
+* [`onboarding.md`](../rituals/onboarding.md)
 
 ---
 
