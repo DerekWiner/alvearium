@@ -79,7 +79,7 @@ Trust is denied or revoked when:
 * [`mirror.md`](../mirror.md)
 * [`substrate_structures.md`](../substrate_structures.md)
 * [`recipes_rituals.md`](../../rituals/recipes_rituals.md)
-* [`agents_manifesto.md`](../../manifestos/agents_manifesto.md)
+* [`agents_manifesto.md`](../../agents/agents_manifesto.md)
 
 
 
