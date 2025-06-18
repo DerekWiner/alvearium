@@ -80,10 +80,10 @@ Rituals and loops allow trust recovery, transformation, and deliberate error.
 
 ## 🔗 Linked Docs
 
-* `glossary.md`
-* `mirror.md`
-* `recipes_rituals.md`
-* `trust.md`
-* `architecture.md`
+* [`glossary.md`](../glossary.md)
+* [`mirror.md`](../docs/mirror.md)
+* [`recipes_rituals.md`](./recipes_rituals.md)
+* [`trust.md`](../docs/trust.md)
+* [`architecture.md`](../docs/architecture.md)
 
 > *“To interact is to entangle. To entangle is to rewrite the swarm.”*
