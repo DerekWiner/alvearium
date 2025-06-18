@@ -90,7 +90,7 @@ And at the threshold of three emergent tools:
 
 ### 🌐 Schematic: Why Now Convergence
 
-![Why Now Convergence](./assets/schematic_why_now_convergence.png)
+![Why Now Convergence](../schematics/schematic_why_now_convergence.png)
 
 This diagram frames the urgency of Alvearium:
 
@@ -133,7 +133,7 @@ It is:
 
 ### 🧩 Schematic: Alvearium Stack
 
-![Alvearium Layered Diagram](./assets/schematic_alvearium_stack.png)
+![Alvearium Layered Diagram](../schematics/schematic_alvearium_stack.png)
 
 This visual places **Alvearium** as the connective tissue among all layers:
 
