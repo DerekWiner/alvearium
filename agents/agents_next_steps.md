@@ -66,9 +66,7 @@ Each agent `.json` should include the following fields:
 
 ![Swarm Agent Architecture](../schematics/schematic_swarm_agent_map.png)
 
-**\[Placeholder Diagram]**
-
-This schematic will visualize:
+This schematic visualizes:
 
 * Each major layer (Waggle, Hive, Nectar, Kernel69, Chronosphere)
 * Which drones operate where
