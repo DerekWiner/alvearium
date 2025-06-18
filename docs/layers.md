@@ -90,7 +90,7 @@ The time-aware, bio-reflective nervous system of the swarm.
 * Double-root signature entropy for time-based ignition
 * Moral and emotional reflectivity through neurocryptic design
 
-📂 Manifesto: [`chronosphere.md`](../chronosphere.md)
+📂 Manifesto: [`chronosphere.md`](./docs/chronosphere.md)
 📄 Whitepaper: [`whitepaper_chronosphere.md`](../whitepapers/whitepaper_chronosphere.md)
 
 ---
@@ -106,7 +106,7 @@ Underpins dynamic interfaces and distributed cognition.
 * Multimodal interface design (visual, haptic, linguistic, emotional)
 * Public-private key architecture for smart agent containers
 
-📂 Companion Docs: [`agents.md`](./agents.md), [`security.md`](./security.md)
+📂 Companion Docs: [`agents_manifesto.md`](./agents/agents_manifesto.md), [`security.md`](./docs/security.md)
 
 ---
 
@@ -123,7 +123,7 @@ Key security architecture includes:
 * **Zero-ownership but verified authorship via cryptographic authorship anchoring**
 * **Malice throttling through reflection-based recursion**
 
-📄 See: [`security.md`](./security.md)
+📄 See: [`security.md`](./docs/security.md)
 
 ---
 
