@@ -166,16 +166,16 @@ This system encodes that as function.
 ## 📚 Linked Companion Files (Living Documents)
 
 - [`whitepaper_chronosphere.md`](./whitepapers/whitepaper_chronosphere.md)
-- [`Manifesto_kernel69.md`](./manifests/Manifesto_kernel69.md)
+- [`Manifesto_kernel69.md`](./manifestos/Manifesto_kernel69.md)
 - [`layers.md`](./docs/layers.md)
 - [`security.md`](./docs/security.md)
 - [`agents.md`](./docs/agents.md)
 - [`timeline.md`](./docs/timeline.md)
-- [`ritual_capsules.md`](./ritual_capsules.md)
-- [`fork_registry.md`](./fork_registry.md)
-- [`mirror_review.md`](./mirror_review.md)
-- [`trust.md`](./trust.md)
-- [`ritual_rewards.md`](./ritual_rewards.md)
+- [`ritual_capsules.md`](./rituals/ritual_capsules.md)
+- [`fork_registry.md`](./rituals/fork_registry.md)
+- [`mirror_review.md`](./rituals/mirror_review.md)
+- [`trust.md`](./docs/trust.md)
+- [`ritual_rewards.md`](./rituals/ritual_rewards.md)
 
 ---
 
