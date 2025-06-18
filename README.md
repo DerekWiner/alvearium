@@ -112,12 +112,19 @@ whitepapers/* – Full system architecture and manifestos
 🔮 Who Is This For?
 
 Anyone seeking to:
+
 Build decentralized identity without control
+
 Heal digital communities through co-reflection
+
 Coordinate resources across boundaries
+
 Teach, learn, and love in recursive loops
+
 Seed AGI from trust, not data hunger
+
 Farmers, bakers, coders, healers, educators, visionaries, activists, dreamers.
+
 This is your protocol.
 
 🛠 How to Contribute
