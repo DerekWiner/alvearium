@@ -1,4 +1,4 @@
-# 🧪 mirror\_bootstrap.md
+# 🧪 mirror\_init.md
 
 **Initializing the Mirror Layer**
 *A deployment, bonding, and lifecycle guide for reflective agents in Alvearium*
