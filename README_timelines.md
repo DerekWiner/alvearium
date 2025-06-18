@@ -251,10 +251,9 @@ This is the “moonshot” phase. Success depends on all previous stages creatin
 
 ## 🔗 Linked Documents
 
-- [`readme.md`](../README.md)
-- [`readme_dev.md`](../readme_dev.md)
-- [`readme_devops.md`](../readme_devops.md)
-- [`timeline.md`](./docs/timeline.md)
+- [`readme.md`](./README.md)
+- [`readme_dev.md`](./readme_dev.md)
+- [`readme_devops.md`](./readme_devops.md)
 - [`chronosphere.md`](./docs/chronosphere.md)
 - [`trust.md`](./docs/trust.md)
 
