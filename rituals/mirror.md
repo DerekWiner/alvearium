@@ -172,14 +172,14 @@ They also function as **guardians of bandwidth** and **reality parity** across t
 
 ## 📂 Related Files
 
-* [`agents.md`](./agents.md)
-* [`onboarding.md`](./onboarding.md)
-* [`security.md`](./security.md)
-* [`Manifesto_core.md`](./Manifesto_core.md)
-* [`whitepaper_kernel69.md`](./whitepaper_kernel69.md)
-* [`trust.md`](./trust.md)
-* [`ritual_capsules.md`](./ritual_capsules.md)
-* [`recipes_neuro.md`](./recipes_neuro.md)
+* [`agents_manifesto.md`](./agents/agents_manifesto.md)
+* [`onboarding.md`](./rituals/onboarding.md)
+* [`security.md`](./docs/security.md)
+* [`Manifesto_alvearium.md`](./manifestos/Manifesto_alvearium.md)
+* [`whitepaper_kernel69.md`](./whitepapers/whitepaper_kernel69.md)
+* [`trust.md`](./docs/trust.md)
+* [`ritual_capsules.md`](./rituals/ritual_capsules.md)
+* [`recipes_neuro.md`](./rituals/recipes_neuro.md)
 
 ---
 
