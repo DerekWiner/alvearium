@@ -115,10 +115,10 @@ Example:
 
 ## 📂 Related Documents
 
-- [`mirror.md`](./mirror.md)  
-- [`recipes_agents.md`](./recipes_agents.md)  
-- [`trust.md`](./trust.md)  
-- [`security.md`](./security.md)  
+- [`mirror.md`](./rituals/mirror.md)  
+- [`recipes_agents.md`](./rituals/recipes_agents.md)  
+- [`trust.md`](./docs/trust.md)  
+- [`security.md`](./docs/security.md)  
 - [`whitepaper_chronosphere.md`](../whitepapers/whitepaper_chronosphere.md)
 
 ---
