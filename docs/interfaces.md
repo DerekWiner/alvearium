@@ -160,11 +160,11 @@ These UI elements are accessible via core libraries and can be forked for niche 
 
 ## 📂 Related Documents
 
-- [`agents_manifesto.md`](./agents/agents_manifesto.md)  
-- [`mirror.md`](./rituals/mirror.md)  
-- [`trust.md`](./docs/trust.md)  
-- [`recipes_agents.md`](./rituals/recipes_agents.md)  
-- [`security.md`](./docs/security.md)  
+- [`agents_manifesto.md`](../agents/agents_manifesto.md)  
+- [`mirror.md`](../rituals/mirror.md)  
+- [`trust.md`](./trust.md)  
+- [`recipes_agents.md`](../rituals/recipes_agents.md)  
+- [`security.md`](./security.md)  
 
 ---
 
