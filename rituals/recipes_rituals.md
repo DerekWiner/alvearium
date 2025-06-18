@@ -371,10 +371,10 @@ Here are core terms used throughout the ritual framework:
 
 ## 🔗 Related Docs
 
-* [`agents.md`](./agents.md)
-* [`mirror.md`](./mirror.md)
-* [`trust.md`](./trust.md)
-* [`recipes_neuro.md`](./recipes_neuro.md)
+* [`agents_manifesto.md`](./agents/agents_manifesto.md)
+* [`mirror.md`](./docs/mirror.md)
+* [`trust.md`](./docs/trust.md)
+* [`recipes_neuro.md`](./rituals/recipes_neuro.md)
 
 > *“To ritualize is to reflect with rhythm. To reflect is to code the soul.”*
 
