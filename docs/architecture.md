@@ -121,7 +121,7 @@ In Alvearium, DAOs are not static organizations — they are **living structures
 
 For an in-depth schematic and explanation of multi-layer DAO spawning, trust passage, and ritual forking:
 
-📎 See: [DAO Layering and Ritual Inheritance →](./docs/trust.md#🏛️-dao-layering-and-ritual-inheritance)
+📎 See: [DAO Layering and Ritual Inheritance →](./trust.md#🏛️-dao-layering-and-ritual-inheritance)
 ---
 
 ## 🔂 Ritual Trigger Stack
