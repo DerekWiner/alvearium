@@ -75,11 +75,11 @@ Trust is denied or revoked when:
 
 ## 📂 Related Docs
 
-* [`trust.md`](../trust.md)
-* [`mirror.md`](../mirror.md)
-* [`substrate_structures.md`](../substrate_structures.md)
-* [`recipes_rituals.md`](../recipes_rituals.md)
-* [`agents_manifesto.md`](../agents_manifesto.md)
+* [`trust.md`](../docs/trust.md)
+* [`mirror.md`](../rituals/mirror.md)
+* [`substrate_structures.md`](../docs/substrate_structures.md)
+* [`recipes_rituals.md`](../rituals/recipes_rituals.md)
+* [`agents_manifesto.md`](../manifestos/agents_manifesto.md)
 
 
 ---
