@@ -164,12 +164,12 @@ It is memory in motion.
 ## 📚 Companion Docs
 
 * [`whitepaper_kernel69.md`](./Whitepaper_kernel69.md)
-* [`mirror.md`](./mirror.md)
+* [`mirror.md`](../rituals/mirror.md)
 * [`trust.md`](../docs/trust.md)
-* [`agents.md`](./agents.md)
-* [`ritual_engine.md`](./ritual_engine.md)
-* [`recipes_agents.md`](./recipes_agents.md)
-* [`recipes_rituals.md`](./recipes_rituals.md)
+* [`agents_manifesto.md`](../agents/agents_manifesto.md)
+* [`ritual_engine.md`](../rituals/ritual_engine.md)
+* [`recipes_agents.md`](../rituals/recipes_agents.md)
+* [`recipes_rituals.md`](../rituals/recipes_rituals.md)
 
 ---
 
