@@ -163,9 +163,9 @@ It is memory in motion.
 
 ## 📚 Companion Docs
 
-* [`whitepaper_kernel69.md`](./whitepaper_kernel69.md)
+* [`whitepaper_kernel69.md`](./Whitepaper_kernel69.md)
 * [`mirror.md`](./mirror.md)
-* [`trust.md`](./trust.md)
+* [`trust.md`](../docs/trust.md)
 * [`agents.md`](./agents.md)
 * [`ritual_engine.md`](./ritual_engine.md)
 * [`recipes_agents.md`](./recipes_agents.md)
