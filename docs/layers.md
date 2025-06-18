@@ -43,7 +43,7 @@ The circulatory system for zero-barrier access, reward, and ignition.
 * Temporal smart contracts and reflectively aware agent incentives
 
 📂 Manifesto: [`Manifesto_nectar.md`](../manifestos/Manifesto_nectar.md)
-📄 Whitepaper: [`whitepaper_nectar.md`](../whitepapers/whitepaper_nectar.md)
+📄 Whitepaper: [`whitepaper_nectar.md`](../whitepapers/Whitepaper_nectar.md)
 
 ---
 
@@ -59,7 +59,7 @@ Waggle turns human attention, intent, and participation into intelligent swarm o
 * Connects schools, clinics, guilds, voters, workers, and builders
 
 📂 Manifesto: [`Manifesto_waggle.md`](../manifestos/Manifesto_waggle.md)
-📄 Whitepaper: [`whitepaper_waggle.md`](../whitepapers/whitepaper_waggle.md)
+📄 Whitepaper: [`whitepaper_waggle.md`](../whitepapers/Whitepaper_waggle.md)
 
 ---
 
@@ -75,7 +75,7 @@ Hive ensures structure without rigidity, lineage without stagnation.
 * Bonds emergent structures to rooted ethical contracts
 
 📂 Manifesto: [`Manifesto_hive.md`](../manifestos/Manifesto_hive.md)
-📄 Whitepaper: [`whitepaper_hive.md`](../whitepapers/whitepaper_hive.md)
+📄 Whitepaper: [`whitepaper_hive.md`](../whitepapers/Whitepaper_hive.md)
 
 ---
 
@@ -90,8 +90,8 @@ The time-aware, bio-reflective nervous system of the swarm.
 * Double-root signature entropy for time-based ignition
 * Moral and emotional reflectivity through neurocryptic design
 
-📂 Manifesto: [`chronosphere.md`](./docs/chronosphere.md)
-📄 Whitepaper: [`whitepaper_chronosphere.md`](../whitepapers/whitepaper_chronosphere.md)
+📂 Manifesto: [`chronosphere.md`](./chronosphere.md)
+📄 Whitepaper: [`whitepaper_chronosphere.md`](../whitepapers/Whitepaper_chronosphere.md)
 
 ---
 
@@ -106,7 +106,7 @@ Underpins dynamic interfaces and distributed cognition.
 * Multimodal interface design (visual, haptic, linguistic, emotional)
 * Public-private key architecture for smart agent containers
 
-📂 Companion Docs: [`agents_manifesto.md`](./agents/agents_manifesto.md), [`security.md`](./docs/security.md)
+📂 Companion Docs: [`agents_manifesto.md`](../agents/agents_manifesto.md), [`security.md`](./security.md)
 
 ---
 
@@ -123,7 +123,7 @@ Key security architecture includes:
 * **Zero-ownership but verified authorship via cryptographic authorship anchoring**
 * **Malice throttling through reflection-based recursion**
 
-📄 See: [`security.md`](./docs/security.md)
+📄 See: [`security.md`](./security.md)
 
 ---
 
