@@ -34,11 +34,11 @@ A living index of ritual-compatible files, agents, and layers in the Alvearium s
 
 See `glossary.md` for term definitions:
 
-- [Mirror Mesh](./glossary.md#mirror-mesh)
-- [Trust Delta](./glossary.md#trust-delta)
-- [Ritual Capsule](./glossary.md#ritual-capsule)
-- [Entropy Zone](./glossary.md#entropy-zone)
-- [Fork Variant](./glossary.md#fork-variant)
+- [Mirror Mesh](../glossary.md#mirror-mesh)
+- [Trust Delta](../glossary.md#trust-delta)
+- [Ritual Capsule](../glossary.md#ritual-capsule)
+- [Entropy Zone](../glossary.md#entropy-zone)
+- [Fork Variant](../glossary.md#fork-variant)
 
 ---
 
