@@ -80,7 +80,7 @@ Failed mirrors may be flagged, quarantined, or offered re-initiation via ritual.
 ## 📂 Related Docs
 
 * [`mirror.md`](../rituals/mirror.md)
-* [`trust.md`](../docs/trust.md)
+* [`trust.md`](./trust.md)
 * [`onboarding.md`](../rituals/onboarding.md)
 * [`recipes_rituals.md`](../rituals/recipes_rituals.md)
 
