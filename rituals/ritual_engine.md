@@ -27,7 +27,7 @@ Includes all associated schematics and YAML test templates.
 
 **License**: Open Source Without Malice  
 **IPFS Hash**: _[to be updated on capsule emit]_  
-**References**: [glossary.md](./glossary.md) | [ritual_tests.md](./ritual_tests.md) | [reference.md](./reference.md)
+**References**: [glossary.md](./docs/glossary.md) | [ritual_tests.md](./rituals/ritual_tests.md) | [reference.md](./docs/reference.md)
 
 ---
 
