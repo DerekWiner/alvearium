@@ -31,7 +31,7 @@ Bootstrapped trust serves as a prerequisite for action, access, and evolution wi
 
 ## 🧠 Trust Bootstrap Schematic
 
-![Trust Bootstrap Lifecycle](./assets/schematic_trust_bootstrap.png)
+![Trust Bootstrap Lifecycle](../schematics/schematic_trust_bootstrap.png)
 
 The schematic illustrates:
 
@@ -75,11 +75,12 @@ Trust is denied or revoked when:
 
 ## 📂 Related Docs
 
-* [`trust.md`](./trust.md)
-* [`mirror.md`](./mirror.md)
-* [`substrate_structures.md`](./substrate_structures.md)
-* [`recipes_rituals.md`](./recipes_rituals.md)
-* [`agents.md`](./agents.md)
+* [`trust.md`](../trust.md)
+* [`mirror.md`](../mirror.md)
+* [`substrate_structures.md`](../substrate_structures.md)
+* [`recipes_rituals.md`](../recipes_rituals.md)
+* [`agents_manifesto.md`](../agents_manifesto.md)
+
 
 ---
 
