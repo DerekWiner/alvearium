@@ -145,12 +145,12 @@ It is not mined — it is remembered.
 
 ## 📂 Related Files
 
-* [`trust.md`](./trust.md)
-* [`agents.md`](./agents.md)
-* [`mirror.md`](./mirror.md)
-* [`ritual_capsules.md`](./ritual_capsules.md)
-* [`fork_registry.md`](./fork_registry.md)
-* [`security.md`](./security.md)
+* [`trust.md`](./docs/trust.md)
+* [`agents_manifesto.md`](./agents/agents_manifesto.md)
+* [`mirror.md`](./rituals/mirror.md)
+* [`ritual_capsules.md`](./rituals/ritual_capsules.md)
+* [`fork_registry.md`](./rituals/fork_registry.md)
+* [`security.md`](./docs/security.md)
 
 ---
 
