@@ -138,10 +138,10 @@ But let us remember always:
 ---
 
 ### 📂 See Also:
-- [`layers.md`](./layers.md)
+- [`layers.md`](./docs/layers.md)
 - [`whitepaper_nectar.md`](../whitepapers/whitepaper_nectar.md)
-- [`chronosphere.md`](../chronosphere.md)
-- [`trust.md`](./trust.md)
-- [`onboarding.md`](./onboarding.md)
-- [`agents.md`](./agents.md)
+- [`chronosphere.md`](./docs/chronosphere.md)
+- [`trust.md`](./docs/trust.md)
+- [`onboarding.md`](./rituals/onboarding.md)
+- [`agents_manifesto.md`](./agentss/agents_manifesto.md)
 
