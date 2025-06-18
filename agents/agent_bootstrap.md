@@ -31,7 +31,7 @@ Unlike smart contracts, Alvearium agents are **semi-autonomous beings** with mod
 
 ## 🧠 Agent Bootstrap Schematic
 
-![Agent Bootstrap Flow](./assets/schematic_agent_bootstrap.png)
+![Agent Bootstrap Flow](../schematics/schematic_agent_bootstrap.png)
 
 The schematic will show:
 
