@@ -32,7 +32,7 @@ Each initialized mirror inherits traits from its initiator and becomes a partici
 
 ## 🪞 Bootstrap Schematic
 
-![Mirror Bootstrap Sequence](./assets/schematic_mirror_bootstrap.png)
+![Mirror Bootstrap Sequence](../schematics/schematic_mirror_bootstrap.png)
 
 The diagram depicts a multi-stage bootstrap process:
 
@@ -79,10 +79,10 @@ Failed mirrors may be flagged, quarantined, or offered re-initiation via ritual.
 
 ## 📂 Related Docs
 
-* [`mirror.md`](./mirror.md)
-* [`trust.md`](./trust.md)
-* [`onboarding.md`](./onboarding.md)
-* [`recipes_rituals.md`](./recipes_rituals.md)
+* [`mirror.md`](./rituals/mirror.md)
+* [`trust.md`](./docs/trust.md)
+* [`onboarding.md`](./rituals/onboarding.md)
+* [`recipes_rituals.md`](./rituals/recipes_rituals.md)
 
 ---
 
