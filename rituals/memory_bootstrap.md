@@ -76,11 +76,11 @@ Resolution paths include:
 
 ## 📂 Related Docs
 
-* [`mirror.md`](./rituals/mirror.md)
-* [`trust.md`](./docs/trust.md)
-* [`mirror_init.md`](./docs/mirror_init.md)
-* [`substrate_structures.md`](./docs/substrate_structures.md)
-* [`recipes_rituals.md`](./rituals/recipes_rituals.md)
+* [`mirror.md`](./mirror.md)
+* [`trust.md`](../docs/trust.md)
+* [`mirror_init.md`](../docs/mirror_init.md)
+* [`substrate_structures.md`](../docs/substrate_structures.md)
+* [`recipes_rituals.md`](./recipes_rituals.md)
 
 ---
 
