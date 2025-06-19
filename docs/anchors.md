@@ -18,7 +18,7 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 | alvearium-0.1-alpha/agents/builder_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
 | alvearium-0.1-alpha/agents/guardian_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
 | alvearium-0.1-alpha/agents/scholar_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
-| alvearium-0.1-alpha/code/init_scripts/swarm_init.sh | `TO-FILLiLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ` | [Link](https://arweave.net/iLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ) |
+| alvearium-0.1-alpha/code/init_scripts/swarm_init.sh | `iLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ` | [Link](https://arweave.net/iLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ) |
 | alvearium-0.1-alpha/docs/CLI_USAGE.md | `zbnyY8X_AahpkiqIw-yeBwWaksBt1eGxv5X20YRN_CY` | [Link](https://arweave.net/zbnyY8X_AahpkiqIw-yeBwWaksBt1eGxv5X20YRN_CY) |
 | alvearium-0.1-alpha/docs/architecture.md | `nC3v_jMNaT1ONVBfHtrvRwmk4T_qmstefMWxJAbN1go` | [Link](https://arweave.net/nC3v_jMNaT1ONVBfHtrvRwmk4T_qmstefMWxJAbN1go) |
 | alvearium-0.1-alpha/docs/chronosphere.md | `odWTs4sEsq-lOXOLDxxY-g5AykeFJzP3KdSkCrg8Rz8` | [Link](https://arweave.net/odWTs4sEsq-lOXOLDxxY-g5AykeFJzP3KdSkCrg8Rz8) |
