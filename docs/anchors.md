@@ -6,7 +6,7 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 |------|---------------|------|
 | alvearium-0.1-alpha/CODE_OF_CONDUCT.md | `ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0` | [Link](https://arweave.net/ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0) |
 | alvearium-0.1-alpha/CONTRIBUTING.md | `uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0` | [Link](https://arweave.net/uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0) |
-| alvearium-0.1-alpha/LICENSE | 'pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU` | [Link](https://arweave.net/pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU) |
+| alvearium-0.1-alpha/LICENSE.md | 'pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU` | [Link](https://arweave.net/pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU) |
 | alvearium-0.1-alpha/README.md | `BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo` | [Link](https://arweave.net/BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo) |
 | alvearium-0.1-alpha/README_DevOps.md | '3sI4eN_k5VgmaIj-6eKQ2f3FBQCtSiHU47kxIjjNYrM` | [Link](https://arweave.net/3sI4eN_k5VgmaIj-6eKQ2f3FBQCtSiHU47kxIjjNYrM) |
 | alvearium-0.1-alpha/README_dev.md | `eRKCOpfzBChqe-Z8HSN8BPYKunS-9DlFFh5sqDGqC-o` | [Link](https://arweave.net/eRKCOpfzBChqe-Z8HSN8BPYKunS-9DlFFh5sqDGqC-o) |
