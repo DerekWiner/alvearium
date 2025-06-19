@@ -4,7 +4,7 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 
 | File | Arweave TXID | View |
 |------|---------------|------|
-| alvearium-0.1-alpha/CODE_OF_CONDUCT.md | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
+| alvearium-0.1-alpha/CODE_OF_CONDUCT.md | `t9xIP7PTzj-58G4wEOOBurYPTJ1LQdC9C12Mb6DExLM` | [Link](https://arweave.net/t9xIP7PTzj-58G4wEOOBurYPTJ1LQdC9C12Mb6DExLM) |
 | alvearium-0.1-alpha/CONTRIBUTING.md | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
 | alvearium-0.1-alpha/LICENSE | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
 | alvearium-0.1-alpha/README.md | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
