@@ -5,7 +5,7 @@ This file lists every repo file along with naming, metadata, and classification 
 | File | Type | Arweave Data TxID | ArNS Name | Metadata? | View |
 |------|------|-------------------|-----------|------------|------|
 | alvearium-0.1-alpha/CODE_OF_CONDUCT.md | Code of Conduct | `TO-FILL` | `alvearium-0_1-alpha_code_of_conduct_md` | No | [Link](https://arweave.net/TO-FILL) |
-| alvearium-0.1-alpha/CONTRIBUTING.md | Contributing Guide | `TO-FILL` | `alvearium-0_1-alpha_contributing_md` | No | [Link](https://arweave.net/TO-FILL) |
+| alvearium-0.1-alpha/CONTRIBUTING.md | Contributing Guide | `uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0` | `alvearium-0_1-alpha_contributing_md` | No | [Link](https://arweave.net/uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0) |
 | alvearium-0.1-alpha/LICENSE | License | `TO-FILL` | `alvearium-0_1-alpha_license` | No | [Link](https://arweave.net/TO-FILL) |
 | alvearium-0.1-alpha/README.md | Index/README | `TO-FILL` | `alvearium-0_1-alpha_readme_md` | No | [Link](https://arweave.net/TO-FILL) |
 | alvearium-0.1-alpha/README_DevOps.md | Index/README | `TO-FILL` | `alvearium-0_1-alpha_readme_devops_md` | No | [Link](https://arweave.net/TO-FILL) |
