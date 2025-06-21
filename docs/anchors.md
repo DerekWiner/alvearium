@@ -151,8 +151,8 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 | alvearium-0.1-alpha/whitepapers/Whitepaper_kernel69.md | `zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE` | [Link](https://arweave.net/zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE) |
 | alvearium-0.1-alpha/whitepapers/Whitepaper_nectar.md | `6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8` | [Link](https://arweave.net/6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8) |
 | alvearium-0.1-alpha/whitepapers/Whitepaper_waggle.md | `I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU` | [Link](https://arweave.net/I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU) |
-| anchors_metadata.md         | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
-| anchors_manifest_hash.md    | `TO-FILL` | [Link](https://arweave.net/TO-FILL) |
+| anchors_metadata.md         | `72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ` | [Link](https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ) |
+| anchors_manifest_hash.md    | `YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ` | [Link](https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ) |
 
 
 ---
