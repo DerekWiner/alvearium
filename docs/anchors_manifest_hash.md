@@ -14,7 +14,13 @@ This file represents a **cryptographic triangle**: three mutually-referencing an
 
 ## 🔐 Anchor Hashes arDrive
 
-| anchors_metadata.md         | `DW85vTTpU0zbJJdvPcUPBG8any7hF8H87tkgiuOHJ7w` | [Link](https://arweave.net/DW85vTTpU0zbJJdvPcUPBG8any7hF8H87tkgiuOHJ7w) |
+📌 Arweave Hash for anchors.md: `gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk`
+[View on Arweave](https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk)
+
+📌 Arweave Hash for anchors_metadata.md: `72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ`
+[View on Arweave](https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ)
+
+---
 
 _All three hashes are self-verifying. If any of these files is altered, the others will fail verification._
 
