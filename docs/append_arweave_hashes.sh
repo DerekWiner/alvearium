@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ANCHORS_FILE="anchors.md"
-ROOT_DIR="./alvearium-0.1-alpha"
+ROOT_DIR="./alvearium"
 
 # Validate
 if [[ ! -f "$ANCHORS_FILE" ]]; then
