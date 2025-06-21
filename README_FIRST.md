@@ -35,7 +35,7 @@ This file will help you understand:
 
 ---
 
-## 🌐 Summary for an 8th Grader
+## 🌐 Paradigm Summary
 
 | THEN | NOW | ALCHEMY |
 |------|-----|---------|
