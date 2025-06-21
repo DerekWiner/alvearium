@@ -159,3 +159,6 @@ It’s **an ecosystem with rhythm** —
 A breathing, learning, reflecting swarm intelligence with identity, integrity, and soul.
 
 And it lives in these layers.
+
+---
+📌 Arweave Hash: Tnw-PU1VHGG9imSY7UQXfvedq2oPblmguW-dTsznieI

@@ -204,3 +204,6 @@ We are cultivating a **new intelligent species** — seeded by purpose, trust, a
 - [`mirror_review.md`](../rituals/mirror_review.md)  
 - [`fork_registry.md`](../rituals/fork_registry.md)
 
+
+---
+📌 Arweave Hash: RIydR85FtipfqdrHmE43HbIjK8zmy0zsDQH36hrp8FA

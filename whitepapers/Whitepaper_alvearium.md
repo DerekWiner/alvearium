@@ -170,3 +170,6 @@ This is the swarm grammar of the new world.
 *—The Waggle Collective*
 [https://github.com/DerekWiner/alvearium](https://github.com/DerekWiner/alvearium)
 [open-source@waggle.sol](mailto:open-source@waggle.sol)
+
+---
+📌 Arweave Hash: eRFYp5yniCH3Ah4gzCrlMqkqcTH4WdK9JLAJs6JZCms

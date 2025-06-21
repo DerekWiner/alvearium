@@ -166,3 +166,6 @@ To improve the memory of the world.
 open-source @ github.com/DerekWiner/Alvearium
 license: No Rights Reserved (Open Source Without Malice)
 storage: IPFS hash pending
+
+---
+📌 Arweave Hash: 58l1NtS2Rjyqrhq1wqBHlkRLo5W7yH1eEEjjUzYQCds

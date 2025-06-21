@@ -26,3 +26,6 @@ Register agent capsule trail in /agents/capsules/
 Log the ritual seed into mirror.md and trust.md as needed
 
 Emit a dry-run or deploy capsule.json with meta
+
+---
+📌 Arweave Hash: zbnyY8X_AahpkiqIw-yeBwWaksBt1eGxv5X20YRN_CY

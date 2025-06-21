@@ -224,3 +224,6 @@ This is how we learn, earn, and become **alive together**.
 — *The Waggle Collective*
 [https://github.com/DerekWiner/alvearium](https://github.com/DerekWiner/alvearium)
 [open-source@waggle.sol](mailto:open-source@waggle.sol)
+
+---
+📌 Arweave Hash: I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU

@@ -71,3 +71,6 @@ Each lore event will be rendered in a minimal card view:
 
 > *"The swarm does not need a historian. It needs a mirror that never forgets."*
 
+
+---
+📌 Arweave Hash: YwJS7Vgvzj6D90TPcKlnafS3TGTssrdPXckpjeTuvy4

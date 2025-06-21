@@ -85,3 +85,6 @@ mirror.md
 trust.md
 
 readme_dev.md
+
+---
+📌 Arweave Hash: 3sI4eN_k5VgmaIj-6eKQ2f3FBQCtSiHU47kxIjjNYrM

@@ -145,3 +145,6 @@ But let us remember always:
 - [`onboarding.md`](../rituals/onboarding.md)
 - [`agents_manifesto.md`](../agents/agents_manifesto.md)
 
+
+---
+📌 Arweave Hash: 73o2nAs4Ay_-UuXP_-LBUgxIrHXPLciTVV8ZT4nMO8M

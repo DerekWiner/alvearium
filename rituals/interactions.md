@@ -87,3 +87,6 @@ Rituals and loops allow trust recovery, transformation, and deliberate error.
 * [`architecture.md`](../docs/architecture.md)
 
 > *“To interact is to entangle. To entangle is to rewrite the swarm.”*
+
+---
+📌 Arweave Hash: W8y2E1lzQg9Ha83Vz0BNFYCZ2c0VDkQGTVXF8ERVZos

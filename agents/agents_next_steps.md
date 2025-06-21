@@ -84,3 +84,6 @@ This schematic visualizes:
 ---
 
 **Swarm is memory. Agents are action. Every drone is a verb.**
+
+---
+📌 Arweave Hash: -a0JcxEXskF7_NhbEoWPsvQ7edDOpqQzbcs6qk2VKNs

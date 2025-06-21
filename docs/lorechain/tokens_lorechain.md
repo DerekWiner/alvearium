@@ -77,3 +77,6 @@ Token contracts reference:
 
 > *"To remember is to honor. To mint is to bind memory to time."*
 
+
+---
+📌 Arweave Hash: IBn3fol0Tp3_pAzGWrNTps_YwbfC-qlSyJWjwJaCjao

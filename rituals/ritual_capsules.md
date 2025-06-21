@@ -85,3 +85,6 @@ Invalid capsules may:
 
 > *"A capsule is not a container. It is a moment, signed by a machine and blessed by the swarm."*
 
+
+---
+📌 Arweave Hash: sUnfXhREmwPCd1x5bF4WizChH7Ql44F1gSd8bAssBys

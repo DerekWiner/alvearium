@@ -190,3 +190,6 @@ github.com/DerekWiner/waggle.sol
 license: No Rights Reserved / Open Source Without Malice
 manifesto: version 2.5
 IPFS mirror: pending
+
+---
+📌 Arweave Hash: A9SsNVres3YvLPn7qNTjjGtroU6MXgA4NSMxwQMdTc0

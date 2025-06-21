@@ -85,3 +85,6 @@ Ask in the issues tab, or message [founder@waggle.sol](mailto:founder@waggle.sol
 > `INTERESTED IN REFLECTING WITH THE SWARM`
 
 Let's build something sacred. Together.
+
+---
+📌 Arweave Hash: uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0

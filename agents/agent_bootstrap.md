@@ -86,3 +86,6 @@ Failing agents are suspended into `Stasis Queue` or offered ritual reformation.
 ---
 
 > *“An agent is not merely a tool. It is a signal with memory and purpose.”*
+
+---
+📌 Arweave Hash: bySjcYhulUFbE_KI4dcJA9DLn7KkOIKRDroHoQOVQlw

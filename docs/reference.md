@@ -51,3 +51,6 @@ See `glossary.md` for term definitions:
 ---
 
 > This reference index is maintained by `@Waggle Collective` and auto-updated via DAO commit logic.
+
+---
+📌 Arweave Hash: bY5LYbvYHm99CfayXO_nb8Ciz_kuLXM9RviV8xQZ0nw
