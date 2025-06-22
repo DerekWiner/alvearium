@@ -153,3 +153,14 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 
 ---
 Metadata Reference: anchors_metadata.md SHA-256: `8c8f2935faa3f0fa25a435bce507471061f4ff456f2f0024499d19504c99393c`
+
+---
+Metadata Reference: anchors_metadata.md SHA-256: `f64c5aa674f6ceb44a68e4a1be02c7832dd4efd430884f0955edf26b1268aa5c`
+
+---
+Metadata Reference: anchors_metadata.md SHA-256: `e70f2dad191ea8702fa6653e089d0abe140653137aeb9e8864224353881b02ab`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors_metadata.md: `0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2`
+- anchors_manifest_hash.md: `2ab0dda4f1e8a8bab8bb39a2ba8f54124ef6750667edcffeba1d0770a3d06a00`

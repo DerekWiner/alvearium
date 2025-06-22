@@ -20,3 +20,14 @@ This file holds the expected metadata fields for all core documents requiring en
 
 ---
 Document Reference: anchors.md SHA-256: `7c6e11532efa0693a27a71b29d1f20ae553bb780d60e2e0293f7b4eb76a2a598`
+
+---
+Document Reference: anchors.md SHA-256: `9d86711824a01d87be4373e2a6a148eea4ff017283f81db8192cc6b86054d7cd`
+
+---
+Document Reference: anchors.md SHA-256: `b23f6f70fa5cc9afac0ae93cc860d340ba1a0e1d554bd303739fcc3a86af6971`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors.md: `2b841468e371540aed9c9b5c77c12235ad7f5474156b48f2fcfaf49f2714389b`
+- anchors_manifest_hash.md: `2ab0dda4f1e8a8bab8bb39a2ba8f54124ef6750667edcffeba1d0770a3d06a00`
