@@ -8,7 +8,7 @@
   - [Manifest Hash](anchors_manifest_hash.md)
 
 - 📜 Whitepapers
-  - [Waggle](../Whitepapers/whitepaper_waggle.md)
+  - [Waggle](../whitepapers/Whitepaper_waggle.md)
   - [Hive](../Whitepapers/whitepaper_hive.md)
   - [Kernel69](../Whitepapers/whitepaper_kernel69.md)
   - [Nectar](../Whitepapers/whitepaper_nectar.md)
