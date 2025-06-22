@@ -8,13 +8,13 @@
   - [Manifest Hash](anchors_manifest_hash.md)
 
 - 📜 Whitepapers
-  - [Waggle](../Whitepapers/Whitepaper_waggle.md)
-  - [Hive](../Whitepapers/Whitepaper_hive.md)
-  - [Kernel69](../Whitepapers/Whitepaper_kernel69.md)
-  - [Nectar](../Whitepapers/Whitepaper_nectar.md)
+  - [Waggle](../Whitepapers/whitepaper_waggle.md)
+  - [Hive](../Whitepapers/whitepaper_hive.md)
+  - [Kernel69](../Whitepapers/whitepaper_kernel69.md)
+  - [Nectar](../Whitepapers/whitepaper_nectar.md)
 
 - 📖 Manifestos
-  - [Waggle](../Manifestos/Manifesto_waggle.md)
-  - [Hive](../Manifestos/Manifesto_hive.md)
-  - [Kernel69](../Manifestos/Manifesto_kernel69.md)
-  - [Nectar](../Manifestos/Manifesto_nectar.md)
+  - [Waggle](../Manifestos/manifesto_waggle.md)
+  - [Hive](../Manifestos/manifesto_hive.md)
+  - [Kernel69](../Manifestos/manifesto_kernel69.md)
+  - [Nectar](../Manifestos/manifesto_nectar.md)
