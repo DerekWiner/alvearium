@@ -4,11 +4,21 @@ This file represents a **cryptographic triangle**: three mutually-referencing an
 
 ---
 
-## 🔐 Anchor Hashes
+## 🔐 Anchor Hashes SHA256
 
 - `anchors.md`: `b23f6f70fa5cc9afac0ae93cc860d340ba1a0e1d554bd303739fcc3a86af6971`
 - `anchors_metadata.md`: `e70f2dad191ea8702fa6653e089d0abe140653137aeb9e8864224353881b02ab`
 - 📂 **Directory Manifest Hash**: `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
+
+---
+
+## 🔐 Anchor Hashes arDrive
+
+📌 Arweave Hash for anchors.md: `gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk`
+[View on Arweave](https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk)
+
+📌 Arweave Hash for anchors_metadata.md: `72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ`
+[View on Arweave](https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ)
 
 ---
 

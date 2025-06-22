@@ -19,6 +19,11 @@ This file holds the expected metadata fields for all core documents requiring en
 | alvearium-0.1-alpha/whitepapers/Whitepaper_waggle.md | Whitepaper | Whitepaper document for Whitepaper waggle | `alvearium-0_1-alpha_whitepapers_whitepaper_waggle_md` | `9vC0tf7SehLjNPLERJ992VJvmyswLuTVTU_EV7dfORU` | `I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU` |
 
 ---
+
+📌 Arweave Hash for anchors.md: `gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk`
+[View on Arweave](https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk)
+
+---
 Document Reference: anchors.md SHA-256: `7c6e11532efa0693a27a71b29d1f20ae553bb780d60e2e0293f7b4eb76a2a598`
 
 ---

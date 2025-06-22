@@ -4,6 +4,7 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 
 | File | Arweave TXID | View |
 |------|---------------|------|
+| README_FIRST.md            | `rM7Vt0Fv_zF3h1h6e-9Ujt3ZMlDPfx32nfD2L28VboI` | [Link](https://arweave.net/rM7Vt0Fv_zF3h1h6e-9Ujt3ZMlDPfx32nfD2L28VboI) |
 | alvearium-0.1-alpha/CODE_OF_CONDUCT.md | `ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0` | [Link](https://arweave.net/ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0) |
 | alvearium-0.1-alpha/CONTRIBUTING.md | `uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0` | [Link](https://arweave.net/uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0) |
 | alvearium-0.1-alpha/LICENSE | `pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU` | [Link](https://arweave.net/pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU) |
@@ -150,6 +151,9 @@ This document lists the Arweave transaction IDs for **every file** in the Alvear
 | alvearium-0.1-alpha/whitepapers/Whitepaper_kernel69.md | `zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE` | [Link](https://arweave.net/zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE) |
 | alvearium-0.1-alpha/whitepapers/Whitepaper_nectar.md | `6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8` | [Link](https://arweave.net/6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8) |
 | alvearium-0.1-alpha/whitepapers/Whitepaper_waggle.md | `I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU` | [Link](https://arweave.net/I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU) |
+| anchors_metadata.md         | `72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ` | [Link](https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ) |
+| anchors_manifest_hash.md    | `YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ` | [Link](https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ) |
+
 
 ---
 Metadata Reference: anchors_metadata.md SHA-256: `8c8f2935faa3f0fa25a435bce507471061f4ff456f2f0024499d19504c99393c`
