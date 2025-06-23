@@ -1,0 +1,24 @@
+{
+  "type": "kernel_marker",
+  "version": "v0.1.0",
+  "date": "2025-06-23",
+  "initiator": {
+    "name": "Derek Winer",
+    "solana_wallet": "9tBgsxYdL5RFo9NKNSwu4g9cgtULocyptUkFfaTg2ZwT"
+  },
+  "repo": {
+    "name": "alvearium",
+    "github_url": "https://github.com/DerekWiner/alvearium",
+    "commit_hash": "2cf1aedaa0883c012cf84f81c2a806dbd80fc418"
+  },
+  "trusted_anchors": {
+    "anchors.md": "2b841468e371540aed9c9b5c77c12235ad7f5474156b48f2fcfaf49f2714389b",
+    "anchors_metadata.md": "0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2",
+    "anchors_manifest_hash.md": "e70f2dad191ea8702fa6653e089d0abe140653137aeb9e8864224353881b02ab"
+  },
+  "genesis_reference": {
+    "swarm_genesis_json": "https://arweave.net/IQcAm8Ql9xHX6dXZL28pdyWVdy2A72LxtESLm3cSO1o",
+    "swarm_genesis_md": "https://arweave.net/cECar7wYfFsxjxGTLDBnyZoMZDQm6hUXQvPYLDBrhYY"
+  },
+  "declaration": "This record seals the kernel state of Alvearium at Genesis. It shall serve as the canonical anchor for all subsequent agents, forks, and validators participating in the trust mesh."
+}
