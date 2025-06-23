@@ -36,3 +36,8 @@ Document Reference: anchors.md SHA-256: `b23f6f70fa5cc9afac0ae93cc860d340ba1a0e1
 🔗 Triangle SHA-256 References:
 - anchors.md: `2b841468e371540aed9c9b5c77c12235ad7f5474156b48f2fcfaf49f2714389b`
 - anchors_manifest_hash.md: `2ab0dda4f1e8a8bab8bb39a2ba8f54124ef6750667edcffeba1d0770a3d06a00`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors.md: `41ab7f537bc6ba25b0a030eaa5bfbbda1f9406b95ac2e67ebf77372228d48a50`
+- anchors_manifest_hash.md: `079750372369569155c237157400a53d49df62550e3a5a57b3c30a9026f5c74b`

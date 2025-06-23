@@ -168,3 +168,8 @@ Metadata Reference: anchors_metadata.md SHA-256: `e70f2dad191ea8702fa6653e089d0a
 🔗 Triangle SHA-256 References:
 - anchors_metadata.md: `0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2`
 - anchors_manifest_hash.md: `2ab0dda4f1e8a8bab8bb39a2ba8f54124ef6750667edcffeba1d0770a3d06a00`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors_metadata.md: `81582a4ec99104d6db6be7345b297385b5ca2943ea6e6f84f7ca1819b27416c1`
+- anchors_manifest_hash.md: `079750372369569155c237157400a53d49df62550e3a5a57b3c30a9026f5c74b`

@@ -28,3 +28,8 @@ _All three hashes are self-verifying. If any of these files is altered, the othe
 🔗 Triangle SHA-256 References:
 - anchors.md: `2b841468e371540aed9c9b5c77c12235ad7f5474156b48f2fcfaf49f2714389b`
 - anchors_metadata.md: `0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors.md: `41ab7f537bc6ba25b0a030eaa5bfbbda1f9406b95ac2e67ebf77372228d48a50`
+- anchors_metadata.md: `81582a4ec99104d6db6be7345b297385b5ca2943ea6e6f84f7ca1819b27416c1`
