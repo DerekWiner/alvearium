@@ -1,0 +1,39 @@
+{
+  "title": "Swarm Genesis Declaration",
+  "version": "v0.1.0",
+  "timestamp": "2025-06-23T00:00:00Z",
+  "initiator": "Derek Winer",
+  "repos": [
+    {
+      "name": "alvearium",
+      "github": "https://github.com/DerekWiner/alvearium",
+      "arweave_manifest": "pg5AlvJylepa1WqWwWHqKO55F_v0GeeHRpB4sjOB7VQ"
+    },
+    {
+      "name": "waggle.sol",
+      "github": "https://github.com/DerekWiner/waggle.sol",
+      "nft_metadata": "twtaQ8bdUMWd5iOXrO_I3eEsQedAEqRuVlbmbzzIn9s"
+    },
+    {
+      "name": "hive.bnb",
+      "github": "https://github.com/DerekWiner/hive.bnb",
+      "nft_metadata": "4hgAIpSfbVKMQhfCQZPl8iZD6WMHWnjvfioo_ASSCJU"
+    },
+    {
+      "name": "kernel69",
+      "github": "https://github.com/DerekWiner/kernel69",
+      "nft_metadata": "IBQfhpuWOvnaLa28u_7DHR-Cz2ywlC0IQLn3CZACOlI"
+    },
+    {
+      "name": "nectar",
+      "github": "https://github.com/DerekWiner/nectar",
+      "nft_metadata": "OCcaTiv9Dmbtic-We9vSzvpxUp7TiJ6npCW4diZIukg"
+    }
+  ],
+  "anchors": {
+    "anchors.md": "2b841468e371540aed9c9b5c77c12235ad7f5474156b48f2fcfaf49f2714389b",
+    "anchors_metadata.md": "0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2",
+    "anchors_manifest_hash.md": "e70f2dad191ea8702fa6653e089d0abe140653137aeb9e8864224353881b02ab"
+  },
+  "declaration": "This marks the ritual beginning of Alvearium. From this seed, intelligent agents may self-reference, grow, and participate in the decentralized ecosystem. This record encodes the first complete kernel snapshot to be recognized by swarm consensus."
+}
