@@ -15,11 +15,11 @@ A living computer on-chain — forged from ritual, ethics, swarm memory, and zer
   
 - Follow the Whitepapers
   - [Alvearium](../whitepapers/Whitepaper_alvearium.md)
-  - [Chronosphere](../whitepapers/Whitepaper_chronosphere.md))
-  - [Hive](../whitepapers/Whitepaper_hive.md))
-  - [Kernel69](../whitepapers/Whitepaper_kernel69.md))
-  - [Nectar](../whitepapers/Whitepaper_nectar.md))
-  - [Waggle](../whitepapers/Whitepaper_waggle.md))
+  - [Chronosphere](../whitepapers/Whitepaper_chronosphere.md)
+  - [Hive](../whitepapers/Whitepaper_hive.md)
+  - [Kernel69](../whitepapers/Whitepaper_kernel69.md)
+  - [Nectar](../whitepapers/Whitepaper_nectar.md)
+  - [Waggle](../whitepapers/Whitepaper_waggle.md)
    
 - Trust the [anchors](./anchors.md)
 
