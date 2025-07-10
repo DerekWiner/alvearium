@@ -1,0 +1,175 @@
+# 📌 Arweave Anchors for Alvearium v0.1-alpha
+
+This document lists the Arweave transaction IDs for **every file** in the Alvearium repository snapshot.
+
+| File | Arweave TXID | View |
+|------|---------------|------|
+| README_FIRST.md            | `rM7Vt0Fv_zF3h1h6e-9Ujt3ZMlDPfx32nfD2L28VboI` | [Link](https://arweave.net/rM7Vt0Fv_zF3h1h6e-9Ujt3ZMlDPfx32nfD2L28VboI) |
+| alvearium-0.1-alpha/CODE_OF_CONDUCT.md | `ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0` | [Link](https://arweave.net/ZB-qP3xr5fypfLNzRP-tMN-4aUT9wV2OX2fq9PC3Lc0) |
+| alvearium-0.1-alpha/CONTRIBUTING.md | `uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0` | [Link](https://arweave.net/uZRcL_bu7NnuEObshx-Vpe2Jg35cTHAFvibUZezQIJ0) |
+| alvearium-0.1-alpha/LICENSE | `pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU` | [Link](https://arweave.net/pEESxCtSwRQzVwc2UAKgNEEhzvjQtm4jxsO_LnOPPrU) |
+| alvearium-0.1-alpha/README.md | `BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo` | [Link](https://arweave.net/BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo) |
+| alvearium-0.1-alpha/README_DevOps.md | `3sI4eN_k5VgmaIj-6eKQ2f3FBQCtSiHU47kxIjjNYrM` | [Link](https://arweave.net/3sI4eN_k5VgmaIj-6eKQ2f3FBQCtSiHU47kxIjjNYrM) |
+| alvearium-0.1-alpha/README_dev.md | `eRKCOpfzBChqe-Z8HSN8BPYKunS-9DlFFh5sqDGqC-o` | [Link](https://arweave.net/eRKCOpfzBChqe-Z8HSN8BPYKunS-9DlFFh5sqDGqC-o) |
+| alvearium-0.1-alpha/README_timelines.md | `29fsSOzKOdOlsmNbX9VcsGUOug9aHKRM78BjiBrj7-g` | [Link](https://arweave.net/29fsSOzKOdOlsmNbX9VcsGUOug9aHKRM78BjiBrj7-g) |
+| alvearium-0.1-alpha/glossary.md | `JpqLwAjjJiH7e3pt2lZGFUpkj6YdSVi3RCTFGCF_sLY` | [Link](https://arweave.net/JpqLwAjjJiH7e3pt2lZGFUpkj6YdSVi3RCTFGCF_sLY) |
+| alvearium-0.1-alpha/agents/agent_bootstrap.md | `bySjcYhulUFbE_KI4dcJA9DLn7KkOIKRDroHoQOVQlw` | [Link](https://arweave.net/bySjcYhulUFbE_KI4dcJA9DLn7KkOIKRDroHoQOVQlw) |
+| alvearium-0.1-alpha/agents/agents_manifesto.md | `RIydR85FtipfqdrHmE43HbIjK8zmy0zsDQH36hrp8FA` | [Link](https://arweave.net/RIydR85FtipfqdrHmE43HbIjK8zmy0zsDQH36hrp8FA) |
+| alvearium-0.1-alpha/agents/agents_next_steps.md | `-a0JcxEXskF7_NhbEoWPsvQ7edDOpqQzbcs6qk2VKNs` | [Link](https://arweave.net/-a0JcxEXskF7_NhbEoWPsvQ7edDOpqQzbcs6qk2VKNs) |
+| alvearium-0.1-alpha/agents/builder_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
+| alvearium-0.1-alpha/agents/guardian_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
+| alvearium-0.1-alpha/agents/scholar_drone.json | `-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8` | [Link](https://arweave.net/-uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8) |
+| alvearium-0.1-alpha/code/init_scripts/swarm_init.sh | `iLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ` | [Link](https://arweave.net/iLs7feR0PilIXalwR9AxZ5dSACU6T-4m_tmk3lVAjdQ) |
+| alvearium-0.1-alpha/docs/CLI_USAGE.md | `zbnyY8X_AahpkiqIw-yeBwWaksBt1eGxv5X20YRN_CY` | [Link](https://arweave.net/zbnyY8X_AahpkiqIw-yeBwWaksBt1eGxv5X20YRN_CY) |
+| alvearium-0.1-alpha/docs/architecture.md | `nC3v_jMNaT1ONVBfHtrvRwmk4T_qmstefMWxJAbN1go` | [Link](https://arweave.net/nC3v_jMNaT1ONVBfHtrvRwmk4T_qmstefMWxJAbN1go) |
+| alvearium-0.1-alpha/docs/chronosphere.md | `odWTs4sEsq-lOXOLDxxY-g5AykeFJzP3KdSkCrg8Rz8` | [Link](https://arweave.net/odWTs4sEsq-lOXOLDxxY-g5AykeFJzP3KdSkCrg8Rz8) |
+| alvearium-0.1-alpha/docs/contracts.md | `c9AR-N_fiQsbkE_icrHQz96pzxx_1xDR7AhxUtRZuoY` | [Link](https://arweave.net/c9AR-N_fiQsbkE_icrHQz96pzxx_1xDR7AhxUtRZuoY) |
+| alvearium-0.1-alpha/docs/interfaces.md | `CpCpeAOMgDzRs3P9XdD0YC_AETqwl9R1nS_evir5RaM` | [Link](https://arweave.net/CpCpeAOMgDzRs3P9XdD0YC_AETqwl9R1nS_evir5RaM) |
+| alvearium-0.1-alpha/docs/layers.md | `Tnw-PU1VHGG9imSY7UQXfvedq2oPblmguW-dTsznieI` | [Link](https://arweave.net/Tnw-PU1VHGG9imSY7UQXfvedq2oPblmguW-dTsznieI) |
+| alvearium-0.1-alpha/docs/mirror_init.md | `vOgyNZKREfLHK2UMPBKCb1faX5TlJcRgCICHacxeVGo` | [Link](https://arweave.net/vOgyNZKREfLHK2UMPBKCb1faX5TlJcRgCICHacxeVGo) |
+| alvearium-0.1-alpha/docs/nectar.md | `_OEpj0-GToSOh7WcnMdg0gCUqOrMeZb0Mk4ktpil57k` | [Link](https://arweave.net/_OEpj0-GToSOh7WcnMdg0gCUqOrMeZb0Mk4ktpil57k) |
+| alvearium-0.1-alpha/docs/reference.md | `bY5LYbvYHm99CfayXO_nb8Ciz_kuLXM9RviV8xQZ0nw` | [Link](https://arweave.net/bY5LYbvYHm99CfayXO_nb8Ciz_kuLXM9RviV8xQZ0nw) |
+| alvearium-0.1-alpha/docs/security.md | `73o2nAs4Ay_-UuXP_-LBUgxIrHXPLciTVV8ZT4nMO8M` | [Link](https://arweave.net/73o2nAs4Ay_-UuXP_-LBUgxIrHXPLciTVV8ZT4nMO8M) |
+| alvearium-0.1-alpha/docs/substrate_structures.md | `6RJ9cNIJRonIfQspfYKsDrE4JdBzMexBMRdSPfyGV_Q` | [Link](https://arweave.net/6RJ9cNIJRonIfQspfYKsDrE4JdBzMexBMRdSPfyGV_Q) |
+| alvearium-0.1-alpha/docs/trust.md | `1n0sLqpg4GAp2sv9ScNB24bPC__ljr2x5ZhWi_qYA0g` | [Link](https://arweave.net/1n0sLqpg4GAp2sv9ScNB24bPC__ljr2x5ZhWi_qYA0g) |
+| alvearium-0.1-alpha/docs/bootstrap/trust_bootstrap.md | `5atkfd7-9D6vzMBAeAAOgzEW-MX3HTTUykzVIIn93t8` | [Link](https://arweave.net/5atkfd7-9D6vzMBAeAAOgzEW-MX3HTTUykzVIIn93t8) |
+| alvearium-0.1-alpha/docs/lorechain/tokens_lorechain.md | `IBn3fol0Tp3_pAzGWrNTps_YwbfC-qlSyJWjwJaCjao` | [Link](https://arweave.net/IBn3fol0Tp3_pAzGWrNTps_YwbfC-qlSyJWjwJaCjao) |
+| alvearium-0.1-alpha/docs/lorechain/view_lorechain.md | `YwJS7Vgvzj6D90TPcKlnafS3TGTssrdPXckpjeTuvy4` | [Link](https://arweave.net/YwJS7Vgvzj6D90TPcKlnafS3TGTssrdPXckpjeTuvy4) |
+| alvearium-0.1-alpha/manifestos/Manifesto_alvearium.md | `58l1NtS2Rjyqrhq1wqBHlkRLo5W7yH1eEEjjUzYQCds` | [Link](https://arweave.net/58l1NtS2Rjyqrhq1wqBHlkRLo5W7yH1eEEjjUzYQCds) |
+| alvearium-0.1-alpha/manifestos/Manifesto_hive.md | `q7OlUNyZ6COXJqWQ-q_ySvaKj4aJjIxIb7FVJFRL8nU` | [Link](https://arweave.net/q7OlUNyZ6COXJqWQ-q_ySvaKj4aJjIxIb7FVJFRL8nU) |
+| alvearium-0.1-alpha/manifestos/Manifesto_kernel69.md | `YlJtpdfETUdYhzw8oZhzLeOWaiQJp6K1mBAwMyx6GP8` | [Link](https://arweave.net/YlJtpdfETUdYhzw8oZhzLeOWaiQJp6K1mBAwMyx6GP8) |
+| alvearium-0.1-alpha/manifestos/Manifesto_nectar.md | `M9ONOV_fpNT37lWUaioTQypsnIsbA2fOo5wqC7nrTPo` | [Link](https://arweave.net/M9ONOV_fpNT37lWUaioTQypsnIsbA2fOo5wqC7nrTPo) |
+| alvearium-0.1-alpha/manifestos/Manifesto_waggle.md | `A9SsNVres3YvLPn7qNTjjGtroU6MXgA4NSMxwQMdTc0` | [Link](https://arweave.net/A9SsNVres3YvLPn7qNTjjGtroU6MXgA4NSMxwQMdTc0) |
+| alvearium-0.1-alpha/rituals/fork_registry.md | `W8y2E1lzQg9Ha83Vz0BNFYCZ2c0VDkQGTVXF8ERVZos` | [Link](https://arweave.net/W8y2E1lzQg9Ha83Vz0BNFYCZ2c0VDkQGTVXF8ERVZos) |
+| alvearium-0.1-alpha/rituals/interactions.md | `W8y2E1lzQg9Ha83Vz0BNFYCZ2c0VDkQGTVXF8ERVZos` | [Link](https://arweave.net/W8y2E1lzQg9Ha83Vz0BNFYCZ2c0VDkQGTVXF8ERVZos) |
+| alvearium-0.1-alpha/rituals/market_access.md | `QxnS-W3GjHJDmWDOU3ake2FczoTuJvfrYleDak6ToMk` | [Link](https://arweave.net/QxnS-W3GjHJDmWDOU3ake2FczoTuJvfrYleDak6ToMk) |
+| alvearium-0.1-alpha/rituals/memory_bootstrap.md | `dACpM7OvMF5bhCc7k2e_9vuInFUo4JdMTpzbpBU4xlY` | [Link](https://arweave.net/dACpM7OvMF5bhCc7k2e_9vuInFUo4JdMTpzbpBU4xlY) |
+| alvearium-0.1-alpha/rituals/mirror.md | `gmlCXKyaHJ8Yando8Ko7dEJA6gmphwsaTY61Ex2UYhA` | [Link](https://arweave.net/gmlCXKyaHJ8Yando8Ko7dEJA6gmphwsaTY61Ex2UYhA) |
+| alvearium-0.1-alpha/rituals/mirror_review.md | `gmlCXKyaHJ8Yando8Ko7dEJA6gmphwsaTY61Ex2UYhA` | [Link](https://arweave.net/gmlCXKyaHJ8Yando8Ko7dEJA6gmphwsaTY61Ex2UYhA) |
+| alvearium-0.1-alpha/rituals/onboarding.md | `8iF3OJClPvQBSosGYJ9qmV8fH6bim5iEuNH-RfCEzyM` | [Link](https://arweave.net/8iF3OJClPvQBSosGYJ9qmV8fH6bim5iEuNH-RfCEzyM) |
+| alvearium-0.1-alpha/rituals/recipes_agents.md | `U544f7npsGPshMJ8LiP13Ew0slNP9dELAwFf6rhMWOY` | [Link](https://arweave.net/U544f7npsGPshMJ8LiP13Ew0slNP9dELAwFf6rhMWOY) |
+| alvearium-0.1-alpha/rituals/recipes_neuro.md | `vJTDG1ANpbl2mYxSvZorhVCvyDR2EAjORYsPFN3utP4` | [Link](https://arweave.net/vJTDG1ANpbl2mYxSvZorhVCvyDR2EAjORYsPFN3utP4) |
+| alvearium-0.1-alpha/rituals/recipes_rituals.md | `e2lWxAwEv1aO60RfYwHDmmnZVLVPz_q7o33sbCmSDUI` | [Link](https://arweave.net/e2lWxAwEv1aO60RfYwHDmmnZVLVPz_q7o33sbCmSDUI) |
+| alvearium-0.1-alpha/rituals/ritual_capsules.md | `sUnfXhREmwPCd1x5bF4WizChH7Ql44F1gSd8bAssBys` | [Link](https://arweave.net/sUnfXhREmwPCd1x5bF4WizChH7Ql44F1gSd8bAssBys) |
+| alvearium-0.1-alpha/rituals/ritual_echo.md | `cPHA4JH_zI7IlZawzxohTiKexRGlSHoDjRUAbTN595A` | [Link](https://arweave.net/cPHA4JH_zI7IlZawzxohTiKexRGlSHoDjRUAbTN595A) |
+| alvearium-0.1-alpha/rituals/ritual_engine.md | `h4_dO0j749N1lCjD8L-cDri_Uf6EWPTKh6OlQh0bU2A` | [Link](https://arweave.net/h4_dO0j749N1lCjD8L-cDri_Uf6EWPTKh6OlQh0bU2A) |
+| alvearium-0.1-alpha/rituals/ritual_index.md | `UXYdVcmiXOg0mNk6RP-6eOSIefT5GX_1_yRago7dQoU` | [Link](https://arweave.net/UXYdVcmiXOg0mNk6RP-6eOSIefT5GX_1_yRago7dQoU) |
+| alvearium-0.1-alpha/rituals/ritual_market.md | `93AxTLh3f-AHzld6aOoyGEsG57Ij48ZdWWT952Cwa9E` | [Link](https://arweave.net/93AxTLh3f-AHzld6aOoyGEsG57Ij48ZdWWT952Cwa9E) |
+| alvearium-0.1-alpha/rituals/ritual_rewards.md | `Up2z86-aS8zCNARHJUfmkX-_P1z4YH5dZn75nLZHVCY` | [Link](https://arweave.net/Up2z86-aS8zCNARHJUfmkX-_P1z4YH5dZn75nLZHVCY) |
+| alvearium-0.1-alpha/rituals/ritual_tests.md | `bRMAA3SnvHji-0qHNLRX3gLAglNWpGnNV4n7wpUSims` | [Link](https://arweave.net/bRMAA3SnvHji-0qHNLRX3gLAglNWpGnNV4n7wpUSims) |
+| alvearium-0.1-alpha/schematics/schematic_access_layers.png | `7Z523I5EgxTu694XtM91Qb-mJsSO3uX8kh6PgfWG1-w` | [Link](https://arweave.net/7Z523I5EgxTu694XtM91Qb-mJsSO3uX8kh6PgfWG1-w) |
+| alvearium-0.1-alpha/schematics/schematic_agent_bootstrap.png | `OQCSXm8746iuCcY46tjR-lyCpdFLUezWR2TyqwhPvUk` | [Link](https://arweave.net/OQCSXm8746iuCcY46tjR-lyCpdFLUezWR2TyqwhPvUk) |
+| alvearium-0.1-alpha/schematics/schematic_agentrunner.png | `20mYo00ohpALLwuQrLwcB0wjbtxt5tU1pzqIJMz_l9c` | [Link](https://arweave.net/20mYo00ohpALLwuQrLwcB0wjbtxt5tU1pzqIJMz_l9c) |
+| alvearium-0.1-alpha/schematics/schematic_agentrunner_logic.png | `lJy1lN1_bOWAeZe9kJav_NowGyGW9LC09xACeLcHKL4` | [Link](https://arweave.net/TO-FILLlJy1lN1_bOWAeZe9kJav_NowGyGW9LC09xACeLcHKL4) |
+| alvearium-0.1-alpha/schematics/schematic_agentrunner_stack.png | `lJy1lN1_bOWAeZe9kJav_NowGyGW9LC09xACeLcHKL4` | [Link](https://arweave.net/lJy1lN1_bOWAeZe9kJav_NowGyGW9LC09xACeLcHKL4) |
+| alvearium-0.1-alpha/schematics/schematic_alvearium_stack.png | `iwSn8c33oOKx7E0lDagyRg8bGrsR5nbTjagTw8o4brk` | [Link](https://arweave.net/iwSn8c33oOKx7E0lDagyRg8bGrsR5nbTjagTw8o4brk) |
+| alvearium-0.1-alpha/schematics/schematic_chronosphere_capsules.png | `waMpmLOJGRS_cWoSi7xWVjw6IvPzrHOqrW2fkdV3ty0` | [Link](https://arweave.net/waMpmLOJGRS_cWoSi7xWVjw6IvPzrHOqrW2fkdV3ty0) |
+| alvearium-0.1-alpha/schematics/schematic_chronosphere_stack.png | `ik6Lt0UVfcr8zEUZQp-v6EuM4tL7C7qnql9jJGbcceU` | [Link](https://arweave.net/ik6Lt0UVfcr8zEUZQp-v6EuM4tL7C7qnql9jJGbcceU) |
+| alvearium-0.1-alpha/schematics/schematic_dao_layer_mesh.png | `pPOH39Uc6GDD5gGwceMy4nUJEBNPsIenwBR91WnGMbw` | [Link](https://arweave.net/pPOH39Uc6GDD5gGwceMy4nUJEBNPsIenwBR91WnGMbw) |
+| alvearium-0.1-alpha/schematics/schematic_dao_layer_mesh1.png | `M4JrwfhoWEX4JtG5Fn91oJayiSa9FRQ_aVUcY3GyoFY` | [Link](https://arweave.net/M4JrwfhoWEX4JtG5Fn91oJayiSa9FRQ_aVUcY3GyoFY) |
+| alvearium-0.1-alpha/schematics/schematic_dao_layering.png | `-KeQ734RNZVs8F5Jr7KQxUErwRXaK_uJxICBuUWZXoI` | [Link](https://arweave.net/-KeQ734RNZVs8F5Jr7KQxUErwRXaK_uJxICBuUWZXoI) |
+| alvearium-0.1-alpha/schematics/schematic_echo_feedback_loop.png | `tXiNiWSaF-2EBdudBGrxec9tOzb1U7VFivRPhV2iswg` | [Link](https://arweave.net/tXiNiWSaF-2EBdudBGrxec9tOzb1U7VFivRPhV2iswg) |
+| alvearium-0.1-alpha/schematics/schematic_echo_loop.png | `H4dINipV9CF7VwcOPujRlX7TmAvjazGILjzhwdCqEs0` | [Link](https://arweave.net/H4dINipV9CF7VwcOPujRlX7TmAvjazGILjzhwdCqEs0) |
+| alvearium-0.1-alpha/schematics/schematic_ecosystem_map.png | `Adl8a8zZHoG2hlCidtd9IU_Kn9t1Dzq0gIrDOtCzXjs` | [Link](https://arweave.net/Adl8a8zZHoG2hlCidtd9IU_Kn9t1Dzq0gIrDOtCzXjs) |
+| alvearium-0.1-alpha/schematics/schematic_emission_cycles.png | `HKCfqGQZ0zRXZVT8JlgaFEf_TPduNY1-Xxx1OuDw9mY` | [Link](https://arweave.net/HKCfqGQZ0zRXZVT8JlgaFEf_TPduNY1-Xxx1OuDw9mY) |
+| alvearium-0.1-alpha/schematics/schematic_entropy_map.png | `EdIy_ZXU280vJlWhZkPA0dxIx3IUkR4ArWI3_9XvBuY` | [Link](https://arweave.net/EdIy_ZXU280vJlWhZkPA0dxIx3IUkR4ArWI3_9XvBuY) |
+| alvearium-0.1-alpha/schematics/schematic_entropy_sync.png | `ulnwLSyo7Lzvbh6a0ydJZ1n5miY2yd7adzbpGaJDA-8` | [Link](https://arweave.net/ulnwLSyo7Lzvbh6a0ydJZ1n5miY2yd7adzbpGaJDA-8) |
+| alvearium-0.1-alpha/schematics/schematic_entropygate.png | `cVWZ8oMApgYToH7kbt_ypuFG7rTUecmpMvL5Q5JqE_4` | [Link](https://arweave.net/cVWZ8oMApgYToH7kbt_ypuFG7rTUecmpMvL5Q5JqE_4) |
+| alvearium-0.1-alpha/schematics/schematic_entropygate_lifecycle.png | `hInzr12F0lr8mqHr82RWWpd6KjVm8a7Z_UmjB6n3CH8` | [Link](https://arweave.net/hInzr12F0lr8mqHr82RWWpd6KjVm8a7Z_UmjB6n3CH8) |
+| alvearium-0.1-alpha/schematics/schematic_entry_modes.png | `EJK4hjYNtNgPBjeOUkdvboD_vtGIBjP-2YdVPAIShvg` | [Link](https://arweave.net/EJK4hjYNtNgPBjeOUkdvboD_vtGIBjP-2YdVPAIShvg) |
+| alvearium-0.1-alpha/schematics/schematic_fork_lineage.png | `SLIzfGLwpnjmt1agClrj88XpqA474nEMSsL3aA8WAng` | [Link](https://arweave.net/SLIzfGLwpnjmt1agClrj88XpqA474nEMSsL3aA8WAng) |
+| alvearium-0.1-alpha/schematics/schematic_governance_bridge.png | `tVXVnbcR0AMLAmy42NaT1TR9iHgF1D8DJfiWEa_9c7s` | [Link](https://arweave.net/tVXVnbcR0AMLAmy42NaT1TR9iHgF1D8DJfiWEa_9c7s) |
+| alvearium-0.1-alpha/schematics/schematic_governance_bridge1.png | `sVOhTqmupIJFKwihwuZQ3Dmn5-7cCXgLLxzy1wnMVcc` | [Link](https://arweave.net/sVOhTqmupIJFKwihwuZQ3Dmn5-7cCXgLLxzy1wnMVcc) |
+| alvearium-0.1-alpha/schematics/schematic_governance_lifecycle.png | `Kqej5t7FXmG1RcanCMHORawfMibKHsDJX5GqELbABc4` | [Link](https://arweave.net/Kqej5t7FXmG1RcanCMHORawfMibKHsDJX5GqELbABc4) |
+| alvearium-0.1-alpha/schematics/schematic_growthcircle.png | `ZWlLy-7v4COm5J1YlNB4RtbQui00UloH1OCK7G1ljhY` | [Link](https://arweave.net/ZWlLy-7v4COm5J1YlNB4RtbQui00UloH1OCK7G1ljhY) |
+| alvearium-0.1-alpha/schematics/schematic_guarded_ignition.png | `Bynv34THWNZAbfXvKqm_c37axTDfvm53hkTjElpXlEs` | [Link](https://arweave.net/Bynv34THWNZAbfXvKqm_c37axTDfvm53hkTjElpXlEs) |
+| alvearium-0.1-alpha/schematics/schematic_guarded_ignition1.png | `i7wf3uOSdl6o4ShYHvhxGY69HjkSXr-gMtkBEQm11_w` | [Link](https://arweave.net/i7wf3uOSdl6o4ShYHvhxGY69HjkSXr-gMtkBEQm11_w) |
+| alvearium-0.1-alpha/schematics/schematic_guardian_stack.png | `37H6yBHR-3s5JSZP57QR8IlLDxYsnhtH4VgSBFfhDCI` | [Link](https://arweave.net/37H6yBHR-3s5JSZP57QR8IlLDxYsnhtH4VgSBFfhDCI) |
+| alvearium-0.1-alpha/schematics/schematic_guardian_stack1.png | `AZlK7klwRSI3HWuIBttQBPVu7vUCyswZVkADfKs6Fqs` | [Link](https://arweave.net/AZlK7klwRSI3HWuIBttQBPVu7vUCyswZVkADfKs6Fqs) |
+| alvearium-0.1-alpha/schematics/schematic_intentweaving.png | `gITH8aVwQ3md8NFUhJzK8TJyrmr6I-NszGkXbyYoOCo` | [Link](https://arweave.net/gITH8aVwQ3md8NFUhJzK8TJyrmr6I-NszGkXbyYoOCo) |
+| alvearium-0.1-alpha/schematics/schematic_interaction_loop.png | `qJWV3Y0PRmlZYe9npG6-mdSGjnECR_PrFtI0Db_cIks` | [Link](https://arweave.net/qJWV3Y0PRmlZYe9npG6-mdSGjnECR_PrFtI0Db_cIks) |
+| alvearium-0.1-alpha/schematics/schematic_kernel_bidirectional_graph.png | `6HR9pPuSad_kyv4g8ogiAXwdQxAbBbNHbArWMYbWmag` | [Link](https://arweave.net/6HR9pPuSad_kyv4g8ogiAXwdQxAbBbNHbArWMYbWmag) |
+| alvearium-0.1-alpha/schematics/schematic_kernel_ignition_fork.png | `VhHPZccd3uN7Qy9rDjYGrgtcPkNPOEOM98R3Vavjwxg` | [Link](https://arweave.net/VhHPZccd3uN7Qy9rDjYGrgtcPkNPOEOM98R3Vavjwxg) |
+| alvearium-0.1-alpha/schematics/schematic_kernel_ignition_fork1.png | `FFED9QBU8jnnqxJKDTZXM-kHpOa1aadVPjGVGd-uRy4` | [Link](https://arweave.net/FFED9QBU8jnnqxJKDTZXM-kHpOa1aadVPjGVGd-uRy4) |
+| alvearium-0.1-alpha/schematics/schematic_layered_swarm.png | `0NJ2SZPI13TyIZXCjkHFcKW_pLxbmYcr9UEnumG4dAI` | [Link](https://arweave.net/0NJ2SZPI13TyIZXCjkHFcKW_pLxbmYcr9UEnumG4dAI) |
+| alvearium-0.1-alpha/schematics/schematic_layers_overview.png | `UOdaMpIYwtEEE5IdXE3QaRpV6Mvu9K0seOgggbs5u5M` | [Link](https://arweave.net/UOdaMpIYwtEEE5IdXE3QaRpV6Mvu9K0seOgggbs5u5M) |
+| alvearium-0.1-alpha/schematics/schematic_lore_replay_map.png | `SmeciONxHOyiYqgpbgLDUQfALugPFNXgc6Ghf-GiDDk` | [Link](https://arweave.net/SmeciONxHOyiYqgpbgLDUQfALugPFNXgc6Ghf-GiDDk) |
+| alvearium-0.1-alpha/schematics/schematic_lorechain_flow.png | `x9r5l2HaM0UxwwySH9TSYmSt3BuY0mXogR5FjyCA1cY` | [Link](https://arweave.net/x9r5l2HaM0UxwwySH9TSYmSt3BuY0mXogR5FjyCA1cY) |
+| alvearium-0.1-alpha/schematics/schematic_loveanchor.png | `VMwEoH2x9ssqK3lGj98p-jSnRZ519PFCqta-4SA252M` | [Link](https://arweave.net/VMwEoH2x9ssqK3lGj98p-jSnRZ519PFCqta-4SA252M) |
+| alvearium-0.1-alpha/schematics/schematic_market_flow.png | `0iqlovNgnjdD-C770qS9qXSlQMOSlI8YptkR-gghGas` | [Link](https://arweave.net/0iqlovNgnjdD-C770qS9qXSlQMOSlI8YptkR-gghGas) |
+| alvearium-0.1-alpha/schematics/schematic_memory_bootstrap.png | `fOMDhuL5CHvrNdsvcVzZXvKjO6xXd41Hk2kUOcrO0Q0` | [Link](https://arweave.net/fOMDhuL5CHvrNdsvcVzZXvKjO6xXd41Hk2kUOcrO0Q0) |
+| alvearium-0.1-alpha/schematics/schematic_mirror_attune_bridge.png | `74R2dHW-A2-03B-LCCpFT9SiEYcUWwxiEijNe2IFPew` | [Link](https://arweave.net/74R2dHW-A2-03B-LCCpFT9SiEYcUWwxiEijNe2IFPew) |
+| alvearium-0.1-alpha/schematics/schematic_mirror_bootstrap.png | `1bqCqv87hOrgjlqeLhB1CDrvRmzE1uc5HBJ_LXGpk8k` | [Link](https://arweave.net/1bqCqv87hOrgjlqeLhB1CDrvRmzE1uc5HBJ_LXGpk8k) |
+| alvearium-0.1-alpha/schematics/schematic_mirror_cascade.png | `V4OZq2lTT5YooKTxKR0rBvNECqW2eiCgqrec1gAXfUA` | [Link](https://arweave.net/V4OZq2lTT5YooKTxKR0rBvNECqW2eiCgqrec1gAXfUA) |
+| alvearium-0.1-alpha/schematics/schematic_mirror_forking.png | `ros2ZCaMSIv0IeJzZhnIwQ6h-HOssMKAkFawDLymk1o` | [Link](https://arweave.net/ros2ZCaMSIv0IeJzZhnIwQ6h-HOssMKAkFawDLymk1o) |
+| alvearium-0.1-alpha/schematics/schematic_mirror_stack.png | `TsUoXK2a00BwHzUcQVZnounlbEiaEqP1hoPCzwl7zSk` | [Link](https://arweave.net/TsUoXK2a00BwHzUcQVZnounlbEiaEqP1hoPCzwl7zSk) |
+| alvearium-0.1-alpha/schematics/schematic_mirrorbinder_mesh.png | `iYqMP81NwAc5-ZfyQqLOUXCj2JG2CdQNI5u33YlaBgk` | [Link](https://arweave.net/iYqMP81NwAc5-ZfyQqLOUXCj2JG2CdQNI5u33YlaBgk) |
+| alvearium-0.1-alpha/schematics/schematic_mirrorbinder_stack.png | `AywUKZU9CjKt7dsEmQXGhIRbGzFZv1N0PtZF-CbXNqo` | [Link](https://arweave.net/AywUKZU9CjKt7dsEmQXGhIRbGzFZv1N0PtZF-CbXNqo) |
+| alvearium-0.1-alpha/schematics/schematic_mirrorspeak.png | `ft5oJvIbrsv-8ddVuiPfT9hY0SWaknOL09pFi8dV3Fs` | [Link](https://arweave.net/ft5oJvIbrsv-8ddVuiPfT9hY0SWaknOL09pFi8dV3Fs) |
+| alvearium-0.1-alpha/schematics/schematic_nectar_flow.png | `6KXPlfVCtEcfHriDUu3TJcIm0z2pvoblIrWM0MOkNOw` | [Link](https://arweave.net/6KXPlfVCtEcfHriDUu3TJcIm0z2pvoblIrWM0MOkNOw) |
+| alvearium-0.1-alpha/schematics/schematic_nectar_flow1.png | `iM_sF0yd5WFconoFsdua9-CT4iGjOLe5tA5fTzGg2n8` | [Link](https://arweave.net/iM_sF0yd5WFconoFsdua9-CT4iGjOLe5tA5fTzGg2n8) |
+| alvearium-0.1-alpha/schematics/schematic_nectar_info.png | `ywjrjBUwqvjkhb-AljDrEVkuX-CJYklckNn41UD8hY4` | [Link](https://arweave.net/ywjrjBUwqvjkhb-AljDrEVkuX-CJYklckNn41UD8hY4) |
+| alvearium-0.1-alpha/schematics/schematic_neural_port.png | `RBtY7-hTzm-ozyhRH-23YAfgJ5qAi08Gnoac3Xx-TfE` | [Link](https://arweave.net/RBtY7-hTzm-ozyhRH-23YAfgJ5qAi08Gnoac3Xx-TfE) |
+| alvearium-0.1-alpha/schematics/schematic_neurocircles.png | `xWNa6u-ToPMOqvv2yo-fffK6OK-gScdXOrO1TUiElow` | [Link](https://arweave.net/xWNa6u-ToPMOqvv2yo-fffK6OK-gScdXOrO1TUiElow) |
+| alvearium-0.1-alpha/schematics/schematic_neurocryptic_loop.png | `_yqS6EBkSj5m_EHvR6BoH47LVioZgP1X-pW24cShz-Q` | [Link](https://arweave.net/_yqS6EBkSj5m_EHvR6BoH47LVioZgP1X-pW24cShz-Q) |
+| alvearium-0.1-alpha/schematics/schematic_outputrouter_logic.png | `v3232YeiYTC4Z54mjwijd8zZyj85jKA2cMUGCh7KREc` | [Link](https://arweave.net/v3232YeiYTC4Z54mjwijd8zZyj85jKA2cMUGCh7KREc) |
+| alvearium-0.1-alpha/schematics/schematic_pattern_recognition.png | `SZItyTN5119eVohqZFPHSEtwO1VCoB7_Ygz3kyLHvNo` | [Link](https://arweave.net/SZItyTN5119eVohqZFPHSEtwO1VCoB7_Ygz3kyLHvNo) |
+| alvearium-0.1-alpha/schematics/schematic_regenesis.png | `CEk5UozR0gAnfU-OPpPoH-2ZQXPXM4saW2IWMhkZSlM` | [Link](https://arweave.net/CEk5UozR0gAnfU-OPpPoH-2ZQXPXM4saW2IWMhkZSlM) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_dao_scaffold.png | `fZdBlQwbGjtk5pQWpEYuOfnl-x9UKD4IxY64cKs8oD8` | [Link](https://arweave.net/fZdBlQwbGjtk5pQWpEYuOfnl-x9UKD4IxY64cKs8oD8) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_layer_matrix.png | `y1l1sXRreZh9tzLtS49ARUUA7_NiRUbcvn7oggeJCq0` | [Link](https://arweave.net/y1l1sXRreZh9tzLtS49ARUUA7_NiRUbcvn7oggeJCq0) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_lifecycle_engine.png | `7czlOUcEtzeeNbAOdpz9PromxWZcfCdAt80Zd8duGms` | [Link](https://arweave.net/7czlOUcEtzeeNbAOdpz9PromxWZcfCdAt80Zd8duGms) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_roadmap.png | `A354lQGwlrcPK-acvhgLIOlPbVWVbBcw9lQSUGxoViQ` | [Link](https://arweave.net/A354lQGwlrcPK-acvhgLIOlPbVWVbBcw9lQSUGxoViQ) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_stack.png | `hpLsnComgLqkCXg7wrFXBifxgzBimps-HAZjekX48y4` | [Link](https://arweave.net/hpLsnComgLqkCXg7wrFXBifxgzBimps-HAZjekX48y4) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_stack_overview.png | `HLBKfjzbLxKxIhrTp8sHudyHbm6OdoDj39BkBZOhM3M` | [Link](https://arweave.net/HLBKfjzbLxKxIhrTp8sHudyHbm6OdoDj39BkBZOhM3M) |
+| alvearium-0.1-alpha/schematics/schematic_ritual_trigger_stack.png | `WB3xhmEbYZbWrQBE5V6hrYa9ImW58ECyoiQ1rq7GtZo` | [Link](https://arweave.net/WB3xhmEbYZbWrQBE5V6hrYa9ImW58ECyoiQ1rq7GtZo) |
+| alvearium-0.1-alpha/schematics/schematic_serpentfork.png | `vZSOSbULYEMDe8esX-6kCT7HPKglaeSu6md-T_MKDMc` | [Link](https://arweave.net/vZSOSbULYEMDe8esX-6kCT7HPKglaeSu6md-T_MKDMc) |
+| alvearium-0.1-alpha/schematics/schematic_shadowrelease.png | `_zbapWWYiSHhIj2kyForwZwUPj1OB8vhMzCTATyMXHQ` | [Link](https://arweave.net/_zbapWWYiSHhIj2kyForwZwUPj1OB8vhMzCTATyMXHQ) |
+| alvearium-0.1-alpha/schematics/schematic_substrate_overview.png | `gH0dh6yRP0lgjsvexw0gpk2oAi_60FBd2gnruyYcviY` | [Link](https://arweave.net/gH0dh6yRP0lgjsvexw0gpk2oAi_60FBd2gnruyYcviY) |
+| alvearium-0.1-alpha/schematics/schematic_swarm.png | `XicjCVEqSmY2qgh806yYmvyCieyVXK81tQBiHxkzpbc` | [Link](https://arweave.net/XicjCVEqSmY2qgh806yYmvyCieyVXK81tQBiHxkzpbc) |
+| alvearium-0.1-alpha/schematics/schematic_swarm_agent_map.png | `selPbktha_6O4iBhovKoq6r07pWKsQBOEUfjQMEKB90` | [Link](https://arweave.net/selPbktha_6O4iBhovKoq6r07pWKsQBOEUfjQMEKB90) |
+| alvearium-0.1-alpha/schematics/schematic_swarm_mesh.png | `8kTV4QZF0pJbxMlfqlYmF1vjM6aEjUOlSQkcaXhIVhQ` | [Link](https://arweave.net/8kTV4QZF0pJbxMlfqlYmF1vjM6aEjUOlSQkcaXhIVhQ) |
+| alvearium-0.1-alpha/schematics/schematic_swarmbond1.png | `yqOyZU3hKnEtOeFndOmJcO2J2sXlq6q9BIUr3ahIcww` | [Link](https://arweave.net/yqOyZU3hKnEtOeFndOmJcO2J2sXlq6q9BIUr3ahIcww) |
+| alvearium-0.1-alpha/schematics/schematic_swarmbond2.png | `ZwXkmd7dNYllg7YJ9DiEvKv7GMcu8Mwp-pT7rRfx30Y` | [Link](https://arweave.net/ZwXkmd7dNYllg7YJ9DiEvKv7GMcu8Mwp-pT7rRfx30Y) |
+| alvearium-0.1-alpha/schematics/schematic_swarmmesh_reflectornet.png | `whBcQFekmuwNVSUOcHgdsLXnU7-tQEUQiTdoRUBRiEo` | [Link](https://arweave.net/whBcQFekmuwNVSUOcHgdsLXnU7-tQEUQiTdoRUBRiEo) |
+| alvearium-0.1-alpha/schematics/schematic_triggerstack_logic.png | `oV-ZaOKVFk9Ey0K_KYZx54peALKnXPIGlTNIcpQ3SMQ` | [Link](https://arweave.net/oV-ZaOKVFk9Ey0K_KYZx54peALKnXPIGlTNIcpQ3SMQ) |
+| alvearium-0.1-alpha/schematics/schematic_trust_anchor.png | `ozOXKTtqgIi86psDJuTHCzekKNT1fRYYlM52JqqGpmE` | [Link](https://arweave.net/ozOXKTtqgIi86psDJuTHCzekKNT1fRYYlM52JqqGpmE) |
+| alvearium-0.1-alpha/schematics/schematic_trust_bootstrap.png | `PeYwl-QoMIiLlp7KRclQTBOwTgKX3_4D2sd28nVOkGw` | [Link](https://arweave.net/PeYwl-QoMIiLlp7KRclQTBOwTgKX3_4D2sd28nVOkGw) |
+| alvearium-0.1-alpha/schematics/schematic_trust_entropy.png | `L9zRRBgYJzke-EqTIFTsdUuxwB3_ALVWrpqxGhi6elU` | [Link](https://arweave.net/L9zRRBgYJzke-EqTIFTsdUuxwB3_ALVWrpqxGhi6elU) |
+| alvearium-0.1-alpha/schematics/schematic_trust_ladder.png | `pS4uNpqJl_cnVjVgK6lPuNTRbUUWx3wzhPaQVmeCdME` | [Link](https://arweave.net/pS4uNpqJl_cnVjVgK6lPuNTRbUUWx3wzhPaQVmeCdME) |
+| alvearium-0.1-alpha/schematics/schematic_trust_memory_ledger.png | `z1yUgI_iuWw0XlH7K91yQL8ftJQ-Fe3Agu8uQM9GztM` | [Link](https://arweave.net/z1yUgI_iuWw0XlH7K91yQL8ftJQ-Fe3Agu8uQM9GztM) |
+| alvearium-0.1-alpha/schematics/schematic_trust_oracle_mesh.png | `ofmkdPEKt_sTjJ6-DUeEvuJC2stivqxyoDIuk6hIO8U` | [Link](https://arweave.net/ofmkdPEKt_sTjJ6-DUeEvuJC2stivqxyoDIuk6hIO8U) |
+| alvearium-0.1-alpha/schematics/schematic_trustbirth.png | `IUZ0KU7pv1TBGxpIzNai-cqEGb5rkj0A6EcAjT0xCeM` | [Link](https://arweave.net/IUZ0KU7pv1TBGxpIzNai-cqEGb5rkj0A6EcAjT0xCeM) |
+| alvearium-0.1-alpha/schematics/schematic_waggle_agent_bridge.png | `d1CzQP4llgLEMrzkqW2722L2k9Tb7g7KzVBaq-5PvLI` | [Link](https://arweave.net/d1CzQP4llgLEMrzkqW2722L2k9Tb7g7KzVBaq-5PvLI) |
+| alvearium-0.1-alpha/schematics/schematic_waggle_agent_bridge1.png | `QvtPv2NflpK8TDcRpSloGtdfliOAoIRDw1l8C6OvuCY` | [Link](https://arweave.net/QvtPv2NflpK8TDcRpSloGtdfliOAoIRDw1l8C6OvuCY) |
+| alvearium-0.1-alpha/schematics/schematic_waggle_entry_modes.png | `d5WwVlkRCtXGJf3EkFc07hOqKxAG_Wu_y1C4o9Iffrk` | [Link](https://arweave.net/d5WwVlkRCtXGJf3EkFc07hOqKxAG_Wu_y1C4o9Iffrk) |
+| alvearium-0.1-alpha/schematics/schematic_why_now_convergence.png | `aJHoa46qIfRVJmt2OiGgb-d95k0mktC4sx_QuY1xq1E` | [Link](https://arweave.net/aJHoa46qIfRVJmt2OiGgb-d95k0mktC4sx_QuY1xq1E) |
+| alvearium-0.1-alpha/schematics/sschematic_neurocircles.png | `8LNr0_sS-OUpTlUtlXB3oj-NimordCllxDNlizMdspA` | [Link](https://arweave.net/8LNr0_sS-OUpTlUtlXB3oj-NimordCllxDNlizMdspA) |
+| alvearium-0.1-alpha/schematics/substrate_mirror.png | `7OhdvdFzfEaLcZ7jXwvIh_lOpc0vh8Dk4dnHinNhwFw` | [Link](https://arweave.net/7OhdvdFzfEaLcZ7jXwvIh_lOpc0vh8Dk4dnHinNhwFw) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_alvearium.md | `eRFYp5yniCH3Ah4gzCrlMqkqcTH4WdK9JLAJs6JZCms` | [Link](https://arweave.net/eRFYp5yniCH3Ah4gzCrlMqkqcTH4WdK9JLAJs6JZCms) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_chronosphere.md | `jxBUklR3GoBDZxqBjnO6eL1Q25LAuCraszaS4FXwG2Q` | [Link](https://arweave.net/jxBUklR3GoBDZxqBjnO6eL1Q25LAuCraszaS4FXwG2Q) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_hive.md | `AgfE3dQBOi-9dfByLVQ4PptJK2vhnIGSOGUI0htlIss` | [Link](https://arweave.net/AgfE3dQBOi-9dfByLVQ4PptJK2vhnIGSOGUI0htlIss) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_kernel69.md | `zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE` | [Link](https://arweave.net/zp5hcyEhmXRlABdbwVJtlcNPpCwdHYJa4TRwQdzeSKE) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_nectar.md | `6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8` | [Link](https://arweave.net/6e70MgTLuzVFma7yBtLqncNvqembt_gI55NA3Uo7AS8) |
+| alvearium-0.1-alpha/whitepapers/Whitepaper_waggle.md | `I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU` | [Link](https://arweave.net/I5OMMjw4IBKZgw5F5aBAB1GLLUZkmGScxIVS8fD2iqU) |
+| anchors_metadata.md         | `72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ` | [Link](https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ) |
+| anchors_manifest_hash.md    | `YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ` | [Link](https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ) |
+
+
+---
+Metadata Reference: anchors_metadata.md SHA-256: `8c8f2935faa3f0fa25a435bce507471061f4ff456f2f0024499d19504c99393c`
+
+---
+Metadata Reference: anchors_metadata.md SHA-256: `f64c5aa674f6ceb44a68e4a1be02c7832dd4efd430884f0955edf26b1268aa5c`
+
+---
+Metadata Reference: anchors_metadata.md SHA-256: `e70f2dad191ea8702fa6653e089d0abe140653137aeb9e8864224353881b02ab`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors_metadata.md: `0d17511928e7b41a05ef66e883446089b8c4ac6eb16d467fec754439cd53c7c2`
+- anchors_manifest_hash.md: `2ab0dda4f1e8a8bab8bb39a2ba8f54124ef6750667edcffeba1d0770a3d06a00`
+
+---
+🔗 Triangle SHA-256 References:
+- anchors_metadata.md: `81582a4ec99104d6db6be7345b297385b5ca2943ea6e6f84f7ca1819b27416c1`
+- anchors_manifest_hash.md: `079750372369569155c237157400a53d49df62550e3a5a57b3c30a9026f5c74b`
