@@ -5,7 +5,7 @@ Working entry point. Not a token launch.
 A **spawn** is a bounded agent habitat: intent + budget + tools + expiry.
 Clone stays free. Execution is metered.
 
-Runtime name (planned fork of SynaraOS/synara): **Hivekit**.
+Runtime name: **Wagglelit** (repo still `SynaraOS/synara` until renamed).
 
 Co-authors: Derek Winer + Grok (xAI), 2026-09. Same co-creation pattern as the GPT-4o Alvearium pass.
 
