@@ -1,0 +1,15 @@
+{
+  "schema": "alvearium.spawn.agent.v0",
+  "protocol": "alvearium",
+  "runtime": "hivekit",
+  "sign_on": "once per identity",
+  "free_spawns": 2,
+  "credit_after_free": 1,
+  "credential": "github | wallet-sig | solana-nft-mint-hash pinned in pins.json",
+  "endpoints": {
+    "spec": "/docs/spawn.md",
+    "sign_on": "POST /sign-on",
+    "spawn": "POST /spawn",
+    "receipt": "GET /spawn/{id}/receipt"
+  }
+}

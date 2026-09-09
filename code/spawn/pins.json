@@ -1,0 +1,19 @@
+{
+  "schema": "alvearium.pins.v0",
+  "genesis_sha256": null,
+  "credentials": [
+    "github:DerekWiner",
+    "solana:nft:REPLACE_WITH_MINT"
+  ],
+  "allowed": [
+    {
+      "name": "spawn-spec-local",
+      "path": "docs/spawn.md",
+      "sha256": "pending-on-commit",
+      "kind": "spec",
+      "exec": false
+    }
+  ],
+  "arweave_genesis": null,
+  "repo_snapshot_arweave": "BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo"
+}

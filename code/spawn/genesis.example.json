@@ -1,0 +1,10 @@
+{
+  "schema": "alvearium.genesis.v0",
+  "packs": [
+    {
+      "name": "spawn-spec-local",
+      "kind": "spec",
+      "exec": false
+    }
+  ]
+}
