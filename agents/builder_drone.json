@@ -1,4 +1,8 @@
-
-
----
-📌 Arweave Hash: -uIKk8m02noAYWzkwnVPnlG0HvI6UQ6zqFihlg1sfQ8
+{
+  "spawn_cli": "code/spawn/spawn.py",
+  "intent": "builder_drone",
+  "description": "Placeholder. Use spawn CLI to invoke.",
+  "links": {
+    "spawn_v0": "docs/spawn.md"
+  }
+}

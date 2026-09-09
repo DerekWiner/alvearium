@@ -33,4 +33,16 @@ Plus the runnable slice:
 
 - `code/spawn` — bounded jobs, two free spawns, receipts, hash pins
 
+## 📖 Manifestos
+
+Core principles for each pillar:
+
+- [Alvearium Manifesto](./pages/Manifesto_alvearium.md)
+- [Hive Manifesto](./pages/Manifesto_hive.md)
+- [Kernel69 Manifesto](./pages/Manifesto_kernel69.md)
+- [Nectar Manifesto](./pages/Manifesto_nectar.md)
+- [Waggle Manifesto](./pages/Manifesto_waggle.md)
+
+See also: [Whitepapers](./pages/README.md) · [Anchors & Trust](./pages/anchors.md)
+
 📌 Arweave Hash: BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo
