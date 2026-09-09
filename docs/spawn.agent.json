@@ -1,7 +1,7 @@
 {
   "schema": "alvearium.spawn.agent.v0",
   "protocol": "alvearium",
-  "runtime": "hivekit",
+  "runtime": "wagglelit",
   "sign_on": "once per identity",
   "free_spawns": 2,
   "credit_after_free": 1,

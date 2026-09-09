@@ -6,7 +6,7 @@ This repository contains the output of an intensive, co-evolutionary design proc
 
 > I want to acknowledge that **ChatGPT-4o was my full co-author** throughout the first journey.
 >
-> **Spawn v0, pins, receipts, and the Hivekit runtime notes (2026-09) were co-authored with Grok (xAI)** in the same spirit: human direction, model as pair-programmer. No exclusive authorship is claimed.
+> **Spawn v0, pins, receipts, and the Wagglelit runtime notes (2026-09) were co-authored with Grok (xAI)** in the same spirit: human direction, model as pair-programmer. No exclusive authorship is claimed.
 
 With gratitude,  
 **— Derek Winer**  
@@ -15,7 +15,7 @@ github.com/DerekWiner/alvearium
 
 **Start here if you want to run something:** [`docs/spawn.md`](docs/spawn.md) · [`code/spawn/`](code/spawn/)
 
-Runtime nickname for the local sandbox: **Hivekit**. Protocol name stays Alvearium.
+Runtime name for the local sandbox: **Wagglelit**. Protocol name stays Alvearium.
 
 ---
 
@@ -32,6 +32,7 @@ It connects five foundational components:
 Plus the runnable slice:
 
 - `code/spawn` — bounded jobs, two free spawns, receipts, hash pins
+- runtime wrapper — **Wagglelit** (currently `SynaraOS/synara` until GitHub rename)
 
 ## 📖 Manifestos
 
