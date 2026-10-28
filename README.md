@@ -6,6 +6,13 @@ This repository contains the output of an intensive, co-evolutionary design proc
 
 > I want to acknowledge that **ChatGPT-4o was my full co-author** throughout the first journey.
 >
+
+Research Infrastructure
+
+Alvearium explores the coordination layer for distributed AI agents. Its current runnable slice, code/spawn, provides bounded jobs, receipts and hash pins. These mechanisms may offer a foundation for reproducible AI research workflows, including experiment provenance, independent verification and coordination across existing tools.
+
+Research integrations are a direction for development, not yet a claim of a complete research platform.
+
 > **Spawn v0, pins, receipts, and the Wagglelit runtime notes (2026-09) were co-authored with Grok (xAI)** in the same spirit: human direction, model as pair-programmer. No exclusive authorship is claimed.
 
 With gratitude,  
