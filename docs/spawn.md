@@ -1,42 +1,51 @@
-# Alvearium Spawn (v0)
+# Alvearium Spawn prototype
 
-Working entry point. Not a token launch.
+**Status, local prototype. Not a token launch or production agent sandbox.**
 
-A **spawn** is a bounded agent habitat: intent + budget + tools + expiry.
-Clone stays free. Execution is metered.
+A spawn is currently a local record of a requested model task. The prototype accepts an identity string and an intent, tracks a simple local allowance, optionally calls a chat-completions endpoint, and writes a receipt.
 
-Runtime name: **Wagglelit** (repo still `SynaraOS/synara` until renamed).
+## What is implemented
 
-Co-authors: Derek Winer + Grok (xAI), 2026-09. Same co-creation pattern as the GPT-4o Alvearium pass.
+The current Python entry point is `code/spawn/spawn.py`.
 
-## One-time sign-on
+- A JSON ledger is stored under `.alvearium/ledger.json` by default.
+- The local ledger tracks identities, remaining free spawns, credits and spawn counts.
+- The runner accepts an intent string.
+- Without both `OPENAI_BASE_URL` and `OPENAI_API_KEY`, the model call returns a dry-run message.
+- When configured, it sends a chat-completions request to the supplied endpoint.
+- A receipt and output file are written under `.alvearium/sandbox/<spawn-id>/`.
 
-Identity is created **once** per subject:
+Set `ALVEARIUM_HOME` to use a different data directory.
 
-| Subject | How |
-|---|---|
-| Human | GitHub login, wallet signature, or Solana NFT mint hash listed in `pins.json` |
-| Agent | Parent receipt + its own pubkey |
+## What this script does not implement
 
-Sign-on writes a local ledger row. It does **not** charge. Charge happens on **spawn**.
+The script does not itself provide authentication of a GitHub account, wallet or NFT; cryptographic proof that an identity string belongs to a person; secure operating-system sandboxing; a technical prohibition on network access; hosted account management; payment processing; on-chain receipt verification; or production concurrency control.
 
-Free tier is **two spawns per identity**.
+The model prompt is not a security boundary. Do not run untrusted generated code or expose credentials to a process that has not been isolated and reviewed.
 
-## Credits
+## Local use
 
-| Event | Cost |
-|---|---|
-| Sign-on | $0 |
-| Spawn 1–2 | 0 credits |
-| Spawn 3–102 | 1 credit each |
-| Failed / denied | 0 |
+From the repository root:
 
-Hosted operators sell credit packs (Stripe or Solana Pay). Self-host sets credits locally.
+```bash
+python3 code/spawn/spawn.py sign-on --identity local:dev
+python3 code/spawn/spawn.py spawn --identity local:dev --intent "Summarise the supplied task."
+python3 code/spawn/spawn.py status
+```
 
-## Intent / receipt
+The prototype stores state locally. The `credit` command manually increments the local counter. This script does not integrate Stripe, Solana Pay or a hosted billing backend.
 
-See `code/spawn/spawn.py`. Receipts land in `.alvearium/sandbox/<id>/receipt.json`.
+## Model endpoint configuration
 
-## Agent front door
+Set `OPENAI_BASE_URL`, `OPENAI_API_KEY` and `OPENAI_MODEL` in the environment when using a compatible endpoint. Never commit real API keys. Use a Git-ignored local environment file or a suitable secret manager.
 
-`docs/spawn.agent.json`
+## Receipts
+
+Receipts record the intent, a hash of the intent, identity string, lane, credit count, elapsed time, status and output. A receipt is useful for local inspection, but it is not a signed attestation and does not independently prove that a claimed action occurred.
+
+## Related files
+
+- `code/spawn/spawn.py`
+- `code/spawn/README.md`
+- `code/spawn/pins.json`
+- `code/spawn/genesis.example.json`
