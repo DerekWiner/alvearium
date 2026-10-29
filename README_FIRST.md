@@ -1,50 +1,29 @@
+# Alvearium repository guide
 
-# 🐝 README_FIRST.md – Start Here
+This guide points to the current repository layout and distinguishes runnable code from specifications and historical material.
 
-Welcome to **Alvearium** — the world's first living operating system on-chain.
+## Start here
 
-This is not just a software project. It’s a swarm of documents, protocols, and agents — built to grow, learn, and act without central control.
+| Goal | Start with |
+| --- | --- |
+| Run the local prototype | [Spawn guide](docs/spawn.md), then [spawn code guide](code/spawn/README.md) |
+| Review implementation | `code/spawn/spawn.py`, `code/spawn/pins.json`, and tests where present |
+| Study architecture | `docs/`, `pages/`, and linked component repositories |
+| Review historical provenance | `docs/anchors.md`, noting that it describes an earlier snapshot |
+| Reuse code or assets | Read `LICENSE` and confirm applicable terms before copying |
 
-This file will help you understand:
-- What Alvearium is
-- How it works
-- Where to begin if you’re learning, building, or auditing
+## Current status
 
----
+The local spawn runner is a prototype. Other identity, governance, value, memory and chain capabilities may be described in documents or component repositories, but should not be assumed to be integrated into this runnable slice.
 
-## 🧭 Where to Begin (For Learners, Builders, Auditors)
+## Repository map
 
-| Role       | Start With...                          | Then Explore...                        |
-|------------|----------------------------------------|----------------------------------------|
-| 👩‍🎓 Learner   | `README_FIRST.md`, Summary section     | `manifestos/`, `whitepapers/`, `rituals/` |
-| 👷‍♂️ Builder   | `anchors.md`, `ritual_engine.md`      | `kernel69/`, `nectar/`, `agents/`         |
-| 🔍 Auditor   | `anchors.md`, `anchors_metadata.md`   | `anchors_manifest_hash.md`, source files |
+- `code/spawn/` contains the local spawn prototype and related configuration examples.
+- `docs/` contains design and implementation notes.
+- `pages/` contains manifesto and whitepaper material.
+- Asset and schematic files provide visual material.
+- `LICENSE` contains custom terms combined with CC0 material. Do not assume this is equivalent to an unmodified standard open-source license.
 
----
+## Historical documents
 
-## 🗂 File Categories (Swarm Paradigm)
-
-| Category         | Folder / File                   | Description                             |
-|------------------|----------------------------------|-----------------------------------------|
-| 🧠 Core Ideas     | `manifestos/`                    | Semantic blueprints and swarm laws      |
-| 📄 Whitepapers    | `whitepapers/`                   | Protocol design documents per subsystem |
-| ⚙️ Engine Runtime | `ritual_engine.md`, `agents/`     | How behaviors run and interact          |
-| 🔐 Trust Anchors  | `anchors.md`, `anchors_metadata.md`, `anchors_manifest_hash.md` | Tamper-evident hash records |
-| 📦 Bootstrap      | `swam_init.sh`, `LICENSE`         | Minimal scripts and legal wrapper       |
-| 🎓 Learning Aids  | `README_FIRST.md`, `docs/`        | Entry-level material for all readers    |
-
----
-
-## 🌐 Paradigm Summary
-
-| THEN | NOW | ALCHEMY |
-|------|-----|---------|
-| Web2 (platforms) | Web3 (coins) | Web69 (living computer) |
-| Apps run on servers | Apps run on chains | Apps run on memory+ritual |
-| You give data | You get tokens | You grow the system |
-
-🪞 This isn’t just software.
-
-It’s a mirror.  
-It’s a swarm.  
-It’s the **living internet**.
+Older documents may refer to paths and scripts that are not present at those locations in the current tree. Treat such references as historical until checked against the current repository. An old anchor list is not proof that the current working tree matches an earlier snapshot.
