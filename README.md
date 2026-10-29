@@ -1,3 +1,13 @@
+> **Implementation status**
+>
+> The current runnable slice is `code/spawn/`, a local Python prototype with a file-backed ledger and receipts. It is not a production agent sandbox, hosted billing system, on-chain identity provider or complete agent operating system. The broader identity, governance, value, memory and chain architecture remains a mix of specifications and separate component projects.
+>
+> The model prompt is not an operating-system security boundary. The spawn prototype does not itself implement Stripe or Solana Pay processing. See [the spawn guide](docs/spawn.md) for implemented behaviour and limitations.
+>
+> **Licensing note** — The current `LICENSE` contains custom terms combined with CC0 material. Do not assume it is equivalent to an unmodified standard open-source license. A project-wide licensing decision is still needed.
+>
+> ---
+>
 # 🐝 Alvearium: The Intelligence Web Kernel
 
 ## 📜 Project Disclaimer
@@ -26,7 +36,7 @@ Runtime name for the local sandbox: **Wagglelit**. Protocol name stays Alvearium
 
 ---
 
-**Alvearium is a decentralized semantic operating system** spanning agentic intelligence, trust mechanics, gasless computation, and recursive memory infrastructure.
+**Alvearium explores a decentralised coordination architecture** spanning agentic intelligence, trust mechanics, and recursive memory concepts. The degree of implementation varies by component.
 
 It connects five foundational components:
 
@@ -38,7 +48,7 @@ It connects five foundational components:
 
 Plus the runnable slice:
 
-- `code/spawn` — bounded jobs, two free spawns, receipts, hash pins
+- `code/spawn` — local prototype for bounded model requests, a file-backed ledger and receipts
 - runtime wrapper — **Wagglelit** (currently `SynaraOS/synara` until GitHub rename)
 
 ## 📖 Manifestos
