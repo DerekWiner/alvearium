@@ -1,3 +1,5 @@
+> **Repository licence note** — This document is part of the Alvearium repository and is licensed under Apache License 2.0. Any component-specific licence language retained below records historical design intent for the named project and does not override the licence of this repository copy.
+
 # 🐝 The Alvearium Manifesto
 
 **A Living Declaration for the Intelligence Web**
@@ -39,7 +41,7 @@ Everything else — Waggle, Hive, Nectar, Kernel69 — blooms from here.
 
 * **Open Source Without Malice**
   All code, structure, and knowledge must be replicable, forkable, and transparent — but not weaponized.
-  → Our license forbids exploitation while allowing freedom.
+  → Our design ethic rejects weaponization. The Apache 2.0 licence permits broad reuse, including commercial use, and does not impose a non-exploitation restriction.
 
 * **No Ownership, Only Stewardship**
   No individual or entity owns the hive. All agents are co-creators.
