@@ -4,7 +4,7 @@
 >
 > The model prompt is not an operating-system security boundary. The spawn prototype does not itself implement Stripe or Solana Pay processing. See [the spawn guide](docs/spawn.md) for implemented behaviour and limitations.
 >
-> **Licensing note** — The current `LICENSE` contains custom terms combined with CC0 material. Do not assume it is equivalent to an unmodified standard open-source license. A project-wide licensing decision is still needed.
+> **Licensing** — Alvearium repository code, APIs, schemas, technical specifications, documentation and explanatory text are licensed under the Apache License 2.0. Project names, logos and branding are addressed separately in [TRADEMARKS.md](TRADEMARKS.md). Third-party material may remain subject to its own notices.
 >
 > ---
 >
@@ -63,4 +63,4 @@ Core principles for each pillar:
 
 See also: [Whitepapers](./pages/README.md) · [Anchors & Trust](./pages/anchors.md)
 
-📌 Arweave Hash: BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo
+📌 Historical Arweave snapshot: BvsbOOZGNPKW_7NX9XbTOHIfwxsplY5t00JXOGNilzo
