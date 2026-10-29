@@ -1,3 +1,5 @@
+> **Repository licence note** — This document is part of the Alvearium repository and is licensed under Apache License 2.0. Any component-specific licence language retained below records historical design intent for the named project and does not override the licence of this repository copy.
+
 # 🏛️ Whitepaper: Hive.bnb
 
 **Hive.bnb – The Swarm Governance & Organizational Memory Layer**
