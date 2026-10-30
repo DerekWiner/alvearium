@@ -51,6 +51,16 @@ Plus the runnable slice:
 - `code/spawn` — local prototype for bounded model requests, a file-backed ledger and receipts
 - runtime wrapper — **Wagglelit** (currently `SynaraOS/synara` until GitHub rename)
 
+## Alvearium Genesis
+
+The Genesis protocol is being developed as an evolutionary framework for independently created, recursively extensible and interoperable gateways. It is a foundational proposal, not a claim that these capabilities are already implemented.
+
+- [Genesis Protocol v0.2.0-draft](./docs/GENESIS_PROTOCOL.md)
+- [Genesis Initial Conformance and Demonstration Plan](./docs/GENESIS_CONFORMANCE_PLAN.md)
+- [Genesis Architecture Review](./docs/genesis-architecture-review.md)
+
+The intended long-term home is a dedicated Genesis repository. These documents are staged here so the protocol can be reviewed and versioned while that repository is established.
+
 ## 📖 Manifestos
 
 Core principles for each pillar:
