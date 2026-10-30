@@ -53,13 +53,12 @@ Plus the runnable slice:
 
 ## Alvearium Genesis
 
-The Genesis protocol is being developed as an evolutionary framework for independently created, recursively extensible and interoperable gateways. It is a foundational proposal, not a claim that these capabilities are already implemented.
+Genesis is maintained in its own repository as an evolutionary protocol for independently created, recursively extensible and interoperable gateways. Its specifications are proposals and implementation targets, not claims that all capabilities are already deployed.
 
-- [Genesis Protocol v0.2.0-draft](./docs/GENESIS_PROTOCOL.md)
-- [Genesis Initial Conformance and Demonstration Plan](./docs/GENESIS_CONFORMANCE_PLAN.md)
-- [Genesis Architecture Review](./docs/genesis-architecture-review.md)
-
-The intended long-term home is a dedicated Genesis repository. These documents are staged here so the protocol can be reviewed and versioned while that repository is established.
+- [Genesis repository](https://github.com/DerekWiner/alvearium-genesis)
+- [Genesis Protocol v0.2.0-draft](https://github.com/DerekWiner/alvearium-genesis/blob/main/docs/GENESIS_PROTOCOL.md)
+- [Initial Conformance and Demonstration Plan](https://github.com/DerekWiner/alvearium-genesis/blob/main/docs/GENESIS_CONFORMANCE_PLAN.md)
+- [Alvearium Integration Review](https://github.com/DerekWiner/alvearium-genesis/blob/main/docs/ALVEARIUM_INTEGRATION_REVIEW.md)
 
 ## 📖 Manifestos
 
